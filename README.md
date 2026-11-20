@@ -66,6 +66,17 @@ If the 07:00 run is late and `brief/articles.json` is not from today, the routin
 
 **See or run the routine.** Open <https://claude.ai>, go to **Code**, then **Routines**. You can see past runs there, and run it now by hand.
 
+## Security
+
+News text comes from public RSS feeds, so anyone can write it. The project treats it as untrusted.
+
+- **The site escapes news text.** Titles, summaries and sources are shown as plain text, never run as HTML.
+- **The brief is checked before it is shown.** The routine reads news text, so a news item could try to trick it. `app.py` keeps only brief items whose link is one of the day's articles in `brief/articles.json`. It drops items with missing fields, cuts long text, and shows at most five.
+- **The workflow only builds pushes that change the brief.** If a push changes any file other than `brief/summary.json`, or that file is over 64 KB, the run stops before anything is built or published.
+- **That check has a limit.** A push that edits the workflow file itself runs its own edited workflow, so the check can't stop it. GitHub permissions are the real limit. Install the Claude GitHub App on this repository only. Protect `main` with a ruleset. Turn on two-factor authentication for your GitHub account.
+- **Versions are pinned.** `requirements.txt` lists exact versions of every Python package. Each GitHub Action is pinned to a fixed commit.
+- **The local app only answers on 127.0.0.1.** It rejects requests that use any other host name, and the refresh button needs a JSON request. Another website open in your browser can't use it.
+
 ## Features
 
 - **Top stories**: three featured cards, ranked by how many outlets ran the story, recency, and whether there's an image

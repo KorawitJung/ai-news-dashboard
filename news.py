@@ -22,6 +22,7 @@ SUMMARY_PATH = BASE_DIR / "brief" / "summary.json"
 ARTICLES_PATH = BASE_DIR / "brief" / "articles.json"
 KEEP_DAYS = 30
 USER_AGENT = "Mozilla/5.0 (AI-News-Dashboard; personal RSS reader)"
+MAX_FEED_BYTES = 5 * 1024 * 1024
 
 # Feeds need no API keys. Add or remove freely.
 # A feed can set "category" to override keyword tagging for everything it returns,
@@ -153,7 +154,10 @@ def _download(url: str, attempts: int = 2) -> bytes:
     for attempt in range(attempts):
         try:
             with urllib.request.urlopen(request, timeout=20) as response:
-                return response.read()
+                body = response.read(MAX_FEED_BYTES + 1)
+            if len(body) > MAX_FEED_BYTES:
+                raise ValueError("feed larger than 5 MB")
+            return body
         except urllib.error.HTTPError as exc:
             # Rate limited or briefly down: wait and try once more.
             if exc.code not in (429, 500, 502, 503, 504) or attempt == attempts - 1:

@@ -12,13 +12,14 @@ import threading
 import time
 from datetime import datetime, timedelta
 
-from flask import Flask, jsonify, render_template, request
+from flask import Flask, abort, jsonify, render_template, request
 
 import news
 
 REFRESH_HOUR = int(os.getenv("NEWS_REFRESH_HOUR", "7"))
 REFRESH_MINUTE = int(os.getenv("NEWS_REFRESH_MINUTE", "0"))
 PORT = int(os.getenv("NEWS_PORT", "5050"))
+ALLOWED_HOSTS = {f"127.0.0.1:{PORT}", f"localhost:{PORT}"}
 TOP_SOURCES = {"TechCrunch", "The Verge", "Wired", "MIT Tech Review", "Ars Technica", "Reuters",
                "Bloomberg", "The New York Times", "Financial Times", "CNBC", "VentureBeat"}
 
@@ -102,10 +103,52 @@ def pick_featured(articles: list[dict], count: int = 3) -> list[int]:
 
 # --------------------------------------------------------------------------- payload
 
-def load_summary() -> dict | None:
-    if not news.SUMMARY_PATH.exists():
+MAX_BRIEF_ITEMS = 5
+MAX_MODEL_CHARS = 60
+# Max length per brief item field. None means keep as is: the url must match articles.json exactly.
+BRIEF_ITEM_LIMITS = {"title_th": 200, "summary_th": 600, "title_en": 200, "summary_en": 600,
+                     "url": None, "source": 100}
+
+
+def clean_summary(raw: object, known_urls: set[str]) -> dict | None:
+    """Keep only brief items that are well formed and point at one of the day's articles.
+
+    The brief is written by a routine that reads untrusted news text, so treat it as untrusted too.
+    """
+    if not isinstance(raw, dict) or not isinstance(raw.get("items"), list):
         return None
-    return json.loads(news.SUMMARY_PATH.read_text(encoding="utf-8"))
+    generated, model = raw.get("generated"), raw.get("model")
+    if not isinstance(generated, str) or not isinstance(model, str):
+        return None
+
+    items, seen_urls = [], set()
+    for item in raw["items"]:
+        if not isinstance(item, dict):
+            continue
+        if not all(isinstance(item.get(field), str) and item[field].strip() for field in BRIEF_ITEM_LIMITS):
+            continue
+        url = item["url"]
+        if not url.startswith(("https://", "http://")) or url not in known_urls or url in seen_urls:
+            continue
+        seen_urls.add(url)
+        items.append({field: item[field] if limit is None else item[field][:limit]
+                      for field, limit in BRIEF_ITEM_LIMITS.items()})
+        if len(items) == MAX_BRIEF_ITEMS:
+            break
+
+    if not items:
+        return None
+    return {"generated": generated, "model": model[:MAX_MODEL_CHARS], "items": items}
+
+
+def load_summary() -> dict | None:
+    try:
+        articles = json.loads(news.ARTICLES_PATH.read_text(encoding="utf-8"))["articles"]
+        known_urls = {a["url"] for a in articles if isinstance(a, dict) and isinstance(a.get("url"), str)}
+        raw = json.loads(news.SUMMARY_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError, KeyError, TypeError):
+        return None
+    return clean_summary(raw, known_urls)
 
 
 def build_payload(days: int) -> dict:
@@ -125,6 +168,13 @@ def build_payload(days: int) -> dict:
 
 # --------------------------------------------------------------------------- routes
 
+@app.before_request
+def reject_foreign_hosts():
+    # A DNS-rebinding page reaches 127.0.0.1 under its own hostname, so only our names are served.
+    if request.host not in ALLOWED_HOSTS:
+        abort(403)
+
+
 @app.get("/")
 def index():
     return render_template("index.html")
@@ -138,6 +188,9 @@ def api_news():
 
 @app.post("/api/refresh")
 def api_refresh():
+    # A JSON body forces a CORS preflight, which a cross-site form or fetch can't pass.
+    if not request.is_json:
+        abort(415)
     return jsonify(news.refresh())
 
 

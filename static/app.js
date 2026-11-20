@@ -313,7 +313,11 @@ async function refreshNow() {
   btn.classList.add("spinning");
   $("#status-text").textContent = "Fetching the latest stories…";
   try {
-    const res = await fetch("api/refresh", { method: "POST" });
+    const res = await fetch("api/refresh", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: "{}",
+    });
     const r = await res.json();
     if (r.status === "busy") toast("Already updating — hang on a moment");
     else {
