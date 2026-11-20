@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T20:02:01+07:00",
+ "generated": "2026-11-20T20:12:37+07:00",
  "articles": [
   {
    "title": "Google gives Gemini the ability to use your Mac for you",
@@ -56,6 +56,14 @@
    "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
    "coverage": 2,
    "published": "2026-11-19T18:21:13+00:00"
+  },
+  {
+   "title": "Opinion | Artificial intelligence flourished in California election advertising — and divided voters",
+   "source": "CalMatters",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2ZIVFhQbmxWX215UDE3NkV4MTFjWDVfZnB0UU5tQnJBdzA1Y2hvRHRhZTNhejFiYmRNbnRSc2dNS2ZDYThBU0g3NHlham5vVHlBTTdKVXU4UmNha2xoSnNEeGtDejNoMXJHSjhocHdTR0V6R0NhU0lQTHJ0SnN5R3Rjd3lJZEdVd1lPYlI0M1pZMXhzZ0ZKbTAtS082c00?oc=5",
+   "coverage": 1,
+   "published": "2026-11-20T13:00:00+00:00"
   },
   {
    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -312,14 +320,6 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDg1RjdrSUF2UjNJdjFRRTh6WUtINHUzTVNtdHkxX08wSDEydndlSUNJSVVhMHlEenVIb091NzhsZWk2ZmF1czNFN1VtLVdaTlBPT1J3NHVjNmRreC1JQ3VLOHVhUzM5RzFrbEtHTzVEa2hZZlU0dTdvQlB4QXRfWWotd21KdWxUNU1nNUdmbjFOTGtaUXNmZDJEdkJhQ3F4MF9HLW01REp3QQ?oc=5",
    "coverage": 1,
    "published": "2026-11-20T09:02:15+00:00"
-  },
-  {
-   "title": "Cranial Suture Stem Cells and Artificial Intelligence Point Toward Biological Craniosynostosis Therapies",
-   "source": "Bioengineer.org",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWmJBVXZKQldZS1NRa09vSEV2aVNqd24tZVZJLXNUQ2gzM00yZk5nQm5TYnd6T19OT0Jia00wbHJPMWY3TlFRb2pVTl9RUHNTdFlNNVBFMUNZNHZINERGTmFrWGJBZ0RBNVlaQm1FYTVKU0p2Smpac2tvSUtGNGstYWx5ejAycDB1ZFV1NEU0WWZkc0ZXSGl3bE1zSlppSlFTaU5qZEViNHctTXdEUERUWG9Tb3NlaUtJZjZ2VnUwTzgweVBUYzltYQ?oc=5",
-   "coverage": 1,
-   "published": "2026-11-20T08:56:53+00:00"
   }
  ]
 }
