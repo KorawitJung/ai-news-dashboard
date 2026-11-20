@@ -1,13 +1,5 @@
 # AI Daily
 
-> ⚠️ **คำเตือน / Disclaimer**
-> โปรเจกต์นี้ทำขึ้น **เพื่อการศึกษาเท่านั้น** ไม่ได้ใช้ในเชิงพาณิชย์ ไม่ใช่คำแนะนำการลงทุน
-> และไม่ได้มีเจตนาทำให้บุคคลหรือองค์กรใดเสียหาย ข้อมูลเป็นของธนาคารแห่งประเทศไทย (ธปท.)
-> โปรดตรวจสอบตัวเลขกับแหล่งข้อมูลทางการก่อนนำไปใช้ทุกครั้ง
->
-> *For educational purposes only. Not for commercial use, not investment advice, and not
-> intended to harm any person or organization. Data belongs to the Bank of Thailand.*
-
 A Python dashboard of the day's AI news. It pulls headlines from about a dozen public RSS feeds, sorts them into topics, and updates every morning.
 
 **Open the live dashboard: https://korawitjung.github.io/ai-news-dashboard/**
