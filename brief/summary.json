@@ -1,0 +1,46 @@
+{
+  "generated": "2026-11-20T20:12:16+07:00",
+  "model": "claude-sonnet-5-5 (routine)",
+  "items": [
+    {
+      "title_th": "Gemini บน Mac ใช้งานคอมพิวเตอร์แทนผู้ใช้ได้แล้ว",
+      "summary_th": "แอป Gemini สำหรับ macOS เพิ่มความสามารถ computer use ให้เอเจนต์จัดการไฟล์ กรอกแบบฟอร์ม และทำงานหลายขั้นตอนข้ามแอปบนเครื่องและเว็บได้ ถือเป็นก้าวของเอเจนต์ AI ที่ลงมาทำงานบนเดสก์ท็อปโดยตรง",
+      "title_en": "Gemini for Mac gains computer use",
+      "summary_en": "Google's Gemini app for macOS can now organize local files, fill in forms and complete multi-step tasks across desktop apps and the web. It moves AI agents onto the desktop itself.",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch"
+    },
+    {
+      "title_th": "Apple เปิดรับวิศวกรสร้าง AI Agent ของตัวเอง",
+      "summary_th": "ประกาศรับสมัครงานที่ Bloomberg พบระบุว่า Apple กำลังพัฒนาเอเจนต์ AI ที่เบราว์เซอร์เว็บ ทำงานข้ามแอป เขียนโค้ด และเรียกใช้บริการต่าง ๆ ได้ สะท้อนว่า Apple เตรียมแข่งในตลาดเอเจนต์",
+      "title_en": "Apple is hiring engineers to build its own AI agent",
+      "summary_en": "A job listing spotted by Bloomberg says Apple is building an agent that can browse the web, work across apps, write code and call services. It suggests Apple is preparing to compete in agents.",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge"
+    },
+    {
+      "title_th": "Signal จำกัดการแคปหน้าจอ กันเอเจนต์ AI อ่านข้อความ",
+      "summary_th": "Signal จำกัดการจับภาพหน้าจอบน Android และ iOS เพื่อไม่ให้เอเจนต์ AI ที่ฝังในระบบปฏิบัติการ เช่น Gemini และ Siri อ่านข้อความและข้อมูลของผู้ใช้ ประเด็นนี้ชี้ถึงความกังวลด้านความเป็นส่วนตัวเมื่อ AI อ่านหน้าจอได้",
+      "title_en": "Signal blocks Gemini and Siri AI from reading your screen",
+      "summary_en": "Signal is restricting screenshots on Android and iOS so OS-level AI agents cannot read users' messages and other data. It highlights privacy concerns as AI gains access to on-screen content.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "source": "The Verge"
+    },
+    {
+      "title_th": "Meta Muse Charm อุปกรณ์สวมใส่ AI อาจราคา 300 ดอลลาร์",
+      "summary_th": "The Information รายงานว่า Meta วางแผนตั้งราคา Muse Charm อุปกรณ์เล็กมีหน้าจอสำหรับคุยกับเอเจนต์ Muse AI ที่ราว 300 ดอลลาร์ โดย Meta ยังไม่ปฏิเสธและระบุว่าจะมีข้อมูลเพิ่มเติมเร็ว ๆ นี้",
+      "title_en": "Meta's Muse Charm may cost $300",
+      "summary_en": "The Information reports Meta plans to price the Muse Charm, a small screen device for chatting with its Muse AI agent, at $300. Meta did not deny it and said it will share more soon.",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "source": "The Verge"
+    },
+    {
+      "title_th": "ก.ล.ต. ชู AI ยกระดับกำกับตลาดทุนไทย พร้อมเผย 4 งานวิจัย",
+      "summary_th": "สำนักงาน ก.ล.ต. ระบุว่าจะใช้ AI ยกระดับการกำกับดูแลตลาดทุน และเปิดเผยงานวิจัย 4 เรื่องที่ชี้ช่องปรับเกณฑ์ ตั้งแต่ Finfluencer ไปจนถึงสภาพคล่องหุ้น",
+      "title_en": "Thai SEC promotes AI for capital market oversight, releases 4 studies",
+      "summary_en": "Thailand's SEC says it will use AI to strengthen capital market supervision and released four studies on possible rule changes, from finfluencers to stock liquidity.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xTkl5cUZwVFhFVV9iSVdxd2kyMk1XRmF1VXFfQXZ5QjI1Ny1pVWotc0tFR3VuRGJzRVdoMU9RcktuelQ0cDZ1bUpaVXl3djFXV2RTVktR?oc=5",
+      "source": "LINE TODAY"
+    }
+  ]
+}
