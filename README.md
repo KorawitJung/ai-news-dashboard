@@ -124,6 +124,7 @@ A feed that fails is skipped and the rest still update. For example, VentureBeat
 >- **The morning brief is written by AI.** Claude writes it automatically from the day's headlines, and nobody checks it before it is published. It can get facts wrong, miss context or mistranslate. Check the original article before you rely on it or share it.
 >- **This is not professional advice.** Nothing on the dashboard is financial, investment, legal or medical advice.
 >- **No guarantee.** Feeds can fail, stories can be missing or late, and the site can go down. The software is provided as is, under the license below.
+>
 >**ข้อจำกัดความรับผิดชอบ.** ข่าวทั้งหมดเป็นของสำนักข่าวต้นทาง แดชบอร์ดนี้แสดงเพียงพาดหัวและสรุปสั้นจาก RSS สาธารณะ พร้อมลิงก์ไปยังข่าวต้นฉบับ และไม่มีส่วนเกี่ยวข้องกับสำนักข่าวใด สรุปข่าวเช้าเขียนโดย AI (Claude) โดยอัตโนมัติและไม่มีคนตรวจก่อนเผยแพร่ จึงอาจมีข้อผิดพลาดหรือแปลคลาดเคลื่อน โปรดตรวจสอบกับข่าวต้นฉบับก่อนนำไปใช้หรือแชร์ เนื้อหาทั้งหมดไม่ใช่คำแนะนำด้านการเงิน การลงทุน กฎหมาย หรือการแพทย์
 
 ## License
