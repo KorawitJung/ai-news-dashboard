@@ -1,10 +1,16 @@
 # AI Daily
 
-A local Python dashboard of the day's AI news. It pulls headlines from about a dozen public RSS feeds, sorts them into topics, and updates every morning.
+A Python dashboard of the day's AI news. It pulls headlines from about a dozen public RSS feeds, sorts them into topics, and updates every morning.
 
-## Run it
+**Open the live dashboard: https://korawitjung.github.io/ai-news-dashboard/**
+
+It works from any device and updates itself each morning, with a Thai and English brief written by Claude.
+
+## Run it on your own computer
 
 Double-click **`start_dashboard.bat`**. The first run sets up a virtual environment. The dashboard then opens at <http://127.0.0.1:5050>.
+
+That address points at your own computer, not at GitHub. It only works on the computer running `start_dashboard.bat`, while that window stays open.
 
 To run it by hand:
 
