@@ -18,7 +18,8 @@ import feedparser
 
 BASE_DIR = Path(__file__).resolve().parent
 DB_PATH = BASE_DIR / "data" / "news.db"
-SUMMARY_PATH = BASE_DIR / "data" / "summary.json"
+SUMMARY_PATH = BASE_DIR / "brief" / "summary.json"
+ARTICLES_PATH = BASE_DIR / "brief" / "articles.json"
 KEEP_DAYS = 30
 USER_AGENT = "Mozilla/5.0 (AI-News-Dashboard; personal RSS reader)"
 

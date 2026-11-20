@@ -37,26 +37,34 @@ To change the in-app refresh time, set environment variables before starting: `N
 The workflow in `.github/workflows/daily.yml` runs on GitHub's servers every day at 07:00 Bangkok time. Each run:
 
 1. Fetches the latest news into `data/news.db`. The database is kept between runs in the Actions cache, so the Week view fills up over time.
-2. Asks Claude Sonnet 5.5 for a short morning brief of the top stories, in Thai with an English version under each item (`summarize.py`).
+2. Writes the top 40 stories of the last 24 hours to `brief/articles.json` (`export_brief_input.py`) and commits it. GitHub turns off scheduled workflows in repositories with no recent commits, and this daily commit keeps it running.
 3. Builds a static copy of the dashboard in `site/` (`build_static.py`).
 4. Publishes it to GitHub Pages at `https://<user>.github.io/ai-news-dashboard/`.
-5. Commits a one-line `last-run.txt`. GitHub turns off scheduled workflows in repositories with no recent commits, and this keeps it running.
 
 To set it up:
 
 1. Push this folder to a GitHub repository named `ai-news-dashboard`.
 2. In the repository, open **Settings > Pages** and set **Source** to **GitHub Actions**.
-3. Add your Claude API key: **Settings > Secrets and variables > Actions > New repository secret**. Name it `ANTHROPIC_API_KEY` and paste the key as the value.
-
-You can skip step 3 at first. Without the key, the site still updates every morning. It just has no morning brief until you add the key.
-
-The API key comes from <https://platform.claude.com>. API usage is billed separately from a Claude chat subscription (Pro or Max), so you need to add credit there even if you already pay for Claude.
-
-**Cost (an estimate).** The brief is one Claude Sonnet 5.5 call per day, roughly 10K input and 3K output tokens. At $2 per million input tokens and $10 per million output tokens, that is about $0.05 a day. Fetching feeds and hosting on GitHub Pages are free for public repositories.
 
 **Timing.** GitHub can start scheduled runs late, sometimes by 30 minutes or more when its servers are busy.
 
 **Run it by hand.** Open the **Actions** tab, pick **Daily AI news**, and click **Run workflow**. On the published site, the refresh button links to this page.
+
+## Morning brief from Claude (no API key)
+
+The Thai and English morning brief comes from a Claude Code routine. It runs in the cloud on your Claude plan, so there is no API key and no separate bill.
+
+Each morning at about 07:30 Bangkok time, the routine:
+
+1. Clones this repository and reads `brief/articles.json`.
+2. Picks the five biggest AI stories and writes them in Thai, with English under each one, to `brief/summary.json`.
+3. Commits and pushes that file.
+
+The push starts the workflow again, which rebuilds the site with the new brief.
+
+If the 07:00 run is late and `brief/articles.json` is not from today, the routine skips that day. It does not summarize old news. The site keeps the last brief until the next one.
+
+**See or run the routine.** Open <https://claude.ai>, go to **Code**, then **Routines**. You can see past runs there, and run it now by hand.
 
 ## Features
 
@@ -76,9 +84,10 @@ The API key comes from <https://platform.claude.com>. API usage is billed separa
 | `news.py` | Feed list, fetching, topic tagging, SQLite storage (`data/news.db`, keeps 30 days) |
 | `app.py` | Flask server, JSON API, morning scheduler, top-story ranking |
 | `update_news.py` | Fetches once and exits (used by Task Scheduler) |
-| `summarize.py` | Asks Claude for the Thai + English morning brief and writes `data/summary.json` (skipped without `ANTHROPIC_API_KEY`) |
+| `export_brief_input.py` | Writes the day's top 40 stories to `brief/articles.json` for the Claude Code routine |
+| `brief/` | `articles.json` (the routine's input) and `summary.json` (the Thai + English brief the routine writes, shown above Top stories) |
 | `build_static.py` | Builds the static GitHub Pages copy of the dashboard in `site/` |
-| `.github/workflows/daily.yml` | Daily GitHub Actions run: fetch, brief, build, publish |
+| `.github/workflows/daily.yml` | Daily GitHub Actions run: fetch, export brief input, build, publish. Runs again when the routine pushes the brief |
 | `templates/`, `static/` | Dashboard UI (HTML, CSS, vanilla JS) |
 
 ## Adding or changing sources

@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: "0 0 * * *"   # 07:00 Asia/Bangkok
   workflow_dispatch:
+  push:   # the Claude Code routine pushes the morning brief; rebuild so it shows on the site
+    branches: [main]
+    paths: ["brief/summary.json"]
 permissions:
   contents: write
   pages: write
@@ -30,20 +33,16 @@ jobs:
           key: newsdb-${{ github.run_id }}
           restore-keys: newsdb-
       - run: python update_news.py
-      - name: Claude morning brief
-        run: python summarize.py
-        continue-on-error: true
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      - run: python build_static.py
-      - name: Record last run (keeps the scheduled workflow active)
+      - run: python export_brief_input.py
+      - name: Commit brief input (also keeps the scheduled workflow active)
         run: |
-          tail -n 1 data/update.log > last-run.txt
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add last-run.txt
+          git add brief/articles.json
           git commit -m "Daily news update" || echo "nothing to commit"
+          git pull --rebase -q origin main
           git push
+      - run: python build_static.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with: {path: site}
