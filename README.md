@@ -118,8 +118,9 @@ Topic keywords are in `CATEGORIES` in the same file.
 
 A feed that fails is skipped and the rest still update. For example, VentureBeat sometimes rate-limits.
 
-## Disclaimer
 
+## Disclaimer
+> [!WARNING]
 - **The news belongs to its publishers.** Headlines and short summaries come from the publishers' public RSS feeds, and every story links to the original article. This project is not affiliated with or endorsed by any of them. Read the full story on the publisher's site.
 - **The morning brief is written by AI.** Claude writes it automatically from the day's headlines, and nobody checks it before it is published. It can get facts wrong, miss context or mistranslate. Check the original article before you rely on it or share it.
 - **This is not professional advice.** Nothing on the dashboard is financial, investment, legal or medical advice.
