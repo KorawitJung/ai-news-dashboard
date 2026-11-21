@@ -143,8 +143,9 @@ def clean_summary(raw: object, known_urls: set[str]) -> dict | None:
 
 def load_summary() -> dict | None:
     try:
-        articles = json.loads(news.ARTICLES_PATH.read_text(encoding="utf-8"))["articles"]
-        known_urls = {a["url"] for a in articles if isinstance(a, dict) and isinstance(a.get("url"), str)}
+        brief_input = json.loads(news.ARTICLES_PATH.read_text(encoding="utf-8"))
+        known_urls = {a["url"] for a in brief_input["articles"] if isinstance(a, dict) and isinstance(a.get("url"), str)}
+        known_urls |= {u for u in brief_input.get("brief_urls", []) if isinstance(u, str)}
         raw = json.loads(news.SUMMARY_PATH.read_text(encoding="utf-8"))
     except (OSError, ValueError, KeyError, TypeError):
         return None

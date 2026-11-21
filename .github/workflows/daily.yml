@@ -1,7 +1,10 @@
 name: Daily AI news
 on:
+  # GitHub delays or drops scheduled runs when it is busy, worst at the top of the hour,
+  # so run off the hour and try twice before the 07:30 brief.
   schedule:
-    - cron: "0 0 * * *"   # 07:00 Asia/Bangkok
+    - cron: "13 23 * * *"   # 06:13 Asia/Bangkok
+    - cron: "43 23 * * *"   # 06:43 Asia/Bangkok, in case the first run is skipped
   workflow_dispatch:
   push:   # the Claude Code routine pushes the morning brief; rebuild so it shows on the site
     branches: [main]

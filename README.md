@@ -40,7 +40,7 @@ To change the in-app refresh time, set environment variables before starting: `N
 
 ## Run it on GitHub (every morning, no PC needed)
 
-The workflow in `.github/workflows/daily.yml` runs on GitHub's servers every day at 07:00 Bangkok time. Each run:
+The workflow in `.github/workflows/daily.yml` runs on GitHub's servers every morning at 06:13 Bangkok time, and again at 06:43 in case GitHub skipped the first run. Each run:
 
 1. Fetches the latest news into `data/news.db`. The database is kept between runs in the Actions cache, so the Week view fills up over time.
 2. Writes the top 40 stories of the last 24 hours to `brief/articles.json` (`export_brief_input.py`) and commits it. GitHub turns off scheduled workflows in repositories with no recent commits, and this daily commit keeps it running.
@@ -52,7 +52,7 @@ To set it up:
 1. Push this folder to a GitHub repository named `ai-news-dashboard`.
 2. In the repository, open **Settings > Pages** and set **Source** to **GitHub Actions**.
 
-**Timing.** GitHub can start scheduled runs late, sometimes by 30 minutes or more when its servers are busy.
+**Timing.** GitHub can start scheduled runs late, or skip them, when its servers are busy. The top of the hour is the busiest time, so the runs start at odd minutes, and the second run is a backup. A run that starts after the brief is published keeps that brief on the site.
 
 **Run it by hand.** Open the **Actions** tab, pick **Daily AI news**, and click **Run workflow**. On the published site, the refresh button links to this page.
 
@@ -68,7 +68,7 @@ Each morning at about 07:30 Bangkok time, the routine:
 
 The push starts the workflow again, which rebuilds the site with the new brief.
 
-If the 07:00 run is late and `brief/articles.json` is not from today, the routine skips that day. It does not summarize old news. The site keeps the last brief until the next one.
+If both morning runs are skipped or late and `brief/articles.json` is not from today, the routine skips that day. It does not summarize old news. The site keeps the last brief until the next one.
 
 **See or run the routine.** Open <https://claude.ai>, go to **Code**, then **Routines**. You can see past runs there, and run it now by hand.
 
