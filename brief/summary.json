@@ -1,46 +1,46 @@
 {
-  "generated": "2026-11-20T20:12:16+07:00",
+  "generated": "2026-11-21T10:52:03+07:00",
   "model": "claude-sonnet-5-5 (routine)",
   "items": [
     {
-      "title_th": "Gemini บน Mac ใช้งานคอมพิวเตอร์แทนผู้ใช้ได้แล้ว",
-      "summary_th": "แอป Gemini สำหรับ macOS เพิ่มความสามารถ computer use ให้เอเจนต์จัดการไฟล์ กรอกแบบฟอร์ม และทำงานหลายขั้นตอนข้ามแอปบนเครื่องและเว็บได้ ถือเป็นก้าวของเอเจนต์ AI ที่ลงมาทำงานบนเดสก์ท็อปโดยตรง",
-      "title_en": "Gemini for Mac gains computer use",
-      "summary_en": "Google's Gemini app for macOS can now organize local files, fill in forms and complete multi-step tasks across desktop apps and the web. It moves AI agents onto the desktop itself.",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "source": "TechCrunch"
+      "title_th": "หุ้นสหรัฐฯ ร่วงหนักจากแรงเทขายหุ้น AI Dow ปิดลบ 949 จุด Nasdaq ดิ่ง 5%",
+      "summary_th": "ดัชนี Dow Jones ปิดลบ 949 จุด และ Nasdaq ลง 5% โดยสื่อไทยระบุว่าเป็นผลจากการเทขายหุ้น AI หลังการเปิดตัวของ Anthropic ต่ำกว่าคาด UPI รายงานว่า Dow และ S&P 500 เข้าสู่ภาวะปรับฐาน และแรงเทขายลามไปยังตลาดเอเชียและยุโรป",
+      "title_en": "US stocks sink on AI sell-off: Dow closes down 949 points, Nasdaq falls 5%",
+      "summary_en": "The Dow closed down 949 points and the Nasdaq fell 5%, which Thai outlets tie to an AI stock sell-off after Anthropic's debut came in below expectations. UPI reports the Dow and S&P 500 entered correction territory, and the sell-off spread to Asian and European markets.",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55Z2NVZDFyU1lkWXJjX2RtRTluelJ6S1dFYVNqVDNZS1Y1Z0ExVnI0ZWtfcmJ2czVIVlIyUXNOdnNYU01TekpxdDlqRQ?oc=5",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์"
     },
     {
-      "title_th": "Apple เปิดรับวิศวกรสร้าง AI Agent ของตัวเอง",
-      "summary_th": "ประกาศรับสมัครงานที่ Bloomberg พบระบุว่า Apple กำลังพัฒนาเอเจนต์ AI ที่เบราว์เซอร์เว็บ ทำงานข้ามแอป เขียนโค้ด และเรียกใช้บริการต่าง ๆ ได้ สะท้อนว่า Apple เตรียมแข่งในตลาดเอเจนต์",
-      "title_en": "Apple is hiring engineers to build its own AI agent",
-      "summary_en": "A job listing spotted by Bloomberg says Apple is building an agent that can browse the web, work across apps, write code and call services. It suggests Apple is preparing to compete in agents.",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "source": "The Verge"
+      "title_th": "Anthropic เข้าซื้อขายใน Nasdaq วันแรก ปิดบวก 17% มูลค่า 1.8 ล้านล้านดอลลาร์",
+      "summary_th": "หุ้น Anthropic (ANT) ปิดวันแรกบน Nasdaq ที่ 97.17 ดอลลาร์ เพิ่มขึ้น 17% ดันมูลค่ากิจการแตะ 1.8 ล้านล้านดอลลาร์ ขณะที่อีกรายงานระบุว่าหุ้นร่วงเกือบ 9% ในวันถัดมาท่ามกลางตลาดที่เทขายหุ้น AI",
+      "title_en": "Anthropic debuts on Nasdaq, closing up 17% at a $1.8 trillion valuation",
+      "summary_en": "Anthropic (ANT) closed its first trading day on Nasdaq at $97.17, up 17%, putting its valuation at $1.8 trillion. Another report says the stock fell nearly 9% the next day amid the wider AI sell-off.",
+      "url": "https://news.google.com/rss/articles/CBMingVBVV95cUxQZldLNjREalhLS2JKc3FzeVVJcHRlWVhUNzlyNVdvRkNWeTZHNzREdlhRWjVqY19DM3pfMDJaYTRqTW5sYldlMGc3UjBaTm1fTEZBeW12c1BUNDlGdWNWTXpqT1JiX3I1NzhkYmhBOTlqNVRaX0RmNHBnaWdIUDdMM29xOUM4TTFNWExPYlo1QVJDV0ttT05yS01XRVJMTDJOZmVMNHlldVg4X3BZOUJXaUdsczVNQ29lc0Rhcm9BS1lleDZqUnh4RGxNTTZ5N3BhTlVOM2s2TDNVSFdGakVzRzY3WTM2MWY2dnNaRl9TejY5VXJMUjhySVZ0UHJMVFk5SzJvZG42eUlnUHdDSHFrV2lScVR4U0pjOTMtNHJ4NGVCR3RFSWJVaVc0S19ZZWdrcHdiTnNfVzFrLVZER051ODdadVRobTVGV1lyckczRU1meWZrdF9BSjFtVEtUOHhXdFZJeWxwMFhaTUhCMDF1M3BOaUdSMklxN2xDc3dEVVQ3eGxVUFFOU1RKYWFVdVFDQk85UHhmMFpuMVpqS0RMVTQ2MXQ4QzRpS2lKelV6QnFqVXhKa1VJdWFSOXpvVHVKVGNJT0phbUxXS0x1ZmttUDNlY1VWQjRqc01uQ3RLeFdBSFpveHRfMHNFUXFKamp6amJfcVB3M2RXcjJpcVZBTm1YM3lEb2F5VkZBMlpFVVlheUFtbkZVQjVFQUh6Rk5vMnhDQ01UdWd6dnRTaGZhVVJsWHg2WnZJamVNNC1FMjlsZi1Pd2JfVTFINXNhYXlHT3FmbXlTcVdtd3RSOHc4Z3laNWNzenJ2SEJCU0toc1doY2QxX2ZHV0dBQmxOZXIzWUk1emtoTjhpc1pzNnVmRDd3aEtLbFRfV01OWVZR?oc=5",
+      "source": "Facebook"
     },
     {
-      "title_th": "Signal จำกัดการแคปหน้าจอ กันเอเจนต์ AI อ่านข้อความ",
-      "summary_th": "Signal จำกัดการจับภาพหน้าจอบน Android และ iOS เพื่อไม่ให้เอเจนต์ AI ที่ฝังในระบบปฏิบัติการ เช่น Gemini และ Siri อ่านข้อความและข้อมูลของผู้ใช้ ประเด็นนี้ชี้ถึงความกังวลด้านความเป็นส่วนตัวเมื่อ AI อ่านหน้าจอได้",
-      "title_en": "Signal blocks Gemini and Siri AI from reading your screen",
-      "summary_en": "Signal is restricting screenshots on Android and iOS so OS-level AI agents cannot read users' messages and other data. It highlights privacy concerns as AI gains access to on-screen content.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "source": "The Verge"
+      "title_th": "Wired: คณะกรรมการ Nvidia กังวลเรื่อง “ความไม่โปร่งใส” ของ Jensen Huang ก่อนลาออก",
+      "summary_th": "Wired อ้างแหล่งข่าวว่าประเด็นหลักของบอร์ด Nvidia คือการขาดความตรงไปตรงมาของอดีต CEO ก่อนเขาลาออก ขณะที่ TechCrunch รายงานว่า Nvidia ประกาศผลประกอบการที่เติบโตดีท่ามกลางผลกระทบจากการปลด CEO",
+      "title_en": "Wired: Nvidia board alarmed by Jensen Huang's lack of candor before his resignation",
+      "summary_en": "Wired, citing sources, says the board's main issue was the former CEO's lack of candor before he resigned. TechCrunch reports Nvidia posted healthy earnings growth while dealing with the fallout from his ouster.",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "source": "Wired"
     },
     {
-      "title_th": "Meta Muse Charm อุปกรณ์สวมใส่ AI อาจราคา 300 ดอลลาร์",
-      "summary_th": "The Information รายงานว่า Meta วางแผนตั้งราคา Muse Charm อุปกรณ์เล็กมีหน้าจอสำหรับคุยกับเอเจนต์ Muse AI ที่ราว 300 ดอลลาร์ โดย Meta ยังไม่ปฏิเสธและระบุว่าจะมีข้อมูลเพิ่มเติมเร็ว ๆ นี้",
-      "title_en": "Meta's Muse Charm may cost $300",
-      "summary_en": "The Information reports Meta plans to price the Muse Charm, a small screen device for chatting with its Muse AI agent, at $300. Meta did not deny it and said it will share more soon.",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "source": "The Verge"
+      "title_th": "Ubisoft ตั้งสตูดิโอ Motherbrain พัฒนา generative AI สำหรับเกม",
+      "summary_th": "Ubisoft ก่อตั้งสตูดิโอใหม่ชื่อ Motherbrain เพื่อพัฒนา generative AI ในเกม",
+      "title_en": "Ubisoft creates Motherbrain, a generative AI game studio",
+      "summary_en": "Ubisoft has founded a new studio called Motherbrain to develop generative AI in games.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUzc2YVJVbWlXeFdxR2NSNTdObVlneTh5aGtVcjVnYjhteGVyRGRCTE1nLXU0aE5PWGR0NllJWkpkWWZtVFFrR0Y1MmNRUDRIUXprMl9ubllJN09wQ2Q3QTg3b3dOdUI3eklVb195WktFb0NsX3FqSFIxUVpRbmV1YjEweHJVaGx0cXZ4WEQxdDJJNW9pVG1EaXkxM29SVlJDMHZaVXZzalhxOXpDaUUtQjhlUVdIbVVwQzU0?oc=5",
+      "source": "IGN"
     },
     {
-      "title_th": "ก.ล.ต. ชู AI ยกระดับกำกับตลาดทุนไทย พร้อมเผย 4 งานวิจัย",
-      "summary_th": "สำนักงาน ก.ล.ต. ระบุว่าจะใช้ AI ยกระดับการกำกับดูแลตลาดทุน และเปิดเผยงานวิจัย 4 เรื่องที่ชี้ช่องปรับเกณฑ์ ตั้งแต่ Finfluencer ไปจนถึงสภาพคล่องหุ้น",
-      "title_en": "Thai SEC promotes AI for capital market oversight, releases 4 studies",
-      "summary_en": "Thailand's SEC says it will use AI to strengthen capital market supervision and released four studies on possible rule changes, from finfluencers to stock liquidity.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xTkl5cUZwVFhFVV9iSVdxd2kyMk1XRmF1VXFfQXZ5QjI1Ny1pVWotc0tFR3VuRGJzRVdoMU9RcktuelQ0cDZ1bUpaVXl3djFXV2RTVktR?oc=5",
-      "source": "LINE TODAY"
+      "title_th": "ทรัมป์ขู่เก็บภาษีหนักบริษัทสหรัฐฯ ที่สร้างศูนย์ข้อมูล AI ในต่างประเทศ",
+      "summary_th": "ทรัมป์ขู่เก็บภาษีหนักกับบริษัทสหรัฐฯ ที่สร้างศูนย์ข้อมูล AI ในต่างประเทศ",
+      "title_en": "Trump threatens heavy taxes on US firms building AI data centers abroad",
+      "summary_en": "Trump has threatened to impose heavy taxes on US companies that build AI data centers overseas.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKREVGOXBvOGxQbndjZXF5WTJmODdBdGNSZ2VEenVZUDB3QTYxdzNENzRQaVZRVmc2WGxaWEVFTnRNUE5mS0doMnhYTHBnTzNCeVRZUENENGlrVm8?oc=5",
+      "source": "thairath.co.th"
     }
   ]
 }
