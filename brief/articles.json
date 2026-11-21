@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T10:14:20+07:00",
+ "generated": "2026-11-21T10:52:45+07:00",
  "articles": [
   {
    "title": "Nvidia จะรักษาบัลลังก์เบอร์ 1 ได้อีกนานแค่ไหน? เมื่ออนาคตอาณาจักร AI ต้องเดินต่อโดยไร้ Jensen Huang",
@@ -74,6 +74,14 @@
    "published": "2026-11-20T09:40:25+00:00"
   },
   {
+   "title": "โรงเรียนดรุณาราชบุรี โชว์ ‘VeinView AI’ นวัตกรรมสแกนหาเส้นเลือด ฝีมือ ‘นักเรียนชั้นม.4’",
+   "source": "เดลินิวส์",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtVHU2SFJsaW51NEh1ZkxZSGN1aGVESkZXWDVCZFhHbFNZZ3V3MTZBSFlkWkd5dFQya1NLb0d4S0JlQ19zR0VXVjR5ellVXy1BV3JuNzlucVM?oc=5",
+   "coverage": 1,
+   "published": "2026-11-21T03:22:00+00:00"
+  },
+  {
    "title": "หุ้น Anthropic ร่วงเกือบ 9% แม้ทำ IPO สูงสุดเป็นประวัติการณ์ | การเงินธนาคาร",
    "source": "LINE TODAY",
    "summary": "",
@@ -96,6 +104,14 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWkpsOTU3MWl1QkFpQXhyQTVpZjdTa0VqamRDU0tvZUhCcU9JbEhKN1JaREtyYVQ5bXlnVkZFZWxoWElVY0pmcEFvckVmU1BxOXJTY184cEo0NzJ0Ni1UaTNZMnYzY2NRNGdlV3JzU3kxbVJnWGZWQzV5Y0xDcW9SY0xpQk5rYkE3WFBfOHZMTXZOMFhXNjh0MlR3eFVVTk8xVHo3UEtleVhnd0IxUXZoUzNmdVRvSzhrbTdTMmszNjBiOVFpS0E?oc=5",
    "coverage": 1,
    "published": "2026-11-21T02:54:35+00:00"
+  },
+  {
+   "title": "“ทองคำนิวยอร์ก” ปิดร่วง 170 เหรียญ นิวโลว์รอบ 14 เดือน วิตกเฟดขึ้นดอกเบี้ย-แรงขายหุ้น AI",
+   "source": "LINE TODAY",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15Zl9zVEFMWXd2bERoaUUxSlBndGNLa0hiN2RZUVlPaHZXbVdrTGlYN3lZMGZybkI2ZjNhMUEtTjYyNHZLdmhXSVhQYXdlNDhvTTZ5eVhn?oc=5",
+   "coverage": 1,
+   "published": "2026-11-21T02:53:26+00:00"
   },
   {
    "title": "“AI ตอบได้ แต่เด็กต้องคิดเป็น” EtonHouse วางโจทย์การศึกษา",
@@ -234,6 +250,14 @@
    "published": "2026-11-21T00:33:39+00:00"
   },
   {
+   "title": "ไทยขายของให้หลายประเทศ แต่กำลังฝากอนาคตไว้กับ AI วงเดียวกันหรือไม่",
+   "source": "bangkokbiznews",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1id1lsOEdvNE5pZzFxdWdCMkdOMzJCRUlEenZ1OVF2WDNlRFM0WmJJRVlocFlPQ1FwOXJBeUxibHFPdmE5OTdzbVFmNzdHM01hY1VfV29vRmE5YmlOck9PM1Jn?oc=5",
+   "coverage": 1,
+   "published": "2026-11-21T00:30:00+00:00"
+  },
+  {
    "title": "‘สมคิด’ หนุนใช้ AI พลิกฟื้นประเทศ ชูปฏิรูปเกษตร-SME- ระบบราชการ",
    "source": "bangkokbiznews",
    "summary": "",
@@ -296,30 +320,13 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSHNPdExCVk0tLWNORU5NQVlYcy0teEVVRkxKaTZVbWtNMXdJSldJV01mZTkyTTZfbG1IOGxUd2h0ekJfVjR5X19uUi1EYnBWcXFDWDRqcklCMTZzUFFqWHhxMG1scmtRd0JqMHJsb29lZ0pkOTRrMjZMNDRfVDdWXzdDQnkzUzczNXkwN2ctWHNMcFJsbTdrc0U2Y1RqMVZIa2ZySnk0NFUwc1p1ZHRVTzk0anZDRVd0STFNbGpaMmpFVTdKTmd2eEZQMA?oc=5",
    "coverage": 1,
    "published": "2026-11-20T23:11:08+00:00"
-  },
-  {
-   "title": "ทรัมป์ขู่จัดหนักภาษีบริษัทสหรัฐฯ สร้างศูนย์ข้อมูล AI ในต่างประเทศ",
-   "source": "thairath.co.th",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKREVGOXBvOGxQbndjZXF5WTJmODdBdGNSZ2VEenVZUDB3QTYxdzNENzRQaVZRVmc2WGxaWEVFTnRNUE5mS0doMnhYTHBnTzNCeVRZUENENGlrVm8?oc=5",
-   "coverage": 1,
-   "published": "2026-11-20T22:55:30+00:00"
-  },
-  {
-   "title": "กรุงเทพธุรกิจ. . วิกฤติหุ้น AI ลามเอเชีย กลุ่มชิป 'ร่วงหนักสุด' | Highlights กรุงเทพธุรกิจ INSIGHT . ตลาดหุ้นเอเชียปิดการซื้อขายวันศุกร์ที่ 20 พฤศจิกายน ด้วยแรงเทขายอย่างหนัก ปิดสัปดาห์ย่ำแย่ที่สุดนับตั้งแต่ช่วงวิกฤติโควิด-19 ปี 2020 หลังแรงเทขายหุ้นเทคโนโลยีจากวอลล์สตรีทลุกลามฉุ",
-   "source": "Facebook",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMingZBVV95cUxNektwMEVvazlGdDg2NFl4T0F1RFFwSEROZFBiaklnNUt2clkyYndKUzR2Qmx4UE9UWlY5T19OejRrdGZlRXlxaEt5RGtiSE51Tmx3QktHbjI0ZElUalo3V25fSDVTU1dSNzlMUzg5VGw2R0V0TzNGVTVXZkNGbmRDZURXWkRCaldzUGdwWEE3Ykh5ZTVaV0FuUU51MTJnMWxiZUY1SmczbEQxelhfSHIzZHFzelBOWUVEbWdvWVhkSDRlcDh4S3Y1OVZFaDVwMWdjOHJWYXpVbncxX2pSdkxja18xM0I5XzJqMG9jLVRjanh2Y0dFQ1VqdzRocGh4YWFWSFBsMl9jVHVILURBREJJeVhKSlRnTWVZaWhRZmkteFM0aUdaZUc5U1NpbGE1cWlENUlMM1lGbGFMalYyS2pucHB2Vmw1Ul80R3YzRWIzSHo1REg4akRLWXM0RThSRXc1TklIS0dBcnJFb2RQVXpYdkhGZmVjT0wxTDNrSjc2Q1NxaGZMbFdIQ2JmS3hGUEZFeEJRSXB6SkxycVlXVUJJNHlCRmV4d0k3T3JjRndpR3JVY0ExcnBEZWhIVy1fTmQ1MUN4UGlWajdmbERmU3VvUGZtVTRaSFNnQll5bHk5c1V1Sy16TlFBZmttbEl4MmJOVFNYbXRFdVdPTk1NQ1VxMW45QVdnLVFVQmlESHRSOVJNdEl5Ty1kYjVkSUlSdmtKT3pUX1MxcFhaX1dQRkVYWlZLREUzNFhpT1UxN3VXR0g0dXIwRjBlWVpSUEdaaG01YTJTREpVWTNSVmpocUdGWVRZTE1xbWF3TTBlQVdhNGIwVmVzeTN3TUtISGtVdnp0azY5VEZSUS1HZzZYNEpHTXg5alB5MEJyUGtmTUc5Ykx2T1dsV2xxbjJISS1SNE02S2ZBQUlteEhDb0NzVDNDTXptZjc3ZFNtRmU1anpSbmZHM0NDbGdTNWdtN2J6Q2RnMTV3SXRRYkFxTWo2WVdUQ1Rza3NLdUsyaTFoa294ZEgyUlJqbm9pRlVhclkwOGZBeG1IQmFJalJ6R01faEE?oc=5",
-   "coverage": 1,
-   "published": "2026-11-20T22:00:52+00:00"
-  },
-  {
-   "title": "Google rolls out new search homepage with AI chat history and no search button",
-   "source": "Ars Technica",
-   "summary": "Google search is making it even easier to access AI tools on the search page.",
-   "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-   "coverage": 1,
-   "published": "2026-11-20T21:58:29+00:00"
   }
+ ],
+ "brief_urls": [
+  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55Z2NVZDFyU1lkWXJjX2RtRTluelJ6S1dFYVNqVDNZS1Y1Z0ExVnI0ZWtfcmJ2czVIVlIyUXNOdnNYU01TekpxdDlqRQ?oc=5",
+  "https://news.google.com/rss/articles/CBMingVBVV95cUxQZldLNjREalhLS2JKc3FzeVVJcHRlWVhUNzlyNVdvRkNWeTZHNzREdlhRWjVqY19DM3pfMDJaYTRqTW5sYldlMGc3UjBaTm1fTEZBeW12c1BUNDlGdWNWTXpqT1JiX3I1NzhkYmhBOTlqNVRaX0RmNHBnaWdIUDdMM29xOUM4TTFNWExPYlo1QVJDV0ttT05yS01XRVJMTDJOZmVMNHlldVg4X3BZOUJXaUdsczVNQ29lc0Rhcm9BS1lleDZqUnh4RGxNTTZ5N3BhTlVOM2s2TDNVSFdGakVzRzY3WTM2MWY2dnNaRl9TejY5VXJMUjhySVZ0UHJMVFk5SzJvZG42eUlnUHdDSHFrV2lScVR4U0pjOTMtNHJ4NGVCR3RFSWJVaVc0S19ZZWdrcHdiTnNfVzFrLVZER051ODdadVRobTVGV1lyckczRU1meWZrdF9BSjFtVEtUOHhXdFZJeWxwMFhaTUhCMDF1M3BOaUdSMklxN2xDc3dEVVQ3eGxVUFFOU1RKYWFVdVFDQk85UHhmMFpuMVpqS0RMVTQ2MXQ4QzRpS2lKelV6QnFqVXhKa1VJdWFSOXpvVHVKVGNJT0phbUxXS0x1ZmttUDNlY1VWQjRqc01uQ3RLeFdBSFpveHRfMHNFUXFKamp6amJfcVB3M2RXcjJpcVZBTm1YM3lEb2F5VkZBMlpFVVlheUFtbkZVQjVFQUh6Rk5vMnhDQ01UdWd6dnRTaGZhVVJsWHg2WnZJamVNNC1FMjlsZi1Pd2JfVTFINXNhYXlHT3FmbXlTcVdtd3RSOHc4Z3laNWNzenJ2SEJCU0toc1doY2QxX2ZHV0dBQmxOZXIzWUk1emtoTjhpc1pzNnVmRDd3aEtLbFRfV01OWVZR?oc=5",
+  "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUzc2YVJVbWlXeFdxR2NSNTdObVlneTh5aGtVcjVnYjhteGVyRGRCTE1nLXU0aE5PWGR0NllJWkpkWWZtVFFrR0Y1MmNRUDRIUXprMl9ubllJN09wQ2Q3QTg3b3dOdUI3eklVb195WktFb0NsX3FqSFIxUVpRbmV1YjEweHJVaGx0cXZ4WEQxdDJJNW9pVG1EaXkxM29SVlJDMHZaVXZzalhxOXpDaUUtQjhlUVdIbVVwQzU0?oc=5",
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKREVGOXBvOGxQbndjZXF5WTJmODdBdGNSZ2VEenVZUDB3QTYxdzNENzRQaVZRVmc2WGxaWEVFTnRNUE5mS0doMnhYTHBnTzNCeVRZUENENGlrVm8?oc=5"
  ]
 }
