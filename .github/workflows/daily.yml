@@ -1,14 +1,15 @@
 name: Daily AI news
 on:
-  # GitHub delays or drops scheduled runs when it is busy, worst at the top of the hour,
-  # so run off the hour and try twice before the 07:30 brief.
+  # The morning update is started by the Claude Code routine, not this schedule:
+  # GitHub started schedules about 4 hours late on 2026-11-22. This one is a midday refresh.
   schedule:
-    - cron: "13 23 * * *"   # 06:13 Asia/Bangkok
-    - cron: "43 23 * * *"   # 06:43 Asia/Bangkok, in case the first run is skipped
+    - cron: "13 4 * * *"   # 11:13 Asia/Bangkok, often later
   workflow_dispatch:
-  push:   # the Claude Code routine pushes the morning brief; rebuild so it shows on the site
+  # The routine pushes brief/request.json at about 06:40 to ask for fresh news,
+  # then brief/summary.json with the morning brief. Each push rebuilds the site.
+  push:
     branches: [main]
-    paths: ["brief/summary.json"]
+    paths: ["brief/request.json", "brief/summary.json"]
 permissions:
   contents: read
 concurrency:
@@ -25,8 +26,8 @@ jobs:
     steps:
       - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
         with: {fetch-depth: 0}
-      # The routine reads untrusted news text, so a push it makes may only touch the brief.
-      - name: Reject pushes that change anything but brief/summary.json
+      # The routine reads untrusted news text, so a push it makes may only touch its two files.
+      - name: Reject pushes that change anything but brief/request.json or brief/summary.json
         if: github.event_name == 'push'
         env:
           BEFORE: ${{ github.event.before }}
@@ -37,16 +38,18 @@ jobs:
             exit 1
           fi
           changed=$(git diff --name-only "$BEFORE" "$AFTER")
-          if [ "$changed" != "brief/summary.json" ]; then
-            echo "::error::A push may change only brief/summary.json. Not building. This push changed:"
+          if [ -z "$changed" ] || grep -qvxE 'brief/(request|summary)\.json' <<< "$changed"; then
+            echo "::error::A push may change only brief/request.json and brief/summary.json. Not building. This push changed:"
             echo "$changed" | sed 's/^/- /'
             exit 1
           fi
-          size=$(stat -c %s brief/summary.json)
-          if [ "$size" -gt 65536 ]; then
-            echo "::error::brief/summary.json is $size bytes. The limit is 64 KB. Not building."
-            exit 1
-          fi
+          for limit in "brief/request.json 1024" "brief/summary.json 65536"; do
+            set -- $limit
+            if [ -f "$1" ] && [ "$(stat -c %s "$1")" -gt "$2" ]; then
+              echo "::error::$1 is over its $2-byte limit. Not building."
+              exit 1
+            fi
+          done
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with: {python-version: "3.13", cache: pip}
       - run: pip install -r requirements.txt
