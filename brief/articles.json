@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T06:42:12+07:00",
+ "generated": "2026-11-23T06:42:54+07:00",
  "articles": [
   {
    "title": "สังคมข่าวหุ้น | ข่าวหุ้นธุรกิจ",
@@ -234,6 +234,14 @@
    "published": "2026-11-22T14:18:52+00:00"
   },
   {
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "source": "Hacker News",
+   "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 256 # Comments: 59",
+   "url": "https://github.com/gulivan/worker755",
+   "coverage": 1,
+   "published": "2026-11-22T13:56:58+00:00"
+  },
+  {
    "title": "“อนุทิน” ถก “สี จิ้นผิง” ปราบสแกมเมอร์-ดัน AI เปิดเกมรุกลงทุนจีน",
    "source": "มิติหุ้น",
    "summary": "",
@@ -312,21 +320,13 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SMmhDaW4waWxkd1EwMnJrZlA3MnVfSHRkemcxV2VBSWM4RmtpTndFVkVGQklCcXc1M0ZuNGVReHVOMHFCeWNQTHBpOFJ6aXhwTkJSRll6SFRvbjFMWnBJ?oc=5",
    "coverage": 1,
    "published": "2026-11-22T11:25:48+00:00"
-  },
-  {
-   "title": "Artificial intelligence gains strength in jihadism: the Civil Guard arrests four people for spreading jihadist content and using AI to radicalize on networks",
-   "source": "El Constitucional",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOLWR5dlhlZ09WR2xaOWg1NXRNTmhBMWx2ajFMNEpXRHpPdThkemFUMWJuTHVfb3R0eXRxRmdYN2dJeHVnTjVHb2lfbFJKWEtRSVdLSXNaRC1HSHJiQmJtSnpWRGtVM0g0N2QxMFVmLU5OYmhtSGlEMzJaZGljT1NlUEVDMW5POWpoQktnaFZ6SV80Q3RXRVQ0V3ZTaFRoaXh5bXNVLVNET1F3aUg2emdmME02bWxxczd6RG05MDhrQWJRcV9PLVVwQlhQTnZKWHR5NVNGRlduajJBY0IyTWJtczRfdFJIclN0MlA1ZGRhTG9tSDNyeDd2b3JOMWU0akl4VXZIbGpNS3FoT01MLXpJM3Q3NksydDZlME5mOUM2QWNOVnBhMU9WNFZnQjVrYXN1LTkya2ZUY1dPSlE?oc=5",
-   "coverage": 1,
-   "published": "2026-11-22T11:16:29+00:00"
   }
  ],
  "brief_urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE14Zzd5ZXNQaEtLei1XNGhzWlo4M0sxS080dGRNejl3U3UtVDBUR05iWVJvV1RxSUdxcngtWDdDYnBRR2JqSnlBWVlzNUxEcXlVSnI4Q0ppeDJDSXVONGxMR3NQQk5uRnY0R3RjUQ?oc=5",
-  "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vLXZRbG5lYmpYaVVfUEJFQkZjWlNZNWpmR1JtU05zYjRUOVVhTG1qUzUxOTBsblloTGNfajkzSkMtQnhseVBmX1k2ZVMxemZGeUhhTXlEdmNXdGh3OWJob19vZmdFQVJUMFZTeHIzcw?oc=5",
-  "https://news.google.com/rss/articles/CBMiwgZBVV95cUxPVlk5Ry02azk3T1lzc01ROHdQeFA5eVNyQ0lGY2VockZxVExPTWE3a1dMRll5a0g4dE1tY1dFTXhiQ1prQUJGRE9OTTlOSTkwS2VYeEI0el9jdE5lZm9LQ010YUVCU3dnbzdNWTN1TlVGdkVuUUJoa2RuUF9LWm1GMXRwZGRuQV9YX2Yxd3JFd1dFZ0tlZlJqa2wyNk1FQkw0cWJvZmV3U2dUZThtTGdIZUplOWlzdnVnVnkwb2ZSeXZzQWhPNEFpdkpyanctSjZnRnlDWDUtRDVOQlhkZ0dnODJKMHFzSlRKUThGcE10Yy1xUlNZcTBwRk1VWllfQ2RxRWhrdmVWNHpqOVplYVlCUnQ1bHdzNTR3MEx3dGVodlpBZnJIN1NZQ2lpdTJWSVJhQ1A5b3BnQ3ZjalZ1WnYzT3l5cUN3ZjJoVmUyZ1cwQndMRWJhV0JlYm1mMXVqLXhyTkx6VUF2TXdiQ3Zib2c1OGpXa2NtY3JYYW5TOWJJQVRXMGNKSjdubXYzQXNneVVON1pMVjZVcDJXTEN6V3REb3ZTVmQwZkxka2lXR3RJSXMwckdNYzFuYjF4TEtWazlhdE55Y0dYTUxURkt2YVlleWM3VjVfWDg5WGZwY2h5bWp2ek9qd3RXa3RGTjc0d3ZKZDlyYkVCM25jeEprUzVMcGRvWTI5NEpIR2pqdXBoYTNGYVpXaDNneHFPTlVXcFpnaGt0ZkRuaGhpRHNKV3dEdXZsSHNoazhKY3lJNWxHV1k3ZXdveWp3djQ0OHVzbEphMmRrMVRaYVMwd2RiR0FiVEVpbk1CTlBWZGhycVZGMWFGWGRVWWp5SGJHV19CSXNYOHV5cGlRMDItR3lZNFRYRGoybEN1dGNNOFBFcHhJNTAxM0t4WXdTajVMWG9BdUxCSWFqOXV4ZDRyanh0blM2R2RpY0tMOXNSV0VWWWkyMzh2a09LVVBzZm9FdzhqVTJwSGt5XzYzZ1UteFYwQThlVmdKSGI3TDE4aktTdkp4T3hOQzhWYUpEdVlKQXFmNko2eVItdElyekx5VXo2VmdrTE40cm56RE10bGJpS0k1dmlfajFScGdycTZkUkFFZm9GVlE?oc=5",
-  "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1cGsway1YSkZpdkJsR3ZIYVhkLWdqRmtpUzNEM3JCakZLODc1a3Rmd21ZRUJYdldkbVU1YnNfTWFfNDhGN2Z4M1ZZcmNiVmc?oc=5",
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cHhOM0d2c3Y0LUs1VXFiaUVjTHZiSG1RRHk2VGRSQ3JRQTJZblE4QnpzazlEQ3VCWG4zeFlySENLQkJVZ1VRWDFKSEdGQVhHcC1JTGl0VWtqUm8?oc=5"
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iV0ctbjc4Y3Q0SDAxaEYzNnFXZW5QM1cwVzBlQ0oya2Y5cVhDNzVtdkV5eHRGa3laTlpqVi1ia1pNQzNKdTFoWmFWczJwUQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nTHBBbkVrWmZYRk1pd1lfYUd3Y1BCQkszbUhaQlRSMTZ6WmxqZ0lLX1JrNnBrYUtYRmlWSzVQcEFBdGt3d0pVazV3ckM4aTJsRUNMVGVn?oc=5",
+  "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjNkNMZHE5LThCeGNNcUFocm96NWRnMVVTTHhSZ2FyZFRISjk1YXQ5VnFKd3BDdnFxbHd6cmozTkFIbkxFOFhpY1praw?oc=5",
+  "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkd0bTIwYkRKTzR6MkhPMWFuaXNCOTkzZ3NRN3RpZ1NCNDJKVU9jSnFyVUd3RGFOQ0g0R2tzc2VQLThSblREX0szeEZKMGkzaTVQQTNFVlpzVEdtT3FfVUJmdkdMMDF4SnBYMWl1Y3o4b2tnZUNha2gtclo2b01HWEYwUW8wODVwNzBTVnhUdGZOV0g4OEZDTEdSZjFtZldWVEZral9zM3F4RmRQcG45encyN1oySS1SS3AxQncyZEJuMkE?oc=5"
  ]
 }
