@@ -174,6 +174,10 @@ function renderBrief() {
   const brief = state.data.summary;
   $("#brief").hidden = !brief?.items?.length;
   if (!brief?.items?.length) return;
+  const hour = Number(new Intl.DateTimeFormat("en-GB", { hour: "2-digit", hourCycle: "h23", timeZone: "Asia/Bangkok" }).format(new Date(brief.generated)));
+  $("#brief-title").innerHTML = hour >= 15
+    ? '<span lang="th">สรุปข่าวค่ำนี้</span> · Evening brief'
+    : '<span lang="th">สรุปข่าวเช้านี้</span> · Morning brief';
   $("#brief-list").innerHTML = brief.items.map((it) => `
     <li>
       <div class="brief-th" lang="th">
