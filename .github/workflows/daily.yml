@@ -4,6 +4,7 @@ on:
   # GitHub started schedules about 4 hours late on 2026-11-22. This one is a midday refresh.
   schedule:
     - cron: "13 4 * * *"   # 11:13 Asia/Bangkok, often later
+    - cron: "20 13 * * *"  # 20:20 Asia/Bangkok, temporary timing test on 2026-11-22
   workflow_dispatch:
   # The routine pushes brief/request.json at about 06:40 to ask for fresh news,
   # then brief/summary.json with the morning brief. Each push rebuilds the site.
