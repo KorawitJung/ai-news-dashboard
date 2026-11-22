@@ -1,46 +1,46 @@
 {
-  "generated": "2026-11-22T20:12:37+07:00",
+  "generated": "2026-11-22T20:32:19+07:00",
   "model": "claude-sonnet-5-5 (routine)",
   "items": [
     {
-      "title_th": "รมว.ศึกษาธิการเกาหลีใต้ลาออก ปมกฎสกัดใช้ AI โกงสอบเข้ามหาวิทยาลัย",
-      "summary_th": "รัฐมนตรีศึกษาธิการเกาหลีใต้ลาออก หลังเปลี่ยนกฎป้องกันการใช้ AI โกงสอบเข้ามหาวิทยาลัยอย่างกะทันหัน ทำให้เกิดความวุ่นวายก่อนวันสอบ สื่อไทยหลายสำนักรายงานตรงกัน",
+      "title_th": "รมว.ศึกษาธิการเกาหลีใต้ลาออก หลังเปลี่ยนกฎสกัดการใช้ AI โกงสอบเข้ามหาวิทยาลัยกะทันหัน",
+      "summary_th": "รัฐมนตรีศึกษาธิการเกาหลีใต้ลาออกเพื่อรับผิดชอบกรณีการโกงสอบด้วย AI การเปลี่ยนกฎกะทันหันก่อนวันสอบทำให้เกิดความวุ่นวาย",
       "title_en": "South Korea's education minister resigns over AI exam cheating",
-      "summary_en": "South Korea's education minister resigned after abruptly changing the rules meant to stop AI-assisted cheating on university entrance exams, causing confusion before exam day. Several Thai outlets reported it.",
+      "summary_en": "South Korea's education minister resigned to take responsibility for AI-assisted exam cheating; a sudden rule change before the university entrance exam caused confusion.",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVNVk2NVR2NFdseS0ybjVockp6YThwcjA2WVROdElZQ2VFb082Q3dCSFZYdGFMeXZRRHVXQ1RSb21GWktLZ2dBV0JHQU5mZ19K?oc=5",
       "source": "สำนักข่าวอินโฟเควสท์"
     },
     {
-      "title_th": "ทรัมป์จ่อออกกฎห้ามบริษัทสหรัฐสร้างดาต้าเซ็นเตอร์ในต่างประเทศ",
-      "summary_th": "รายงานระบุว่าสหรัฐฯ ต้องการเก็บโครงสร้างพื้นฐานด้าน AI ไว้ในประเทศ และอาจออกกฎใหม่ห้ามบริษัทสหรัฐสร้างดาต้าเซ็นเตอร์ในต่างประเทศ ซึ่งอาจกระทบแผนลงทุนด้านดาต้าเซ็นเตอร์ในภูมิภาครวมถึงไทย",
-      "title_en": "Trump set to bar US firms from building data centers abroad",
-      "summary_en": "Reports say the US wants to keep AI infrastructure at home and may introduce a rule barring US companies from building data centers overseas, which could affect data center investment plans in other regions.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11VmtWaXdwclZCQkxUQnl3R2NXNDN4cVdpWUR5dUJvQ09qTWM4MHdtOEJQZllrcTJUNmtjMzBBanZqYWk5eWloM2s0eDlrckstMVFfX0ZKODcwUVNQa09ud21LTHg?oc=5",
-      "source": "bangkokbiznews"
+      "title_th": "หุ้นนิวยอร์กปิดร่วงเกิน 2% กังวลทิศทาง AI แม้ Anthropic เทรดวันแรกคึกคัก",
+      "summary_th": "ดัชนี Dow Jones และ Nasdaq ปิดลดลงกว่า 2% จากความกังวลเรื่องทิศทางของ AI ขณะที่หุ้น Anthropic มีการซื้อขายคึกคักในวันแรก",
+      "title_en": "US stocks fall over 2% on AI worries despite busy Anthropic trading debut",
+      "summary_en": "The Dow Jones and Nasdaq closed down more than 2% on concerns about the direction of AI, while Anthropic's first day of trading was active.",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RZ3U3MHloX3V2Unhsc2ZmMzBMQ0hjME9jR0w5VkV3UjFYN0oyRnU1MkV1YjQ4RTBDcVhXTDJNYTFlTF8zN1NHcHpHdm9HekR3?oc=5",
+      "source": "สำนักข่าวอินโฟเควสท์"
     },
     {
-      "title_th": "ธนาคารสหรัฐแบน AI Agent ล็อกอินบัญชีลูกค้า ความเสียหายตกเป็นของผู้ใช้",
-      "summary_th": "สถาบันการเงินรายใหญ่ในสหรัฐฯ ห้ามบอตของบุคคลที่สามล็อกอินเข้าบัญชีลูกค้า และเตือนว่าหากบอตทำพลาด ผู้ใช้ต้องรับผิดชอบความเสียหายเอง",
-      "title_en": "US banks ban third-party AI agents from logging into accounts",
-      "summary_en": "Major US financial institutions are banning third-party bots from logging into customer accounts and warning that costly bot mistakes are the user's responsibility.",
+      "title_th": "ธนาคารใหญ่ในสหรัฐฯ แบนบอท AI ของบุคคลที่สามเข้าบัญชีลูกค้า",
+      "summary_th": "สถาบันการเงินรายใหญ่ในสหรัฐฯ ห้ามบอทภายนอกล็อกอินเข้าบัญชีของลูกค้า และเตือนว่าความเสียหายจากความผิดพลาดของบอทเป็นความรับผิดชอบของลูกค้าเอง",
+      "title_en": "Banks crack down on AI agents logging into customer accounts",
+      "summary_en": "Major US financial institutions are banning third-party bots from logging into accounts and warning that costly bot mistakes are the customer's responsibility.",
       "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
       "source": "Wired"
     },
     {
-      "title_th": "ผู้ว่าฯ แบงก์ชาติเผย ภัยไซเบอร์ใช้ AI Agent โจมตีหลัก 4-5 ล้านครั้ง",
-      "summary_th": "ผู้ว่าการธนาคารแห่งประเทศไทยระบุว่าภัยไซเบอร์ยุคใหม่ใช้ AI Agent โจมตีหลักราว 4-5 ล้านครั้ง สะท้อนแรงกดดันด้านความมั่นคงไซเบอร์ต่อภาคการเงินไทย",
-      "title_en": "Bank of Thailand governor: AI-agent cyberattacks number 4-5 million",
-      "summary_en": "The Bank of Thailand governor said new-style cyber threats use AI agents in main attacks numbering around 4-5 million, pointing to growing cybersecurity pressure on Thailand's financial sector.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04TVJfSWhiNXRwVDQ2a29vRXFLcGZCdXJHTGcyNWNkRlNZbTRidzVFdlhLbS1vUy1mRlkwcXAtOHNUSHdzWDgwOHd4SHRMSm82dHBKVHU0bktTZlVVdlFQcVdCbkNWN2s?oc=5",
-      "source": "thestandard.co"
+      "title_th": "Google เผยแฮ็กเกอร์ใช้ AI Agents โจมตีระบบจริงแบบอัตโนมัติ",
+      "summary_th": "Google เปิดเผยว่าแฮ็กเกอร์ใช้ AI Agents โจมตีระบบจริงได้อย่างอัตโนมัติ ซึ่งเป็นประเด็นด้านความปลอดภัยไซเบอร์ที่องค์กรควรติดตาม",
+      "title_en": "Google says hackers are using AI agents to attack real systems autonomously",
+      "summary_en": "Google reported how hackers use AI agents to carry out attacks on real systems automatically.",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPdDBod3gydDE1cmFiOHBpZzVKRExQNGhBdTZSMzRGbEt5bkpScUJLNFNRYlJuS0JnVEJwRXNFSEZmSFFxeFc0Wmg4azFzX1pqRktLZDlPRUxPUXE1TTJDYXBGZVRIX1FnVV9MazhJUjIyeFU1TTREQ0lmSTJnZjVsTWpCT1hLeTVZYnhLOE9oZ3BwOTJXNHpCelJNUU4zdVhqR3B2RmVCMTc2REJreVlrcTdoV3dCWWtmczZwWWpoVjY5T2QwUkh1cEpjcWFpUHc3Z2l5S0JmUlJ6eVNUb19nNV8yREZfQWxHbURmTFUybm5YRkVocW9FLS0wNkFJdWJGa2s5SDRwYjZVY1JnRnlqX3RWU2pldnlibHlVQTQ0YW5naEs3Yk82OXRRQ1Q0LTNQYnJGWjJmTWlZY3NGbjNxZkU5LXgyS2FGY2tGVjdBY3hkdFJX?oc=5",
+      "source": "i-secure Co, Ltd."
     },
     {
-      "title_th": "อนุทินชู 3 แนวทางอาเซียน ชงสร้างยุทธศาสตร์ AI ไม่เลือกข้าง",
-      "summary_th": "นายกรัฐมนตรีอนุทินเสนอ 3 แนวทางต่ออาเซียน ได้แก่ สร้างยุทธศาสตร์ AI ที่ไม่เลือกข้าง ปราบสแกมเมอร์และมลพิษข้ามพรมแดน และเชื่อมโยงพลังงานสะอาด",
-      "title_en": "Anutin proposes three ASEAN priorities, including a non-aligned AI strategy",
-      "summary_en": "Prime Minister Anutin proposed three ASEAN approaches: building a non-aligned AI strategy, tackling scammers and cross-border pollution, and linking clean energy.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vLXZRbG5lYmpYaVVfUEJFQkZjWlNZNWpmR1JtU05zYjRUOVVhTG1qUzUxOTBsblloTGNfajkzSkMtQnhseVBmX1k2ZVMxemZGeUhhTXlEdmNXdGh3OWJob19vZmdFQVJUMFZTeHIzcw?oc=5",
-      "source": "thestandard.co"
+      "title_th": "ทรัมป์จ่อออกกฎห้ามบริษัทสหรัฐฯ สร้างดาต้าเซ็นเตอร์ในต่างประเทศ",
+      "summary_th": "รายงานระบุว่าทรัมป์เตรียมออกกฎใหม่ห้ามบริษัทสหรัฐฯ สร้างดาต้าเซ็นเตอร์นอกประเทศ",
+      "title_en": "Trump reportedly preparing rule barring US firms from building data centers abroad",
+      "summary_en": "Trump is reportedly preparing a new rule that would bar US companies from building data centers overseas.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11VmtWaXdwclZCQkxUQnl3R2NXNDN4cVdpWUR5dUJvQ09qTWM4MHdtOEJQZllrcTJUNmtjMzBBanZqYWk5eWloM2s0eDlrckstMVFfX0ZKODcwUVNQa09ud21LTHg?oc=5",
+      "source": "bangkokbiznews"
     }
   ]
 }
