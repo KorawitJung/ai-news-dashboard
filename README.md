@@ -38,13 +38,13 @@ There are two ways it stays fresh, and you can use both:
 
 To change the in-app refresh time, set environment variables before starting: `NEWS_REFRESH_HOUR=6`, `NEWS_REFRESH_MINUTE=30`, `NEWS_PORT=5050`.
 
-## How the morning update works (no PC needed)
+## How the daily updates work (no PC needed)
 
 Two services work together. A Claude Code routine runs in the cloud on your Claude plan, so there is no API key and no separate bill. A GitHub Actions workflow (`.github/workflows/daily.yml`) fetches the news and publishes the site to GitHub Pages.
 
 The routine is the clock. GitHub's own schedules started about four hours late in testing, while the routine fires within a few minutes of its time. A push to the repository starts the workflow within seconds, so the routine starts each step with a push.
 
-Each morning, in Bangkok time:
+The site updates twice a day, at 06:40 and 21:00 Bangkok time, each with a new Thai and English brief. Each update goes like this (morning times shown):
 
 | Time | Who | What happens |
 |---|---|---|
@@ -55,14 +55,16 @@ Each morning, in Bangkok time:
 
 The news and the brief are normally live by about 06:50. The routine can start a few minutes late, so allow until 07:00.
 
-**Midday refresh.** The workflow also has a GitHub schedule at 11:13. GitHub often starts it later. It only adds newer stories, and the morning brief stays on the site.
+**Evening update.** A second routine, **AI Daily evening brief (TH/EN)**, does the same at 21:00 and is normally live by about 21:10. It only stops early if a brief was already written after 20:55 that day, so the morning brief never blocks it. It prefers stories that weren't in the morning brief. The site heading says *Morning brief* or *Evening brief* depending on when the brief was written.
+
+**Midday refresh.** The workflow also has a GitHub schedule at 11:13. GitHub often starts it later. It only adds newer stories, and the brief stays on the site.
 
 **The brief stays until the next one.** Every run writes a new `brief/articles.json`. It keeps the links of the brief on the site in `brief_urls`, so a later run never hides the brief.
 
 **Run it by hand.**
 
 - *News only:* open the **Actions** tab, pick **Daily AI news**, and click **Run workflow**. On the published site, the refresh button links to this page.
-- *News and brief:* open <https://claude.ai>, go to **Code**, then **Routines**, open **AI Daily morning brief (TH/EN)**, and click **Run now**. If today's brief is already published, the routine does nothing.
+- *News and brief:* open <https://claude.ai>, go to **Code**, then **Routines**, open **AI Daily morning brief (TH/EN)** or **AI Daily evening brief (TH/EN)**, and click **Run now**. If that brief is already published, the routine does nothing.
 
 **Set it up from scratch.**
 
