@@ -1,46 +1,46 @@
 {
-  "generated": "2026-11-22T20:32:19+07:00",
+  "generated": "2026-11-22T21:05:37+07:00",
   "model": "claude-sonnet-5-5 (routine)",
   "items": [
     {
-      "title_th": "รมว.ศึกษาธิการเกาหลีใต้ลาออก หลังเปลี่ยนกฎสกัดการใช้ AI โกงสอบเข้ามหาวิทยาลัยกะทันหัน",
-      "summary_th": "รัฐมนตรีศึกษาธิการเกาหลีใต้ลาออกเพื่อรับผิดชอบกรณีการโกงสอบด้วย AI การเปลี่ยนกฎกะทันหันก่อนวันสอบทำให้เกิดความวุ่นวาย",
+      "title_th": "สหรัฐฯ คุมเข้มชิป AI อาจกระทบแผนเป็นศูนย์กลาง Data Center ของไทย",
+      "summary_th": "สีหศักดิ์มองว่ามาตรการคุมเข้มชิป AI ของสหรัฐฯ อาจกระทบแผนผลักดันไทยเป็นศูนย์กลาง Data Center และเตรียมหารือกับสหรัฐฯ เพื่อหาทางออก",
+      "title_en": "US tightening of AI chip controls may hit Thailand's data center hub plan",
+      "summary_en": "Sihasak says US curbs on AI chips could affect Thailand's plan to become a data center hub, and Thailand will talk with the US to find a way forward.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14Zzd5ZXNQaEtLei1XNGhzWlo4M0sxS080dGRNejl3U3UtVDBUR05iWVJvV1RxSUdxcngtWDdDYnBRR2JqSnlBWVlzNUxEcXlVSnI4Q0ppeDJDSXVONGxMR3NQQk5uRnY0R3RjUQ?oc=5",
+      "source": "thestandard.co"
+    },
+    {
+      "title_th": "อนุทินเสนอ 3 แนวทางอาเซียน ชงยุทธศาสตร์ AI ไม่เลือกข้าง",
+      "summary_th": "นายกฯ อนุทินเสนอให้อาเซียนสร้างยุทธศาสตร์ด้าน AI แบบไม่เลือกข้าง พร้อมปราบสแกมเมอร์ ลดมลพิษข้ามพรมแดน และเชื่อมพลังงานสะอาด ขณะที่หารือกับสี จิ้นผิงเรื่องปราบสแกมเมอร์และการส่งเสริม AI",
+      "title_en": "Anutin proposes three ASEAN approaches, including a non-aligned AI strategy",
+      "summary_en": "Anutin urged ASEAN to build a non-aligned AI strategy alongside action on scammers, cross-border pollution and clean energy links; he also discussed scam suppression and AI with Xi Jinping.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vLXZRbG5lYmpYaVVfUEJFQkZjWlNZNWpmR1JtU05zYjRUOVVhTG1qUzUxOTBsblloTGNfajkzSkMtQnhseVBmX1k2ZVMxemZGeUhhTXlEdmNXdGh3OWJob19vZmdFQVJUMFZTeHIzcw?oc=5",
+      "source": "thestandard.co"
+    },
+    {
+      "title_th": "KResearch: ส่งออก SSD ไทยปี 2027 โตต่อ 72% แต่ชะลอลง เมื่อการลงทุน AI/Data Center เริ่มแผ่ว",
+      "summary_th": "KResearch ประเมินว่ามูลค่าส่งออก SSD ของไทยปี 2027 จะยังขยายตัวราว 72% แต่ชะลอลงจากปีก่อน หลังการลงทุนด้าน AI และ Data Center เริ่มแผ่วลง",
+      "title_en": "KResearch: Thai SSD exports still to grow 72% in 2027 but slow as AI/data center investment fades",
+      "summary_en": "KResearch estimates Thai SSD export value will still rise about 72% in 2027, slower than the prior year, as AI and data center investment starts to cool.",
+      "url": "https://news.google.com/rss/articles/CBMiwgZBVV95cUxPVlk5Ry02azk3T1lzc01ROHdQeFA5eVNyQ0lGY2VockZxVExPTWE3a1dMRll5a0g4dE1tY1dFTXhiQ1prQUJGRE9OTTlOSTkwS2VYeEI0el9jdE5lZm9LQ010YUVCU3dnbzdNWTN1TlVGdkVuUUJoa2RuUF9LWm1GMXRwZGRuQV9YX2Yxd3JFd1dFZ0tlZlJqa2wyNk1FQkw0cWJvZmV3U2dUZThtTGdIZUplOWlzdnVnVnkwb2ZSeXZzQWhPNEFpdkpyanctSjZnRnlDWDUtRDVOQlhkZ0dnODJKMHFzSlRKUThGcE10Yy1xUlNZcTBwRk1VWllfQ2RxRWhrdmVWNHpqOVplYVlCUnQ1bHdzNTR3MEx3dGVodlpBZnJIN1NZQ2lpdTJWSVJhQ1A5b3BnQ3ZjalZ1WnYzT3l5cUN3ZjJoVmUyZ1cwQndMRWJhV0JlYm1mMXVqLXhyTkx6VUF2TXdiQ3Zib2c1OGpXa2NtY3JYYW5TOWJJQVRXMGNKSjdubXYzQXNneVVON1pMVjZVcDJXTEN6V3REb3ZTVmQwZkxka2lXR3RJSXMwckdNYzFuYjF4TEtWazlhdE55Y0dYTUxURkt2YVlleWM3VjVfWDg5WGZwY2h5bWp2ek9qd3RXa3RGTjc0d3ZKZDlyYkVCM25jeEprUzVMcGRvWTI5NEpIR2pqdXBoYTNGYVpXaDNneHFPTlVXcFpnaGt0ZkRuaGhpRHNKV3dEdXZsSHNoazhKY3lJNWxHV1k3ZXdveWp3djQ0OHVzbEphMmRrMVRaYVMwd2RiR0FiVEVpbk1CTlBWZGhycVZGMWFGWGRVWWp5SGJHV19CSXNYOHV5cGlRMDItR3lZNFRYRGoybEN1dGNNOFBFcHhJNTAxM0t4WXdTajVMWG9BdUxCSWFqOXV4ZDRyanh0blM2R2RpY0tMOXNSV0VWWWkyMzh2a09LVVBzZm9FdzhqVTJwSGt5XzYzZ1UteFYwQThlVmdKSGI3TDE4aktTdkp4T3hOQzhWYUpEdVlKQXFmNko2eVItdElyekx5VXo2VmdrTE40cm56RE10bGJpS0k1dmlfajFScGdycTZkUkFFZm9GVlE?oc=5",
+      "source": "Facebook"
+    },
+    {
+      "title_th": "หุ้นเซมิคอนดักเตอร์ถูกเทขาย ท่ามกลางความกังวลฟองสบู่ AI หลัง Nvidia ร่วง",
+      "summary_th": "สื่อเกาหลีรายงานว่าหุ้นกลุ่มเซมิคอนดักเตอร์ถูกเทขายต่อเนื่องจากความระวังเรื่องฟองสบู่ AI หลัง Nvidia ซึ่งเคยนำตลาด AI ปรับตัวลงแรงก่อนหน้านี้",
+      "title_en": "Semiconductor stocks sold off on AI bubble worries after Nvidia's plunge",
+      "summary_en": "Korean media report chip stocks were dumped amid continued AI bubble vigilance, following a recent plunge in Nvidia, which had led the AI industry.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1cGsway1YSkZpdkJsR3ZIYVhkLWdqRmtpUzNEM3JCakZLODc1a3Rmd21ZRUJYdldkbVU1YnNfTWFfNDhGN2Z4M1ZZcmNiVmc?oc=5",
+      "source": "매일경제"
+    },
+    {
+      "title_th": "รัฐมนตรีศึกษาธิการเกาหลีใต้ลาออก รับผิดชอบปมโกงสอบด้วย AI",
+      "summary_th": "รัฐมนตรีศึกษาธิการเกาหลีใต้ลาออกเพื่อรับผิดชอบกรณีการใช้ AI โกงสอบ และการเปลี่ยนกฎสกัดการใช้ AI อย่างกะทันหันก่อนสอบเข้ามหาวิทยาลัย",
       "title_en": "South Korea's education minister resigns over AI exam cheating",
-      "summary_en": "South Korea's education minister resigned to take responsibility for AI-assisted exam cheating; a sudden rule change before the university entrance exam caused confusion.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVNVk2NVR2NFdseS0ybjVockp6YThwcjA2WVROdElZQ2VFb082Q3dCSFZYdGFMeXZRRHVXQ1RSb21GWktLZ2dBV0JHQU5mZ19K?oc=5",
-      "source": "สำนักข่าวอินโฟเควสท์"
-    },
-    {
-      "title_th": "หุ้นนิวยอร์กปิดร่วงเกิน 2% กังวลทิศทาง AI แม้ Anthropic เทรดวันแรกคึกคัก",
-      "summary_th": "ดัชนี Dow Jones และ Nasdaq ปิดลดลงกว่า 2% จากความกังวลเรื่องทิศทางของ AI ขณะที่หุ้น Anthropic มีการซื้อขายคึกคักในวันแรก",
-      "title_en": "US stocks fall over 2% on AI worries despite busy Anthropic trading debut",
-      "summary_en": "The Dow Jones and Nasdaq closed down more than 2% on concerns about the direction of AI, while Anthropic's first day of trading was active.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RZ3U3MHloX3V2Unhsc2ZmMzBMQ0hjME9jR0w5VkV3UjFYN0oyRnU1MkV1YjQ4RTBDcVhXTDJNYTFlTF8zN1NHcHpHdm9HekR3?oc=5",
-      "source": "สำนักข่าวอินโฟเควสท์"
-    },
-    {
-      "title_th": "ธนาคารใหญ่ในสหรัฐฯ แบนบอท AI ของบุคคลที่สามเข้าบัญชีลูกค้า",
-      "summary_th": "สถาบันการเงินรายใหญ่ในสหรัฐฯ ห้ามบอทภายนอกล็อกอินเข้าบัญชีของลูกค้า และเตือนว่าความเสียหายจากความผิดพลาดของบอทเป็นความรับผิดชอบของลูกค้าเอง",
-      "title_en": "Banks crack down on AI agents logging into customer accounts",
-      "summary_en": "Major US financial institutions are banning third-party bots from logging into accounts and warning that costly bot mistakes are the customer's responsibility.",
-      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "source": "Wired"
-    },
-    {
-      "title_th": "Google เผยแฮ็กเกอร์ใช้ AI Agents โจมตีระบบจริงแบบอัตโนมัติ",
-      "summary_th": "Google เปิดเผยว่าแฮ็กเกอร์ใช้ AI Agents โจมตีระบบจริงได้อย่างอัตโนมัติ ซึ่งเป็นประเด็นด้านความปลอดภัยไซเบอร์ที่องค์กรควรติดตาม",
-      "title_en": "Google says hackers are using AI agents to attack real systems autonomously",
-      "summary_en": "Google reported how hackers use AI agents to carry out attacks on real systems automatically.",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPdDBod3gydDE1cmFiOHBpZzVKRExQNGhBdTZSMzRGbEt5bkpScUJLNFNRYlJuS0JnVEJwRXNFSEZmSFFxeFc0Wmg4azFzX1pqRktLZDlPRUxPUXE1TTJDYXBGZVRIX1FnVV9MazhJUjIyeFU1TTREQ0lmSTJnZjVsTWpCT1hLeTVZYnhLOE9oZ3BwOTJXNHpCelJNUU4zdVhqR3B2RmVCMTc2REJreVlrcTdoV3dCWWtmczZwWWpoVjY5T2QwUkh1cEpjcWFpUHc3Z2l5S0JmUlJ6eVNUb19nNV8yREZfQWxHbURmTFUybm5YRkVocW9FLS0wNkFJdWJGa2s5SDRwYjZVY1JnRnlqX3RWU2pldnlibHlVQTQ0YW5naEs3Yk82OXRRQ1Q0LTNQYnJGWjJmTWlZY3NGbjNxZkU5LXgyS2FGY2tGVjdBY3hkdFJX?oc=5",
-      "source": "i-secure Co, Ltd."
-    },
-    {
-      "title_th": "ทรัมป์จ่อออกกฎห้ามบริษัทสหรัฐฯ สร้างดาต้าเซ็นเตอร์ในต่างประเทศ",
-      "summary_th": "รายงานระบุว่าทรัมป์เตรียมออกกฎใหม่ห้ามบริษัทสหรัฐฯ สร้างดาต้าเซ็นเตอร์นอกประเทศ",
-      "title_en": "Trump reportedly preparing rule barring US firms from building data centers abroad",
-      "summary_en": "Trump is reportedly preparing a new rule that would bar US companies from building data centers overseas.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11VmtWaXdwclZCQkxUQnl3R2NXNDN4cVdpWUR5dUJvQ09qTWM4MHdtOEJQZllrcTJUNmtjMzBBanZqYWk5eWloM2s0eDlrckstMVFfX0ZKODcwUVNQa09ud21LTHg?oc=5",
-      "source": "bangkokbiznews"
+      "summary_en": "South Korea's education minister resigned over AI-assisted exam cheating and a sudden rule change to curb it ahead of the university entrance exam.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cHhOM0d2c3Y0LUs1VXFiaUVjTHZiSG1RRHk2VGRSQ3JRQTJZblE4QnpzazlEQ3VCWG4zeFlySENLQkJVZ1VRWDFKSEdGQVhHcC1JTGl0VWtqUm8?oc=5",
+      "source": "thairath.co.th"
     }
   ]
 }
