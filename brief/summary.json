@@ -1,46 +1,46 @@
 {
-  "generated": "2026-11-23T06:42:33+07:00",
+  "generated": "2026-11-23T21:12:14+07:00",
   "model": "claude-sonnet-5-5 (routine)",
   "items": [
     {
-      "title_th": "วิกฤตหุ้น AI ฉุดวอลล์สตรีทร่วง ดาวโจนส์-S&P500 เข้าสู่ภาวะปรับฐาน",
-      "summary_th": "สยามรัฐวิเคราะห์ว่าแรงขายหุ้น AI ทำให้ดัชนีดาวโจนส์และ S&P500 ปรับฐาน โดย Micron เป็นหุ้นกลุ่ม AI ที่ปรับลงมากที่สุดตามรายงานของ Moomoo และ AFR ระบุว่าตลาดเริ่มมองหากลุ่ม 'ผู้ชนะ' รายต่อไป",
-      "title_en": "AI stock rout drags Wall Street lower as Dow and S&P 500 enter correction",
-      "summary_en": "Siamrath's analysis says the sell-off in AI stocks pushed the Dow and S&P 500 into a correction. Moomoo reports Micron led losses among AI stocks, and AFR says investors are looking for the next 'winners'.",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iV0ctbjc4Y3Q0SDAxaEYzNnFXZW5QM1cwVzBlQ0oya2Y5cVhDNzVtdkV5eHRGa3laTlpqVi1ia1pNQzNKdTFoWmFWczJwUQ?oc=5",
-      "source": "สยามรัฐ"
-    },
-    {
-      "title_th": "เอชเอสบีซีเปิดตัว “HSBCnio” ใช้ AI เชื่อมข้อมูลการเงิน บริหารสภาพคล่องธุรกิจ",
-      "summary_th": "HSBC เปิดตัวบริการ HSBCnio ที่ใช้ AI เชื่อมข้อมูลทางการเงินเพื่อช่วยธุรกิจบริหารสภาพคล่องและธุรกรรมการเงินองค์กร",
-      "title_en": "HSBC launches HSBCnio, an AI tool linking financial data for corporate liquidity management",
-      "summary_en": "HSBC has launched HSBCnio, which uses AI to connect financial data to help businesses manage liquidity and corporate transactions.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nTHBBbkVrWmZYRk1pd1lfYUd3Y1BCQkszbUhaQlRSMTZ6WmxqZ0lLX1JrNnBrYUtYRmlWSzVQcEFBdGt3d0pVazV3ckM4aTJsRUNMVGVn?oc=5",
+      "title_th": "ตลาดหุ้นเอเชียออกมาตรการคุมชอร์ต เพิ่มสภาพคล่อง หลังแรงเทขายหุ้น AI",
+      "summary_th": "เกาหลีใต้ จีน และไต้หวันออกมาตรการคุมการขายชอร์ตและเพิ่มสภาพคล่อง หลังหุ้นกลุ่ม AI ถูกเทขายจนตลาดร่วงต่อเนื่อง",
+      "title_en": "Korea, China and Taiwan move to prop up stocks after AI selloff",
+      "summary_en": "South Korea, China and Taiwan introduced short-selling curbs and added liquidity after a continued selloff in AI-linked shares dragged their markets lower.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XaXlrUDVqX3B0TlVfUTRFc04yU0FMRElpZEFQM0ZjNFFVSExrd2QwdnVhb01YY2duQW5zVFhUU2d1cU9NblFJRUJuWXUtVHhxaTlyYzZ3?oc=5",
       "source": "LINE TODAY"
     },
     {
-      "title_th": "FSSIA ชี้ทรัมป์คุมชิป AI-ขู่เก็บภาษี Data Center ต่างแดน เสี่ยงกดดันหุ้นไทย",
-      "summary_th": "FSSIA มองว่าแนวทางของทรัมป์ที่ควบคุมชิป AI และขู่เก็บภาษี Data Center ในต่างประเทศ อาจเป็นความเสี่ยงที่กดดันหุ้นไทย",
-      "title_en": "FSSIA: Trump's AI chip controls and data center tax threat could pressure Thai stocks",
-      "summary_en": "FSSIA says Trump's control over AI chips and his threat to tax overseas data centers could weigh on Thai equities.",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjNkNMZHE5LThCeGNNcUFocm96NWRnMVVTTHhSZ2FyZFRISjk1YXQ5VnFKd3BDdnFxbHd6cmozTkFIbkxFOFhpY1praw?oc=5",
-      "source": "ข่าวหุ้นธุรกิจออนไลน์"
+      "title_th": "Meta Muse ช็อปของให้ที่ Walmart ช่วง Black Friday",
+      "summary_th": "Walmart จะให้ AI เอเจนต์ Muse ของ Meta ค้นหาและซื้อดีลช่วง Black Friday บนเว็บไซต์แทนผู้ใช้ เริ่มวันอังคารที่ 24 พฤศจิกายน",
+      "title_en": "Meta Muse can do your Black Friday shopping at Walmart",
+      "summary_en": "Walmart will let Meta's Muse AI agent find and buy Black Friday deals on its website on a shopper's behalf, starting Tuesday, November 24.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "source": "The Verge"
     },
     {
-      "title_th": "หัวหน้านักวิทยาศาสตร์ OpenAI เสนอแนวคิดจำกัดการพัฒนา AI",
-      "summary_th": "TechCrunch รายงานว่าหัวหน้านักวิทยาศาสตร์ของ OpenAI ระบุว่าการตั้งเพดานความเร็วในการพัฒนา AI ต้องตกลงวิธีวัดความเร็วให้ตรงกันก่อน",
-      "title_en": "OpenAI's chief scientist outlines how to limit AI development",
-      "summary_en": "TechCrunch reports OpenAI's chief scientist says a speed limit on AI development requires first agreeing on how to measure speed.",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "source": "TechCrunch"
+      "title_th": "รัฐสหรัฐฯ ฟ้อง SpaceX กรณีภาพ deepfake จาก Grok",
+      "summary_th": "อัยการสูงสุดของรัฐออริกอนและเวอร์จิเนียฟ้องบริษัทในเครือ Elon Musk ว่ามีมาตรการป้องกันภาพเชิงเพศของบุคคลจริงรวมถึงเด็กที่อ่อนเกินไป",
+      "title_en": "States sue SpaceX over Grok deepfakes",
+      "summary_en": "The attorneys general of Oregon and Virginia are suing several Elon Musk companies, alleging weak safeguards against sexualized imagery of real people, including children.",
+      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "source": "Wired"
     },
     {
-      "title_th": "Meta ทบทวนเป้าหมายด้านภูมิอากาศปี 2030 หลังการปล่อยคาร์บอนจาก AI พุ่ง",
-      "summary_th": "Scripps News รายงานว่า Meta กำลังทบทวนเป้าหมายด้านภูมิอากาศปี 2030 เนื่องจากการปล่อยก๊าซจากงานด้าน AI เพิ่มสูงขึ้น",
-      "title_en": "Meta rethinks its 2030 climate goal as AI emissions soar",
-      "summary_en": "Scripps News reports Meta is reconsidering its 2030 climate goal as emissions from AI rise sharply.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkd0bTIwYkRKTzR6MkhPMWFuaXNCOTkzZ3NRN3RpZ1NCNDJKVU9jSnFyVUd3RGFOQ0g0R2tzc2VQLThSblREX0szeEZKMGkzaTVQQTNFVlpzVEdtT3FfVUJmdkdMMDF4SnBYMWl1Y3o4b2tnZUNha2gtclo2b01HWEYwUW8wODVwNzBTVnhUdGZOV0g4OEZDTEdSZjFtZldWVEZral9zM3F4RmRQcG45encyN1oySS1SS3AxQncyZEJuMkE?oc=5",
-      "source": "Scripps News"
+      "title_th": "Nvidia หนุนอินเทอร์เฟซสมอง-คอมพิวเตอร์ของ Paradromics",
+      "summary_th": "Paradromics บริษัทอินเทอร์เฟซสมอง-คอมพิวเตอร์ ใช้ฮาร์ดแวร์และซอฟต์แวร์ของ Nvidia ประมวลผลข้อมูลสมอง",
+      "title_en": "Nvidia is powering brain-computer interfaces",
+      "summary_en": "Brain-computer interface company Paradromics is using Nvidia's computing hardware and software to process brain data.",
+      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "source": "Wired"
+    },
+    {
+      "title_th": "Apple เตรียมเปิดตัว AI Agent ในปี 2027",
+      "summary_th": "รายงานระบุว่า Apple เตรียมเปิดตัว AI Agent ในปี 2027 พร้อมวิเคราะห์เหตุผลที่บริษัทเทคโนโลยียักษ์ใหญ่ต้องเข้าสู่สนาม AI",
+      "title_en": "Apple reportedly plans an AI agent launch in 2027",
+      "summary_en": "A report says Apple is preparing to launch an AI agent in 2027 and examines why big tech firms must enter the AI race.",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHVWs0YjBMUXhGLWxENUpHbUwzeFRxZ2hKdjhOWmZoSnE3MEdPZTdOVnMzOWcwc2k2dVNLXzA1alZiRFQ1a2t3X0Fqaw?oc=5",
+      "source": "Thunhoon"
     }
   ]
 }
