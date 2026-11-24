@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T21:11:18+07:00",
+ "generated": "2026-11-24T21:47:39+07:00",
  "articles": [
   {
    "title": "ตลาดหุ้นเอเชีย ปิดบวกเกือบทั้งภูมิภาค! เกาหลีใต้พุ่งกว่า 6% รับกระแส AI ฟื้น หลัง Jensen Huang กลับ Nvidia ขณะที่ฮ่องกงสวนทาง | การเงินธนาคาร",
@@ -18,28 +18,20 @@
    "published": "2026-11-24T09:34:57+00:00"
   },
   {
-   "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
-   "source": "Wired",
-   "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
-   "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
-   "coverage": 6,
-   "published": "2026-11-23T17:52:56+00:00"
-  },
-  {
-   "title": "Jensen Huang Is Back as Nvidia CEO",
-   "source": "Wired",
-   "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
-   "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
-   "coverage": 6,
-   "published": "2026-11-23T14:27:35+00:00"
-  },
-  {
    "title": "Nvidia reinstates Jensen Huang after Trump speaks ‘directly’ to board",
    "source": "The Washington Post",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmNHaTN2YnhWcEZ0QVVkbkdNamZzRU5VWFRYd0JhaDVpaEpveDRzc2F6X21RS1lqZjIxbVZUaXhsYllvelpqQjdfYWtuYm0yVUV4eEdoT00xNV9aalVLSm9SNFVReTZQVXpqU2Z5WXBwNHo0RDBfY2FuaENWUy16UHNPU1E0eV9pUGN5VlByS0RzM09BS1NVQ3FlbENIMjB6WkcyQ2lOb3BRUldJZHJBdW1Ebm8yZVk?oc=5",
    "coverage": 5,
    "published": "2026-11-23T23:24:23+00:00"
+  },
+  {
+   "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+   "source": "Wired",
+   "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+   "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+   "coverage": 5,
+   "published": "2026-11-23T17:52:56+00:00"
   },
   {
    "title": "Nvidia CEO Jensen Huang is back. What happens next?",
@@ -58,14 +50,6 @@
    "published": "2026-11-23T19:57:18+00:00"
   },
   {
-   "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-   "source": "TechCrunch",
-   "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-   "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-   "coverage": 4,
-   "published": "2026-11-23T18:12:22+00:00"
-  },
-  {
    "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
    "source": "TechCrunch",
    "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
@@ -74,12 +58,12 @@
    "published": "2026-11-23T15:04:01+00:00"
   },
   {
-   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+   "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
    "source": "TechCrunch",
-   "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
-   "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-   "coverage": 4,
-   "published": "2026-11-23T14:21:59+00:00"
+   "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+   "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+   "coverage": 3,
+   "published": "2026-11-23T18:12:22+00:00"
   },
   {
    "title": "Anthropic launches Claude Ship, extending AI-assisted development to pull request approvals",
@@ -90,12 +74,28 @@
    "published": "2026-11-24T11:14:26+00:00"
   },
   {
+   "title": "บ้านปู เน็กซ์ ชู 5-Layer AI Stack เสริมแกร่งโครงสร้างพื้นฐาน Data Center",
+   "source": "ไทยโพสต์",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSTBub3lYZDJqMVFzaWF0SEpmdzVrYUZMdlBDSkc1OWxnaXNOZHUtQkRYOUlqOWlqRTlMbUtXbzFqTzZsN2tqQUFsR1plaXU3andyaC1pYkswdw?oc=5",
+   "coverage": 2,
+   "published": "2026-11-24T10:41:51+00:00"
+  },
+  {
    "title": "Google Search เพิ่มฟีเจอร์ใหม่ เชื่อม Wallet, Drive และ Gemini ให้ AI Mode ตอบตรงใจผู้ใช้มากขึ้น",
    "source": "Techsauce",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yZUFSQnBSREpjYTNHMWNiU0hUU1hqSkZRUGVDREZtRXd6dkJFdXpKWlFQYWpYN3BydUtBWXFoRXgyVllvMVJsalZRb3hjUzUwdGwwd0Fyei1BQkFrY0w3TW5mRWY1eTdBZEFsblB5d1NuUVFtWnlaYUY4NEE?oc=5",
    "coverage": 2,
    "published": "2026-11-24T08:39:25+00:00"
+  },
+  {
+   "title": "BANPU NEXT มองโอกาสพลังงานผ่าน ‘5-Layer AI Stack’ ชู ‘Net Zero Solutions’ เสริมแกร่งโครงสร้างพื้นฐาน Data Center",
+   "source": "มิติหุ้น",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qNS16dDlhTGJycTJlWG1aRzBhSExpVk5YaFZTakw2dlFxc200OXBuSzRMSm03UkYwcndianVmbjlrMy1POGJnMExNRm1pNUdNam93Zm9R?oc=5",
+   "coverage": 2,
+   "published": "2026-11-24T08:09:29+00:00"
   },
   {
    "title": "Anthropic เปิดตัว Claude Ship ให้ AI รีวิว แก้ และ กดอนุมัติโค้ดเอง เฉพาะงานที่นโยบายของทีมอนุญาต งานเสี่ยงยังต้องผ่านคนเซ็นรับรองตามเดิม",
@@ -178,6 +178,22 @@
    "published": "2026-11-23T16:39:10+00:00"
   },
   {
+   "title": "US Dollar: AI rebound supports Greenback – MUFG",
+   "source": "tmgm.com",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNm10cXZ3bmF5RVNuX29MYzc3N3FTSWtUTzQ4dlFmMVUwZjNLOHlSYW9sQzVUUjU3dC1OVlAzUWJJLVVXWFVkTDJ5TlkyUVRYOThzcGVSZmJ2OWpqY2lwQlhJdEFtYXpPSjREWk9VM0RQdTVRMFhiRVpoSHhIa19vTy13dFM2SEtJcElEWklOUlF5b1ByY1FYU0tHdWNGalJ5Q2FtOHFLbnNUcnZJVVFZ?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T14:39:33+00:00"
+  },
+  {
+   "title": "Local Leadership in the Age of AI: How Artificial Intelligence is Transforming Locally Led Humanitarian Action.",
+   "source": "ReliefWeb",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkJiUzFzd3VvVVpFNXFpal9zNGpkbUR6eXRrcHRJbWxxNHZJejlkYjRCNnN5QldiTzFJVjR3NFo0aEJOQXBpcjlsNXd5RFpqd2NlcTRPQXQyV3RmdEVEZHhXX2l5Y0NsdXdQOHdYT3g0aENVNnBmVUVJRng4VmtwWHE0aENJODB4TG5IZ3RIVGxLcUNJM1k3dHFSQVlqdWJuMzdUVElBZ19IR2V5RHFTaTEtTnRJRG5TRXhyX0xLalI1SVNoWjltSnZzQQ?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T14:27:31+00:00"
+  },
+  {
    "title": "Metabolic Modeling and Artificial Intelligence Drive Breakthroughs in Biomanufacturing and Medicine",
    "source": "Bioengineer.org",
    "summary": "",
@@ -192,6 +208,14 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qb1E0ekF2Y195b0JfWjJORHA3SVFxY3ZBcVJZa2dYMUw3bTFnUmxyX3FvdldNVFg5UEhpdHNRWE9DY0xDckR0YklqMTRISnNFdVJNOE0wWFlMT0ZDek9JRUhwV3hXRkhqZTFVTmYtdkZLWEdPcHdGX1B3VjdNVXM?oc=5",
    "coverage": 1,
    "published": "2026-11-24T14:06:42+00:00"
+  },
+  {
+   "title": "PostSig Wins Best Artificial Intelligence for Infrastructure & Operations at the 2026 WatersTechnology Buy-Side Technology Awards",
+   "source": "The Batesville Daily Guard",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPZTVoZFp6Y3RHUk5LVjJ1aDdjeE5YcTRhRlc3NzkwY3JDRmotRTl2elYzNE9Wckh5WERJQnlodlpiOTUzdHpQWml1QUJJZk4ySFhRMW5CREVadC1VTnVsa3BtRm5oN3NXNUZWcWRRSTFONVlGdFZSZGdhaWl5cVFhM2ZHWjdYWG92ckVRSkI3LXJ0R3dqY1MzZDBIcWJLX0puUFVid3dKSW9scVhjTnp3MVdQMy1GaWlCbGlkRUdkRmxqOVNrUzBZNGZBQmtTaWY3WU01VEM2NlpfTGs3WDREd1hFRG4yQTJaZWlNTUNTSzNyT2VCWjdfX0M1aU02ajhtNy0tc09XYnhRUnBMRUROZXBNcW12b2RYUDBfc3F6c1pFNzlpMzNXd0dYSjFxS2U5dTVBal9Hcw?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T14:01:36+00:00"
   },
   {
    "title": "SMX is Giving Artificial Intelligence an Industrial Revolution of Its Own",
@@ -234,12 +258,28 @@
    "published": "2026-11-24T13:00:09+00:00"
   },
   {
+   "title": "Generative AI in marketing statistics 2026: Adoption and ROI",
+   "source": "Hostinger",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUXdLcjNNOG5GNmNaTzRWTUh3bjQyb09uWk9RN29Ualh1MmNyc1lPNGVtbTcwam8wTmhoRkRNVXV4RlpacTV0RWdzQ3NZSnh0b19qRFlsaGx2bDNqdDBRWWlROGQwcnZyTkdOVXdXOUVtTjhiTlB2Tkc4OEh2ZlgtaVNrcw?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T12:57:13+00:00"
+  },
+  {
    "title": "5 ทีมสุดท้าย! ใครได้ไปต่อ? ต่างมุมมอง แต่มุ่งสู่เป้าหมายเดียวกัน",
    "source": "ไทยโพสต์",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuWTJIZ3pMT0N5MDV1X3U4NzA3eFc1T0MxcmRDRkpyWHg2b3RPbGhxMTR3SDJ1Z0l3M2s2YzJ5SnpaX1Jma0paNEhJdThnOGFKN0lUb3ByZHVMVVJWWl9FWmF3WEFMUQ?oc=5",
    "coverage": 1,
    "published": "2026-11-24T12:49:27+00:00"
+  },
+  {
+   "title": "A Generative AI Concerto | Tomohiro Ichinose, Dean of the Faculty of Environment and Information Studies",
+   "source": "慶應義塾",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uaDdVX1dxOG93NVFUSldDRnpfdGRKcjRFS2sybDJGd0t2YUluekdSdTJSdGprMTVVZ3FFc2UzdURoZ0o4ZFpqanJKRFd0aWR1alphS0xNOG0xS3FWMmliaUh5YWl1ZTRPSEZNNg?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T12:45:33+00:00"
   },
   {
    "title": "LLM agents work for their parent companies, not for you",
@@ -274,52 +314,12 @@
    "published": "2026-11-24T12:22:30+00:00"
   },
   {
-   "title": "SCBX วางเกมธนาคารยุคใหม่ ใช้ AI เข้าใจลูกค้าเป็นรายคน ต่อยอดสินทรัพย์ดิจิทัล พลิกโฉมบริการการเงิน",
-   "source": "LINE TODAY",
+   "title": "Artificial Intelligence and Digital Resilience Mission-Driven National Laboratory Sets Off",
+   "source": "BME",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvM0FFcUxDam5sOTZ3NzhBRXdleXk1LUFhLVZTSTE1ZlV3SkFqNkNsTnlNRmtVcS1HUnFIaEV0MHFFUTFmZmI2eFNUYm9ZNUd1U0N4cTR3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTJONUhiNXdUaW1DOTFxcThTd1Faa0ZPTGFQV3lEYWFldzAtX0t1V3c5RUJfUTliQlh5Tml5dmxqV01Yd1Z3NDBkZHF3SXFXZEttUkIxVXNXU3NMMWRaaEpTSV9fR2xFbVJFbmttZ2JLQ1ZUN3VIbURRT3VBNG5la2N1MTkzeVdYMVlnRlZnaHZDUG5UcmN1N2pLcklVNm1UUGc?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T12:15:53+00:00"
-  },
-  {
-   "title": "Copper price drops about 3.5% after renewed volatility tied to artificial intelligence stocks",
-   "source": "Traders Union",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTElkT3JEZkRmMjlTQnZJWHdJUTNTLUdMTFFNY2dWRTNpLWhiZDNoVGZPTDloNjNHc0RCRFE4Ump4bHNkS2FyWjV5N2N5UE16SFdpd1ZjUV9wUk1TbGUwS2lsYmxGMzk5UlAzTGhfc2FHbXFaVzg0TzBuSzhyN3owMm52aVFnNFdlYTRQQmdyaVdsaEhJWmRWbnd3?oc=5",
-   "coverage": 1,
-   "published": "2026-11-24T12:07:23+00:00"
-  },
-  {
-   "title": "Tech Executives, Investors Confront The AI PR Problem",
-   "source": "Bloomberg.com",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWpfVm9BcmJ5T2tkbUZTZ291S1BNdVcwUGxOV0xwTUdVZlBUSjB5R1dVamhDLUJ1b1U4UHlYYVZZb1JueHVPcGM3WWtBb1hEV3cxbkF5TkFvSEtxZUswT0xWV0pSdDJjQXlHU0NSUzhfQm0wdTZOc0hFaGdkVGRIVUlMempGVG53ZkptcUR1T1VrNEZvMC1GYzhRQkY?oc=5",
-   "coverage": 1,
-   "published": "2026-11-24T12:02:01+00:00"
-  },
-  {
-   "title": "How human and artificial intelligence take flight at Airbus to re-invent Supply Chain Management",
-   "source": "Diginomica",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN09LdTJaeXlHRndfYXZNd2U1eHhvQmY2UllrME9DZEx1aWNWcTJNSzd1TGY0WHR2WDR3Z1hOVFY4UEkyOHFhU2JJNWlXVG0wMmJTaTZGNjRmeVNYS0xkcmJGeVd5aE9EUm1pUWowYnczbVpDOXdiQjFtbjRHWVJXTVBhNDFBYTRVajhwLVNEQ0t0cHljS2c4QmFtSnloR3RqcEFjYzRJY1lxZ01NN0FmOTR5bw?oc=5",
-   "coverage": 1,
-   "published": "2026-11-24T11:37:08+00:00"
-  },
-  {
-   "title": "Wealth Me Please: หนีตายฟองสบู่ AI! \"กวี\" ชี้หุ้นไทยเซฟโซน ปี 70 เป้า 1,700 จุด : อินโฟเควสท์",
-   "source": "สำนักข่าวอินโฟเควสท์",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoQXo5a1ZyODdlSV9XNjBYQ2s1eG4tQTZjWVY4UUhMRHFsVjBLMXVVNmJxME5qY0N2WG9wbU9qT2lNVmxfNzA5OFNqY0N4SmhV?oc=5",
-   "coverage": 1,
-   "published": "2026-11-24T11:15:19+00:00"
-  },
-  {
-   "title": "AI สะดุด–ตลาดหุ้นเข้าสู่ภาวะปรับฐาน! นักลงทุนหนีสินทรัพย์เสี่ยง จับตาตัวเลข PCE",
-   "source": "Thunhoon",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9fY0ZySDlZOXdsU3IyR1FUOEdySGg1bE1JdTNKMjZ0UGd1WDNRX3NXelVyYUpCWWpUbkdOTE9lWDV3ZEdvVFBv?oc=5",
-   "coverage": 1,
-   "published": "2026-11-24T11:15:19+00:00"
+   "published": "2026-11-24T12:18:27+00:00"
   }
  ],
  "brief_urls": [
