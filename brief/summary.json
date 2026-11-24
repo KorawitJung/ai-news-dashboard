@@ -1,46 +1,46 @@
 {
-  "generated": "2026-11-24T06:42:47+07:00",
+  "generated": "2026-11-24T21:10:50+07:00",
   "model": "claude-sonnet-5-5 (routine)",
   "items": [
     {
-      "title_th": "เอ็นวิเดียแต่งตั้ง Jensen Huang กลับเป็น CEO และประธานบอร์ด",
-      "summary_th": "บอร์ดเอ็นวิเดียแต่งตั้ง Jensen Huang กลับมาดำรงตำแหน่งอีกครั้งหลังเขาลาออกเมื่อ 12 พ.ย. จากกรณีข้อกล่าวหาเรื่องชู้สาว โดยบอร์ดระบุว่าเจ้าหน้าที่ระดับสูงของรัฐบาลสหรัฐฯ ยืนยันว่าเขาไม่ใช่ภัยต่อความมั่นคงของชาติ",
-      "title_en": "Nvidia reinstates Jensen Huang as CEO and board chair",
-      "summary_en": "Nvidia's board reinstated Jensen Huang after he resigned on Nov 12 amid allegations of affairs. The board says senior US government officials confirmed he is no national security risk.",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-      "source": "Ars Technica"
-    },
-    {
-      "title_th": "รัฐออริกอนและเวอร์จิเนียฟ้อง SpaceX กรณี Grok สร้างภาพดีปเฟกต์ลามก",
-      "summary_th": "อัยการสูงสุดของสองรัฐกล่าวหาว่าบริษัทไม่ใช้มาตรการป้องกันตามมาตรฐานอุตสาหกรรมต่อภาพลามกของบุคคลจริง ขณะที่ X ระบุว่าตรวจสอบทุกเอาต์พุตของ Grok",
-      "title_en": "Oregon and Virginia sue SpaceX over Grok's deepfakes",
-      "summary_en": "The two states' attorneys general accuse the company of ignoring industry-standard safeguards against sexualized images of real people, while X says every Grok output is screened.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-      "source": "The Verge"
-    },
-    {
-      "title_th": "Anthropic เปิดตัว Claude Ship ให้เอเจนต์ AI ตรวจ แก้ และอนุมัติโค้ด",
-      "summary_th": "เครื่องมือใหม่ให้เอเจนต์ AI จัดการการอนุมัติโค้ดตามปกติ เพื่อลดคอขวดจากโค้ดที่ AI สร้างขึ้นจำนวนมาก",
-      "title_en": "Anthropic launches Claude Ship so AI agents review, fix and approve code",
-      "summary_en": "The new tool lets AI agents handle routine code approvals, aiming to ease the bottleneck from the growing volume of AI-generated code.",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "title_th": "Jensen Huang เตรียมให้ปากคำวุฒิสภาสัปดาห์หน้า หลังกลับมาเป็น CEO Nvidia",
+      "summary_th": "การไต่สวนสาธารณะตามมาหลังมีเสียงเรียกร้องสองพรรคให้ Huang ชี้แจงกรณีความสัมพันธ์กับผู้ต้องสงสัยว่าเป็นสายลับจีน ขณะที่ Trump สนับสนุนการกลับมาและระบุว่าสหรัฐฯ ไม่มีหลักฐานการกระทำผิด",
+      "title_en": "Jensen Huang to testify in Senate next week after Nvidia reinstatement",
+      "summary_en": "A public hearing follows bipartisan calls for Huang to testify about his affair with a suspected Chinese spy. Trump endorsed his return and said the US has no evidence of wrongdoing.",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
       "source": "TechCrunch"
     },
     {
-      "title_th": "LINE จับมือกระทรวงการคลัง หนุน SME ไทยใช้ดิจิทัลและ AI ตั้งเป้า 3 แสนราย",
-      "summary_th": "ความร่วมมือนี้ตั้งเป้าเข้าถึงผู้ประกอบการรายย่อย 300,000 ราย เพื่อช่วยลดต้นทุน เพิ่มประสิทธิภาพ และพัฒนาทักษะดิจิทัลและ AI",
-      "title_en": "LINE partners with Thailand's Finance Ministry to push SMEs toward digital and AI",
-      "summary_en": "The partnership aims to reach 300,000 small businesses to cut costs, improve efficiency and build digital and AI skills.",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vZFAtcnpPNmZTa2hZRUNrUkFva3pVN01SZlQtZVl6RERJaDlPbUZ4VGpBVWpEZzlGeUhWRFZCT0xkNGdMdnhFUzNsRktMMGxpNjdF?oc=5",
-      "source": "Positioningmag"
+      "title_th": "Anthropic เปิดตัว Claude Ship ขยาย AI ช่วยพัฒนาโค้ดไปถึงการอนุมัติ pull request",
+      "summary_th": "Claude Ship ให้ AI รีวิว แก้ และอนุมัติโค้ดได้ในงานที่นโยบายของทีมอนุญาต ส่วนงานเสี่ยงยังต้องให้คนเซ็นรับรองเช่นเดิม",
+      "title_en": "Anthropic launches Claude Ship, extending AI-assisted development to pull request approvals",
+      "summary_en": "Claude Ship lets AI review, fix and approve code for work that team policy permits; risky changes still need human sign-off.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnFTMEt6QTl2eHk2Z1lKMVpZNW1ieWF6TGRSUENiWTF0QWFFekVRUDZxT0pmb29jaU1rM21uMk1TenFYdUNJck4wMGdFdmplMElnTlZIUVFGc1VCRG90cFdRVEFPWm9QQzNMaVZRX0k4UU5uNEt4ZTNOcUZjNjk0c3V4WGl3VmNod1ZNM21CaHo3Vy1ZMGRMeTZLaHZLVnczQ0JUcXdOZjlNeV9lSlhrUTZ0ZDFqbm04b0FZcTJReVpYOE02cUxqWTkzV3JaTUVUREx3?oc=5",
+      "source": "InfoWorld"
     },
     {
-      "title_th": "ออสเตรเลียจะถือ AI เป็นประเด็นนโยบายต่างประเทศสำคัญ เตือนความเสี่ยงต่อประชาธิปไตย",
-      "summary_th": "รายงานข่าวระบุว่าออสเตรเลียจะมองเรื่อง AI เป็นความท้าทายสำคัญด้านนโยบายต่างประเทศ",
-      "title_en": "Australia to treat AI as a key foreign policy challenge, warning of risks to democracy",
-      "summary_en": "Reports say Australia will treat AI as a key foreign policy challenge.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmdWRGZRVWl0NVIxT2w5WmpBdjJWM1kyanhqd3hNdGRuME9SWTgwQU5ZTHVVaVdOdm5LTGdtanlicWpzREgyTjRmYzUtOEcyNl9CTWpGNTdiUHJIYjRmT1F0RUEtZ1RoNHRHeVAxZVpadGpOYjBmOHctMUhQWDZWT0ZWWHZLeHFfblhYZHVIdkczZjZpYmNCeFlGS3dtbnpVQVpjRg?oc=5",
-      "source": "Reuters"
+      "title_th": "AI Mode ใน Google Search เชื่อม Drive, Wallet และแอป Gemini เพื่อตอบแบบเฉพาะบุคคลมากขึ้น",
+      "summary_th": "Google ขยาย Personal Intelligence ใน AI Mode ไปยังข้อมูลใน Drive, Wallet และแอป Gemini ซึ่งใช้ประโยชน์จากข้อมูลผู้ใช้ที่อยู่ในระบบของ Google อยู่แล้ว",
+      "title_en": "Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "summary_en": "Google is extending Personal Intelligence in AI Mode to Drive, Wallet and the Gemini app, using user data already within its ecosystem.",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "TechCrunch"
+    },
+    {
+      "title_th": "Amazon ระบุแฮกเกอร์ใช้เอเจนต์ AI ค้นพบและโจมตีช่องโหว่ 0-day โดยมนุษย์ช่วยน้อยมาก",
+      "summary_th": "เฟรมเวิร์ก AI ชื่อ Cairn ถูกระบุว่าเป็นประโยชน์ทั้งต่อฝ่ายป้องกันและฝ่ายโจมตี",
+      "title_en": "Amazon says hackers' AI agents found and exploited a 0-day with little human input",
+      "summary_en": "The Cairn AI framework is described as a boon for both defenders and attackers.",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica"
+    },
+    {
+      "title_th": "ตลาดหุ้นเอเชียปิดบวกเกือบทั้งภูมิภาค เกาหลีใต้พุ่งกว่า 6% รับกระแส AI ฟื้นหลัง Huang กลับ Nvidia",
+      "summary_th": "หุ้นเอเชียส่วนใหญ่ปิดบวก โดยตลาดเกาหลีใต้เพิ่มขึ้นกว่า 6% ขณะที่ฮ่องกงปิดสวนทาง",
+      "title_en": "Asian stocks close higher across most of the region; South Korea jumps over 6% as AI rebounds after Huang's return to Nvidia",
+      "summary_en": "Most Asian markets closed higher, with South Korea up more than 6%, while Hong Kong moved the other way.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VbWdYWkdkRUFWMXp0dEtFOW9uQ3Y1WTNySEJKc3NWOVdUeVpDVkRmdHFWTU9JYWh0Z2Y1VXdTU1dTYjJrOEV6QVhDUU0wNmVDd2lpMjdR?oc=5",
+      "source": "LINE TODAY"
     }
   ]
 }
