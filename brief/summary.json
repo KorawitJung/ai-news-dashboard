@@ -1,46 +1,46 @@
 {
-  "generated": "2026-11-24T21:10:50+07:00",
+  "generated": "2026-11-25T06:41:40+07:00",
   "model": "claude-sonnet-5-5 (routine)",
   "items": [
     {
-      "title_th": "Jensen Huang เตรียมให้ปากคำวุฒิสภาสัปดาห์หน้า หลังกลับมาเป็น CEO Nvidia",
-      "summary_th": "การไต่สวนสาธารณะตามมาหลังมีเสียงเรียกร้องสองพรรคให้ Huang ชี้แจงกรณีความสัมพันธ์กับผู้ต้องสงสัยว่าเป็นสายลับจีน ขณะที่ Trump สนับสนุนการกลับมาและระบุว่าสหรัฐฯ ไม่มีหลักฐานการกระทำผิด",
-      "title_en": "Jensen Huang to testify in Senate next week after Nvidia reinstatement",
-      "summary_en": "A public hearing follows bipartisan calls for Huang to testify about his affair with a suspected Chinese spy. Trump endorsed his return and said the US has no evidence of wrongdoing.",
-      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "source": "TechCrunch"
-    },
-    {
-      "title_th": "Anthropic เปิดตัว Claude Ship ขยาย AI ช่วยพัฒนาโค้ดไปถึงการอนุมัติ pull request",
-      "summary_th": "Claude Ship ให้ AI รีวิว แก้ และอนุมัติโค้ดได้ในงานที่นโยบายของทีมอนุญาต ส่วนงานเสี่ยงยังต้องให้คนเซ็นรับรองเช่นเดิม",
-      "title_en": "Anthropic launches Claude Ship, extending AI-assisted development to pull request approvals",
-      "summary_en": "Claude Ship lets AI review, fix and approve code for work that team policy permits; risky changes still need human sign-off.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnFTMEt6QTl2eHk2Z1lKMVpZNW1ieWF6TGRSUENiWTF0QWFFekVRUDZxT0pmb29jaU1rM21uMk1TenFYdUNJck4wMGdFdmplMElnTlZIUVFGc1VCRG90cFdRVEFPWm9QQzNMaVZRX0k4UU5uNEt4ZTNOcUZjNjk0c3V4WGl3VmNod1ZNM21CaHo3Vy1ZMGRMeTZLaHZLVnczQ0JUcXdOZjlNeV9lSlhrUTZ0ZDFqbm04b0FZcTJReVpYOE02cUxqWTkzV3JaTUVUREx3?oc=5",
-      "source": "InfoWorld"
-    },
-    {
-      "title_th": "AI Mode ใน Google Search เชื่อม Drive, Wallet และแอป Gemini เพื่อตอบแบบเฉพาะบุคคลมากขึ้น",
-      "summary_th": "Google ขยาย Personal Intelligence ใน AI Mode ไปยังข้อมูลใน Drive, Wallet และแอป Gemini ซึ่งใช้ประโยชน์จากข้อมูลผู้ใช้ที่อยู่ในระบบของ Google อยู่แล้ว",
-      "title_en": "Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "summary_en": "Google is extending Personal Intelligence in AI Mode to Drive, Wallet and the Gemini app, using user data already within its ecosystem.",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TechCrunch"
-    },
-    {
-      "title_th": "Amazon ระบุแฮกเกอร์ใช้เอเจนต์ AI ค้นพบและโจมตีช่องโหว่ 0-day โดยมนุษย์ช่วยน้อยมาก",
-      "summary_th": "เฟรมเวิร์ก AI ชื่อ Cairn ถูกระบุว่าเป็นประโยชน์ทั้งต่อฝ่ายป้องกันและฝ่ายโจมตี",
-      "title_en": "Amazon says hackers' AI agents found and exploited a 0-day with little human input",
-      "summary_en": "The Cairn AI framework is described as a boon for both defenders and attackers.",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "title_th": "เจนเซน หวงกลับมานั่งเก้าอี้ผู้นำ Nvidia หลังแรงกดดันจากทำเนียบขาวและวงการเทคโนโลยี",
+      "summary_th": "Ars Technica รายงานว่าพันธมิตรของหวงขอให้ทรัมป์และแวนซ์กดดันบอร์ด Nvidia ให้รับเขากลับ ส่วน Wired ระบุว่าเขาขอโทษพนักงานในการประชุมใหญ่ครั้งแรกหลังกลับมา ขณะที่ตลาดหุ้นเอเชียส่วนใหญ่ปิดบวก โดยเกาหลีใต้พุ่งกว่า 6%",
+      "title_en": "Jensen Huang returns as Nvidia chief after pressure from the White House and tech allies",
+      "summary_en": "Ars Technica reports Huang's allies asked Trump and Vance to pressure Nvidia's board to take him back. Wired says he apologized to staff at his first all-hands since returning, while most Asian stock markets closed higher, with South Korea up over 6%.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
       "source": "Ars Technica"
     },
     {
-      "title_th": "ตลาดหุ้นเอเชียปิดบวกเกือบทั้งภูมิภาค เกาหลีใต้พุ่งกว่า 6% รับกระแส AI ฟื้นหลัง Huang กลับ Nvidia",
-      "summary_th": "หุ้นเอเชียส่วนใหญ่ปิดบวก โดยตลาดเกาหลีใต้เพิ่มขึ้นกว่า 6% ขณะที่ฮ่องกงปิดสวนทาง",
-      "title_en": "Asian stocks close higher across most of the region; South Korea jumps over 6% as AI rebounds after Huang's return to Nvidia",
-      "summary_en": "Most Asian markets closed higher, with South Korea up more than 6%, while Hong Kong moved the other way.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VbWdYWkdkRUFWMXp0dEtFOW9uQ3Y1WTNySEJKc3NWOVdUeVpDVkRmdHFWTU9JYWh0Z2Y1VXdTU1dTYjJrOEV6QVhDUU0wNmVDd2lpMjdR?oc=5",
-      "source": "LINE TODAY"
+      "title_th": "Tidal แบนเพลงที่สร้างด้วย AI ทั้งหมด ลบราว 27 ล้านแทร็ก",
+      "summary_th": "Tidal ประกาศแบนเพลงที่สร้างด้วย AI เต็มรูปแบบตั้งแต่ 9 ธันวาคม และจะลบเพลงเหล่านี้ซึ่งคิดเป็น 6.3% ของแคตตาล็อก แต่ยังรับเพลงที่ใช้ AI ช่วยในการผลิต",
+      "title_en": "Tidal bans fully AI-generated music, will delete 27 million tracks",
+      "summary_en": "Tidal will ban fully AI-generated music from December 9 and remove those tracks, which make up 6.3% of its catalog. Songs made with AI assistance will still be accepted.",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "source": "Ars Technica"
+    },
+    {
+      "title_th": "Anthropic เปิดตัว Claude Ship ให้ AI รีวิว แก้ และอนุมัติโค้ดได้เอง",
+      "summary_th": "Claude Ship ให้ AI รีวิว แก้ไข และกดอนุมัติ pull request ได้เฉพาะงานที่นโยบายของทีมอนุญาต ส่วนงานเสี่ยงยังต้องให้คนเซ็นรับรองเช่นเดิม",
+      "title_en": "Anthropic launches Claude Ship, letting AI review, fix and approve code",
+      "summary_en": "Claude Ship can review, fix and approve pull requests only for work that team policy allows. Risky changes still require human sign-off.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHVMcVFtLTZGQjRGVEhUU1RMeGZNRVEwMkZVMFFvZUpLcEd6T0pzY29yZkdrbEt6VHc3UDFaRnU5VW4zN0h6VUxhcnJrclh6NzZkQzVHeFB4d3VxZy1qbDlCaFlxeU5tZE9oRXpzczFQcFFrRmR2b19UUGViclhKNE5jSDk?oc=5",
+      "source": "Techsauce"
+    },
+    {
+      "title_th": "เบนช์มาร์กใหม่ชี้ AI เอเจนต์ระดับแนวหน้ายังทำงานในชีวิตประจำวันได้ไม่น่าเชื่อถือ",
+      "summary_th": "TechCrunch รายงานว่าเบนช์มาร์กใหม่พบว่าแม้โมเดลที่ก้าวหน้าที่สุดก็ยังทำงานทั่วไปให้สำเร็จอย่างน่าเชื่อถือและปลอดภัยได้ยาก ขณะที่ผู้ใช้จำนวนมากเริ่มใช้ผู้ช่วย AI ส่วนตัว",
+      "title_en": "New benchmark finds even the best AI agents struggle with everyday tasks",
+      "summary_en": "TechCrunch reports a new benchmark shows even the most advanced models struggle to complete everyday tasks reliably and safely, as millions adopt personal AI assistants.",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source": "TechCrunch"
+    },
+    {
+      "title_th": "บ้านปู เน็กซ์ ชู 5-Layer AI Stack หนุนโครงสร้างพื้นฐาน Data Center",
+      "summary_th": "บ้านปู เน็กซ์ มองโอกาสด้านพลังงานผ่านแนวคิด 5-Layer AI Stack และเสนอ Net Zero Solutions เพื่อเสริมโครงสร้างพื้นฐาน Data Center",
+      "title_en": "Banpu NEXT outlines 5-Layer AI Stack to strengthen data center infrastructure",
+      "summary_en": "Banpu NEXT sees energy opportunities through a 5-Layer AI Stack and offers Net Zero Solutions to support data center infrastructure.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSTBub3lYZDJqMVFzaWF0SEpmdzVrYUZMdlBDSkc1OWxnaXNOZHUtQkRYOUlqOWlqRTlMbUtXbzFqTzZsN2tqQUFsR1plaXU3andyaC1pYkswdw?oc=5",
+      "source": "ไทยโพสต์"
     }
   ]
 }
