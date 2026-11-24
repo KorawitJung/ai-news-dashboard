@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-25T06:41:13+07:00",
+ "generated": "2026-11-25T06:42:02+07:00",
  "articles": [
   {
    "title": "ตลาดหุ้นเอเชีย ปิดบวกเกือบทั้งภูมิภาค! เกาหลีใต้พุ่งกว่า 6% รับกระแส AI ฟื้น หลัง Jensen Huang กลับ Nvidia ขณะที่ฮ่องกงสวนทาง | การเงินธนาคาร",
    "source": "LINE TODAY",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VbWdYWkdkRUFWMXp0dEtFOW9uQ3Y1WTNySEJKc3NWOVdUeVpDVkRmdHFWTU9JYWh0Z2Y1VXdTU1dTYjJrOEV6QVhDUU0wNmVDd2lpMjdR?oc=5",
-   "coverage": 4,
+   "coverage": 5,
    "published": "2026-11-24T10:17:18+00:00"
   },
   {
@@ -74,6 +74,22 @@
    "published": "2026-11-24T08:09:29+00:00"
   },
   {
+   "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+   "source": "Wired",
+   "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+   "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+   "coverage": 2,
+   "published": "2026-11-24T23:39:04+00:00"
+  },
+  {
+   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "source": "The Verge",
+   "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York…",
+   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "coverage": 2,
+   "published": "2026-11-24T20:02:03+00:00"
+  },
+  {
    "title": "USI receives $8.5 million artificial intelligence grant through Lilly Endowment",
    "source": "University of Southern Indiana | USI",
    "summary": "",
@@ -88,6 +104,14 @@
    "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
    "coverage": 2,
    "published": "2026-11-24T17:44:53+00:00"
+  },
+  {
+   "title": "Jensen Huang deepfakes are the hot new AI slop",
+   "source": "The Verge",
+   "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese…",
+   "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+   "coverage": 2,
+   "published": "2026-11-24T16:30:00+00:00"
   },
   {
    "title": "Huntington University Receives $5 Million Grant from Lilly Endowment Inc. for Artificial Intelligence (AI) Programs",
@@ -296,37 +320,13 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rcG1fZmQ5S2tZUl9ndWdqNWhpZXZxRDFPN0hDdkxrZjNaX3huUlVGbndmRFVsQlBCVlFjbmloenYzaFhVbG9oYXRKaDVQNFRqOU1wb2VoaVlDN1VOVXF3VTJ4cGU?oc=5",
    "coverage": 1,
    "published": "2026-11-24T19:04:43+00:00"
-  },
-  {
-   "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-   "source": "Ars Technica",
-   "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-   "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-   "coverage": 1,
-   "published": "2026-11-24T18:47:57+00:00"
-  },
-  {
-   "title": "Gapped Deterministic Legal Tech vs. Cloud-Hosted Generative AI: Seven Trade-Offs for Law Firms",
-   "source": "Law.com",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRHRDbldJejhDWVY2czJNTGZXX3hjYVFOOVV2WjhiRm9LX19LR0VzaTRwRGY2Z2dkR2ZieW1vQTRZZE5lU3FBVnJQQUVoSG5abWltcERFWGtRVzdHdnQ4d1J0UjZNNEt0c2x4c2U5SG8zbzhPS2N5NWFzc1NJcUdYT3cyYXQwck9YeE96UTVYVlQ0NXBlZk5VWE53N0poaktFMXltclBoczJHblZhNFgyaDFIM2JBLU85R0FmRkxBWHBBM2t2YlZSdWJlVXdrellNSzZNbQ?oc=5",
-   "coverage": 1,
-   "published": "2026-11-24T18:37:49+00:00"
-  },
-  {
-   "title": "Derivative-Free Optimization Bridges Frontier Artificial Intelligence and Complex Engineering Systems",
-   "source": "Bioengineer.org",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcjFpdUdSNVNHUXVsb21vMXZUQWg4MGUyU1U5Y1NqUjNHMEp0bVFrVDVQUnl4Z28xaTZKVlFQQUx1MTczcEs0cWVwd2Z2REFRYnR2UmdpVmRzQkRuNV9JOGJRREotUDRJRFpzNGhGbDVHTS04MVpGNWFLYldlT3pSOXBYcWRUSXpxRmR2T2JzV1BOX3RNd0hTQ1pWZGllQlZtU05fNDMzNGQ5elN6dDNuLXBBNWV3N0NReklmVUNRdER0U0JT?oc=5",
-   "coverage": 1,
-   "published": "2026-11-24T18:33:46+00:00"
   }
  ],
  "brief_urls": [
-  "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnFTMEt6QTl2eHk2Z1lKMVpZNW1ieWF6TGRSUENiWTF0QWFFekVRUDZxT0pmb29jaU1rM21uMk1TenFYdUNJck4wMGdFdmplMElnTlZIUVFGc1VCRG90cFdRVEFPWm9QQzNMaVZRX0k4UU5uNEt4ZTNOcUZjNjk0c3V4WGl3VmNod1ZNM21CaHo3Vy1ZMGRMeTZLaHZLVnczQ0JUcXdOZjlNeV9lSlhrUTZ0ZDFqbm04b0FZcTJReVpYOE02cUxqWTkzV3JaTUVUREx3?oc=5",
-  "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-  "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VbWdYWkdkRUFWMXp0dEtFOW9uQ3Y1WTNySEJKc3NWOVdUeVpDVkRmdHFWTU9JYWh0Z2Y1VXdTU1dTYjJrOEV6QVhDUU0wNmVDd2lpMjdR?oc=5"
+  "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+  "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHVMcVFtLTZGQjRGVEhUU1RMeGZNRVEwMkZVMFFvZUpLcEd6T0pzY29yZkdrbEt6VHc3UDFaRnU5VW4zN0h6VUxhcnJrclh6NzZkQzVHeFB4d3VxZy1qbDlCaFlxeU5tZE9oRXpzczFQcFFrRmR2b19UUGViclhKNE5jSDk?oc=5",
+  "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSTBub3lYZDJqMVFzaWF0SEpmdzVrYUZMdlBDSkc1OWxnaXNOZHUtQkRYOUlqOWlqRTlMbUtXbzFqTzZsN2tqQUFsR1plaXU3andyaC1pYkswdw?oc=5"
  ]
 }
