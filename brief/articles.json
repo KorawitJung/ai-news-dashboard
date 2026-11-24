@@ -1,69 +1,101 @@
 {
- "generated": "2026-11-24T21:47:39+07:00",
+ "generated": "2026-11-25T06:41:13+07:00",
  "articles": [
   {
    "title": "ตลาดหุ้นเอเชีย ปิดบวกเกือบทั้งภูมิภาค! เกาหลีใต้พุ่งกว่า 6% รับกระแส AI ฟื้น หลัง Jensen Huang กลับ Nvidia ขณะที่ฮ่องกงสวนทาง | การเงินธนาคาร",
    "source": "LINE TODAY",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VbWdYWkdkRUFWMXp0dEtFOW9uQ3Y1WTNySEJKc3NWOVdUeVpDVkRmdHFWTU9JYWh0Z2Y1VXdTU1dTYjJrOEV6QVhDUU0wNmVDd2lpMjdR?oc=5",
-   "coverage": 6,
+   "coverage": 4,
    "published": "2026-11-24T10:17:18+00:00"
+  },
+  {
+   "title": "Tidal Is the First Streaming Service to Ban AI Music",
+   "source": "Rolling Stone",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQmhYMnVFVFRfeW1QTmNnV19tdFhheGg1UkhuY3B5RFhkb3hoOENXcktwSGpJajlmelJ2RmRhWTZBTTdvWFNnb1FmT2MzVURET29ieVZZVm5uUjhRVnlfRU42cmQ1YkVBMzhKVHltMFBybUpuMEZwVjN0SjdRZkROWV8zUQ?oc=5",
+   "coverage": 3,
+   "published": "2026-11-24T21:20:28+00:00"
+  },
+  {
+   "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+   "source": "Ars Technica",
+   "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+   "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+   "coverage": 3,
+   "published": "2026-11-24T17:34:34+00:00"
+  },
+  {
+   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+   "source": "TechCrunch",
+   "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+   "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "coverage": 3,
+   "published": "2026-11-24T16:46:00+00:00"
+  },
+  {
+   "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+   "source": "Ars Technica",
+   "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+   "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+   "coverage": 3,
+   "published": "2026-11-24T14:56:50+00:00"
+  },
+  {
+   "title": "บ้านปู เน็กซ์ ชู 5-Layer AI Stack เสริมแกร่งโครงสร้างพื้นฐาน Data Center",
+   "source": "ไทยโพสต์",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSTBub3lYZDJqMVFzaWF0SEpmdzVrYUZMdlBDSkc1OWxnaXNOZHUtQkRYOUlqOWlqRTlMbUtXbzFqTzZsN2tqQUFsR1plaXU3andyaC1pYkswdw?oc=5",
+   "coverage": 3,
+   "published": "2026-11-24T10:41:51+00:00"
   },
   {
    "title": "Jensen Huang's spectacular comeback at Nvidia, under pressure from Trump and markets",
    "source": "Le Monde.fr",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQc0NRaGNXQlJ0QVF4LWgzMlpsMS0tSDZ3RzlUdkM5THNfWEFhSmo2ZnZWeDhQWk1jZWpMLUtkdHQ2S3B6YldkczUwcVNGNklJSjZiY2ZTRE1fLTVnZ0FLd0dtd0pFaDVhWXlVd2JoaVE0OHNtTm1rb3VtRkZMRHVRM0w1cGk5YkpXTXVKa0h2VlJicUlFc0JCc3RUNWJqc3pHS3g3QmxFcHE1dU1PNDItckR4TEdfbTE1cGduZ1lRa1VqSHZVRVhmTnNQcVVPemg0WkVwWUxfc19CWE9CbG1BcWl5M2Jmb1E?oc=5",
-   "coverage": 6,
+   "coverage": 3,
    "published": "2026-11-24T09:34:57+00:00"
   },
   {
-   "title": "Nvidia reinstates Jensen Huang after Trump speaks ‘directly’ to board",
-   "source": "The Washington Post",
+   "title": "บ้านปู เน็กซ์ มองโอกาสพลังงานผ่าน ‘5-Layer AI Stack’ ชู ‘Net Zero Solutions’ เสริมแกร่งโครงสร้างพื้นฐาน Data Center",
+   "source": "Share2Trade",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmNHaTN2YnhWcEZ0QVVkbkdNamZzRU5VWFRYd0JhaDVpaEpveDRzc2F6X21RS1lqZjIxbVZUaXhsYllvelpqQjdfYWtuYm0yVUV4eEdoT00xNV9aalVLSm9SNFVReTZQVXpqU2Z5WXBwNHo0RDBfY2FuaENWUy16UHNPU1E0eV9pUGN5VlByS0RzM09BS1NVQ3FlbENIMjB6WkcyQ2lOb3BRUldJZHJBdW1Ebm8yZVk?oc=5",
-   "coverage": 5,
-   "published": "2026-11-23T23:24:23+00:00"
-  },
-  {
-   "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
-   "source": "Wired",
-   "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
-   "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
-   "coverage": 5,
-   "published": "2026-11-23T17:52:56+00:00"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-   "source": "The Verge",
-   "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time…",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "coverage": 4,
-   "published": "2026-11-23T22:10:32+00:00"
-  },
-  {
-   "title": "How Jensen Huang ended up as Nvidia CEO again",
-   "source": "The Verge",
-   "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang…",
-   "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-   "coverage": 4,
-   "published": "2026-11-23T19:57:18+00:00"
-  },
-  {
-   "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-   "source": "TechCrunch",
-   "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-   "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-   "coverage": 4,
-   "published": "2026-11-23T15:04:01+00:00"
-  },
-  {
-   "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-   "source": "TechCrunch",
-   "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-   "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+   "url": "https://news.google.com/rss/articles/CBMi2gZBVV95cUxNWGhJbzI2UDAwQVctcUdMNTZtY2Q1aXRmUnJUWVVfX25UekgyeUtiWnJjYmNrdlNSc2pURzllYWM3cjhhdjdxRmtQQmwzVlVsQk9YSDIwRXF4X3B6aHoxNjlRbmYyWEtXQWNQYjRGazZHbU40RTNkam5ybEpYX0w2YUNsRDVkOXd1dlMyWEFYcUlKWXlyUFROQ2hTbDdiN3RzbU9NTTRTaU9ZSkpFSHp0aUx3M0VhTDlHS2NqZzFsR0x2cUJwX1BhT3ZFR3NrcVBacmh5S2ZBZ2tpXzBiNDA4TktrcWs2S2ZzeFpvRGlRWTZsTXFKRFRORm5FTVkzSVRxeEVwdHFXQWRxdGd5ajAxNnlvS1YwMEhpVkNFSHFYUjBmZWxwSFJESGE4LVBVY1hrSmg2Q1JPV2pOQXJJZjVoa3RGY1ItV09IT2lfUU13cUVybnhvTXhpNUp3Rkx6RU14Z2ZEZndQLWk5QS01NXBRNEtpZFgzd0JCeUk4SDZEUS13WVBXMmZMSW5iRjR1bG5GTFZ6YVpxdEJLS2ZneEF3eWsxYS1aT3h1UnVjUFozcndNY2lEdGt0b0xWS1ZpVGE3SXpkbWlUV05MVjllbldTblJaVmJBMHd1YWN0UURpLUVaSEhjM19vQnlmMUVUTG5IaEVoc1RGUkI4VDJQeVRQRW5jbVg2QXctWV82QnZmYmViWTVTNmpRV1JVVWFzUHBCaVBqSnpwZjRrWlZpenJ0T2VYaEV6bWk1U1p4U1ljQUhWMGZxWk5KNGF2RFlLemlLdENDZTZJLWNhLU94R19ITTlLajNJSUFudU10UDUzY3pjNTZPdU9wMzh6dVZrVkNSQzYwdFd0RldreVpWeEdEQWc2eDIySzNWMi1WNTZHM2tUMGllVjhqR25EMHhSd2VZNmhnSTk4dEgwa2FQdjBsVTEzWU9OU1NLMWpiWmlCdUR6Vnk2Qm1jdlo5c2xUbGVsMXVUMFVmMUdsTVZ1TlpQOV9NUHVqajI1eEtTSmpCZmFOWVRwMDZtQ1l0dnEyTU9oaV9Id0drZVRKQnBVNVVFelo2djJkYjRDdlRPekdLMUZGS0FTb0MtUEVIZHVwVjBTSnl6ZldjWGF3OEdrc2Y3aDNVbktkUkFYeEE?oc=5",
    "coverage": 3,
-   "published": "2026-11-23T18:12:22+00:00"
+   "published": "2026-11-24T08:11:16+00:00"
+  },
+  {
+   "title": "BANPU NEXT มองโอกาสพลังงานผ่าน ‘5-Layer AI Stack’ ชู ‘Net Zero Solutions’ เสริมแกร่งโครงสร้างพื้นฐาน Data Center",
+   "source": "มิติหุ้น",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qNS16dDlhTGJycTJlWG1aRzBhSExpVk5YaFZTakw2dlFxc200OXBuSzRMSm03UkYwcndianVmbjlrMy1POGJnMExNRm1pNUdNam93Zm9R?oc=5",
+   "coverage": 3,
+   "published": "2026-11-24T08:09:29+00:00"
+  },
+  {
+   "title": "USI receives $8.5 million artificial intelligence grant through Lilly Endowment",
+   "source": "University of Southern Indiana | USI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1lBVzdKYlRyYVJZOFF1XzczMk5HczRKekFFNjZqWnpxT1FXbW1VTjZVMTNNVkZWN1FvYlNqVTRNTXpSeERtbVVaM01zNERhYmg4V0o5dl85T3BOYkJ6bTJvdTN3b0pkSTZ4TXRMeHlFQUUzOGNEem01VDdzcTRjc3NaNTVqSHY1dDduUmlWSlIwdnN0YWF1c0k1eU5FLWR2ZkhXRXZJcWVqdWlfbWk5UXczaWpXRWtadHhV?oc=5",
+   "coverage": 2,
+   "published": "2026-11-24T18:56:15+00:00"
+  },
+  {
+   "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+   "source": "Wired",
+   "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
+   "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+   "coverage": 2,
+   "published": "2026-11-24T17:44:53+00:00"
+  },
+  {
+   "title": "Huntington University Receives $5 Million Grant from Lilly Endowment Inc. for Artificial Intelligence (AI) Programs",
+   "source": "Huntington University",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ1lZbG1rLS1xT0Y1cGg1bWhXQlA2MDRoMDVicU1ORWRTUUQxSGNqM1RoalF5dXNhSTZTYjNXTkFBZ2Z4RXBzSjctcDM3RXFvdDNLYXFxQks3WkpTTGw0MDlPUXZyUHBIcFZfYVJwRnZ0OVJWMW5JOU55cnRodFFObWU4OXhLU0F1aGVlMW1yWEozbVRSbjJEY1pvTzJGeGF5VFJFdjFmYVB6WDliVmRDbERfc2tuWFE0c2NtZG1OSzRMZ0ZSQU51aHpBeC1ORFYweWswcmxhZTVaUG8?oc=5",
+   "coverage": 2,
+   "published": "2026-11-24T15:34:00+00:00"
   },
   {
    "title": "Anthropic launches Claude Ship, extending AI-assisted development to pull request approvals",
@@ -74,28 +106,12 @@
    "published": "2026-11-24T11:14:26+00:00"
   },
   {
-   "title": "บ้านปู เน็กซ์ ชู 5-Layer AI Stack เสริมแกร่งโครงสร้างพื้นฐาน Data Center",
-   "source": "ไทยโพสต์",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSTBub3lYZDJqMVFzaWF0SEpmdzVrYUZMdlBDSkc1OWxnaXNOZHUtQkRYOUlqOWlqRTlMbUtXbzFqTzZsN2tqQUFsR1plaXU3andyaC1pYkswdw?oc=5",
-   "coverage": 2,
-   "published": "2026-11-24T10:41:51+00:00"
-  },
-  {
-   "title": "Google Search เพิ่มฟีเจอร์ใหม่ เชื่อม Wallet, Drive และ Gemini ให้ AI Mode ตอบตรงใจผู้ใช้มากขึ้น",
-   "source": "Techsauce",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yZUFSQnBSREpjYTNHMWNiU0hUU1hqSkZRUGVDREZtRXd6dkJFdXpKWlFQYWpYN3BydUtBWXFoRXgyVllvMVJsalZRb3hjUzUwdGwwd0Fyei1BQkFrY0w3TW5mRWY1eTdBZEFsblB5d1NuUVFtWnlaYUY4NEE?oc=5",
-   "coverage": 2,
-   "published": "2026-11-24T08:39:25+00:00"
-  },
-  {
-   "title": "BANPU NEXT มองโอกาสพลังงานผ่าน ‘5-Layer AI Stack’ ชู ‘Net Zero Solutions’ เสริมแกร่งโครงสร้างพื้นฐาน Data Center",
+   "title": "BANPU NEXT Explores Energy Opportunities Through ‘5-Layer AI Stack’ Advancing ‘Net Zero Solutions’ to Strengthen Data Center Infrastructure",
    "source": "มิติหุ้น",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qNS16dDlhTGJycTJlWG1aRzBhSExpVk5YaFZTakw2dlFxc200OXBuSzRMSm03UkYwcndianVmbjlrMy1POGJnMExNRm1pNUdNam93Zm9R?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtS2UwQ21RMlQzTXNaWUNSdndXOW00ZDQ1aUp6MGZiQWpHb1o2THZpZFU0aHZNRWJHcjRkQ3lQZ0ZvYm9SWC10djFZZlJqbjF1eFZDcFRn?oc=5",
    "coverage": 2,
-   "published": "2026-11-24T08:09:29+00:00"
+   "published": "2026-11-24T08:08:25+00:00"
   },
   {
    "title": "Anthropic เปิดตัว Claude Ship ให้ AI รีวิว แก้ และ กดอนุมัติโค้ดเอง เฉพาะงานที่นโยบายของทีมอนุญาต งานเสี่ยงยังต้องผ่านคนเซ็นรับรองตามเดิม",
@@ -106,220 +122,204 @@
    "published": "2026-11-24T07:18:24+00:00"
   },
   {
-   "title": "Trump engineered a risky comeback for Jensen Huang",
-   "source": "The Verge",
-   "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came…",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-   "coverage": 2,
-   "published": "2026-11-23T22:25:12+00:00"
-  },
-  {
-   "title": "Welcome to elite impunity, Jensen Huang",
-   "source": "The Verge",
-   "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on…",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-   "coverage": 2,
-   "published": "2026-11-23T22:09:26+00:00"
-  },
-  {
-   "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-   "source": "TechCrunch",
-   "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-   "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-   "coverage": 2,
-   "published": "2026-11-23T21:47:41+00:00"
-  },
-  {
-   "title": "University of Indianapolis receives $8.5 million grant to expand artificial intelligence programs",
-   "source": "WRTV",
+   "title": "Artificial intelligence innovation to be discussed during informational briefing for state lawmakers",
+   "source": "Kauai Now",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0liamd5Y2htME5nQVVlZ05QczV5eGxndlY5V2c5dm1IOTBsaVFqY1ZnbkN1Ym1pUDhnaWNUaUw3UUhkMW9XYzFIbk9qb3NveWQ2NC1TcFFXUDMyUnJ1UWdPZ0phdUUxRGJPbWhrNVpEeGwyUTVMZzZ3WHItc0tzaXNveWN5Y2lLX1pWbXA1ZjZ2bGZGRVlnQWI3MnRBRndFbE9TdDM0UC1wWWJDcXZYcTdoSmtyczRXbEVvZXQteGxLMXZWNWFocnFubm1mUlk?oc=5",
-   "coverage": 2,
-   "published": "2026-11-23T21:14:00+00:00"
-  },
-  {
-   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-   "source": "TechCrunch",
-   "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-   "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-   "coverage": 2,
-   "published": "2026-11-23T20:38:53+00:00"
-  },
-  {
-   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-   "source": "TechCrunch",
-   "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-   "coverage": 2,
-   "published": "2026-11-23T19:14:46+00:00"
-  },
-  {
-   "title": "University of Indianapolis receives $8.5 million grant to establish new Center for Artificial Intelligence for Human Performance, help prepare students for future",
-   "source": "UIndy 360",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQR2EyMl9WMGlXZ1VqQ3VpMFQzQzlaY2lfQUdBd0pCVjduX09td3NoOGcwLUNadUluLTNHampxYnpMczExQTRNcXJaZWhEcHFreXBiTWFidVU3Mklfb0tZenhNTnRCcHVwTktGQ0NZeUFqU2Q1WWwyeE9zWGFockM0VUw0dHdsVEcybmJyTGJ6ZXg5YUZsUndRdlVZZmYxLWdqNHpxcFI4TlhDV0RXSFFuZGtDcDhoZUFqankwTTRJcWo2Znc2WDhTazFjaFVKZWxYeS1PR2pjeEJ1cWM4alRyVlA5d2c2ZlNNMjE1UnMxVXRUV1RObUtENVhUTEhka2VMa2ZUWmdESFRLaHQxZHp6OTlybFBYeWUzWWZJMUhWLTQ?oc=5",
-   "coverage": 2,
-   "published": "2026-11-23T18:59:19+00:00"
-  },
-  {
-   "title": "Jensen Huang isn’t out of the woods yet",
-   "source": "TechCrunch",
-   "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
-   "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-   "coverage": 2,
-   "published": "2026-11-23T16:57:40+00:00"
-  },
-  {
-   "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-   "source": "TechCrunch",
-   "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
-   "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-   "coverage": 2,
-   "published": "2026-11-23T16:39:10+00:00"
-  },
-  {
-   "title": "US Dollar: AI rebound supports Greenback – MUFG",
-   "source": "tmgm.com",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNm10cXZ3bmF5RVNuX29MYzc3N3FTSWtUTzQ4dlFmMVUwZjNLOHlSYW9sQzVUUjU3dC1OVlAzUWJJLVVXWFVkTDJ5TlkyUVRYOThzcGVSZmJ2OWpqY2lwQlhJdEFtYXpPSjREWk9VM0RQdTVRMFhiRVpoSHhIa19vTy13dFM2SEtJcElEWklOUlF5b1ByY1FYU0tHdWNGalJ5Q2FtOHFLbnNUcnZJVVFZ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNXBQaTlsYmdJYnY4ZVVqUmRBaTJsQWtwUEZoTm1OMUNWdHdCVU01dUl4TEJsazBsQWkzUWFNdDV1bEY5aWZESzlfSWpiQ0EtRDNuTVBRa0pVRWhmQktNbjJ1dndOaVM0WnAyZUZkb2c1eVU5ZmpBY2hHaUVRTWtSZk9aUENFWnJBeGNEVXI3UTUxMHliUktQWHJyVldxVGJzNjR0VzU2UTdWYTlGVXFHZ2NTY3pURHlpdEI5YnUzUW5jS19HOWZ3VTVkSWY3UlRBRzJj?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T14:39:33+00:00"
+   "published": "2026-11-24T23:27:09+00:00"
   },
   {
-   "title": "Local Leadership in the Age of AI: How Artificial Intelligence is Transforming Locally Led Humanitarian Action.",
-   "source": "ReliefWeb",
+   "title": "เจนเซน หวงคืนบังเหียน ดันหุ้น AI หนุนตลาดโลกฟื้นแรง",
+   "source": "Thunhoon",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkJiUzFzd3VvVVpFNXFpal9zNGpkbUR6eXRrcHRJbWxxNHZJejlkYjRCNnN5QldiTzFJVjR3NFo0aEJOQXBpcjlsNXd5RFpqd2NlcTRPQXQyV3RmdEVEZHhXX2l5Y0NsdXdQOHdYT3g0aENVNnBmVUVJRng4VmtwWHE0aENJODB4TG5IZ3RIVGxLcUNJM1k3dHFSQVlqdWJuMzdUVElBZ19IR2V5RHFTaTEtTnRJRG5TRXhyX0xLalI1SVNoWjltSnZzQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YM3IwSGdfQ1lpTXhUOUR1NWVJa01HbVdrRTN1MWxBckVtWnM1N1QwN3J6VXdET093a0xTektsUlVva21WMkc0?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T14:27:31+00:00"
+   "published": "2026-11-24T23:15:44+00:00"
   },
   {
-   "title": "Metabolic Modeling and Artificial Intelligence Drive Breakthroughs in Biomanufacturing and Medicine",
+   "title": "DealBook Summit 2026: Rein in A.I., but Don’t Pause It",
+   "source": "The New York Times",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4ydEctMHRRbnE3X3FaYWZ5MWxFcF91WV9CbnFTblJjb2NPRmlDY2pocFlPYUZSS3I0WVdfQ3FRZks5WmFtc0Qycjl5TXQ1cTJRSTdGUnJ6MGtVWnpzcklIcDZRYlhHVkpJa1RIX3A4LTBkUW9QTFU2QmhEaw?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T22:59:27+00:00"
+  },
+  {
+   "title": "IL Supreme Court creates standing Committee on Artificial Intelligence",
+   "source": "NewsChannel20",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdUNQdGExQXlfVWJYMzNnZDh1MEVNX3EydVpxMy1jOUlLRUxzT0Y2eG1WbzN5cXRldnQtNzVHVHdGWF9JS2x4c0lXNzBFbGhmdm1mcFd4dkVUNTVVMWtITDdjWktQc3pXak5DOEpnNjlRUVp5dlBuVHhLN2FwY2VRNEZHVWJQS2wxOTFJVFVNZ3BSLWw1T2hzakpLQ0U5cHBuNGxmajRqSHBUT3dqOE1QWDM4RlVmYllTTHdPQjNPYzhRUG51SlJyX0FYamJUTnF6blQzOFg3RF9PbmRxdHk4QkM0bTVqalhfdkpFdUFtSkZFZzg?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T22:54:00+00:00"
+  },
+  {
+   "title": "NTT DATA ปั้นคน AI จัดแข่ง Digital Innovation Challenge 2026",
+   "source": "BiztalkNEWS",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTDVuRjVaNUV0RFpqamtvb1ZGbHF5ZVlIY242NDdRbFEyNDlFeG1KYVNiTkJnZThGb3ZYdTVPeUVoem5icDlEQmhab0lSOVFPV1ZuazdaZ291alpQV0IxTFlWTHhEVWpIbmV6WXQ4ZGJmbzBPTnNhSmUyWjJpOHRMSzNBQlNTT3J1dVFJTmttak8zSU9kM0E?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T22:34:06+00:00"
+  },
+  {
+   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+   "source": "TechCrunch",
+   "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+   "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "coverage": 1,
+   "published": "2026-11-24T22:27:52+00:00"
+  },
+  {
+   "title": "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)",
+   "source": "The Motley Fool",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZDRaRzNObjBnSjJ0T0VyUTlCajJkR1dMVmFqbHl6dTlZYVZQM1Q2WXJ0REtQZUg1UjJlZlBLb3dIX2c1em9TaTVGbTZrSlFJNXpGTThrX1JUZ2VpeXdZdXQyVmlscGhyUjd0YVUxZVZmUFZ6SnRwM2djOUJ2a2hQWEs3TlFfVmtZa2FqMWJMR3NZS2xaVHEtSWh3bnJ4ellETzdMaTJKOXR1cHVtVTAwZEZoVlBkT0g2ZzBxVUhwVllfSkMzV0Jxb2RIc3A1SDAxUFh6aENMWnJkVzJqSXRjTzdqUlhfUQ?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T22:00:02+00:00"
+  },
+  {
+   "title": "Doctors and Patients Differ in Explanatory Artificial Intelligence Preferences During Diagnosis",
    "source": "Bioengineer.org",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQjc1Yl9MWXc4MGZ6WGxxOVFuYmZFTkRLSldlTllPd1JmajlOZDdCVEZNNE8xdGZ5Sjk2cGRpODBiTXlGMTMyUzZlbW5aYS1CSHktcE5MeWxZV3EzQlpmVXR0N3JGYzl5bTlKX0l4endfejNCSEc4bzNMQjA0Q0JjeWlVYVYwTER4ZWRVRDlJRDU1OWttbDFrVEV0Y0lQUnppU2g0aHpnMkFPdzNtYVFJRUQwUkZGZnZ2WVVPZkdQVkVfdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0Z1S0x2bklUOFZtc0JmS1hfQmVXNC1QS3U1OVEtTnZyejN4QzF3clNRbDBNSDFBY0VqOWFNZEh0eWQtV04yeGhzeC1lY2tDOUZlWENSUWd1ZDN2MkV1ZHVaU04zQWpJMU5Jd3JXRVZSRXJnVTFHT05pcUZfN2dUYjJuSkdQMWlEUnFTNkw2QnlINzdpOUgzMXdVNkstcUlYdTRHM2dKa1ZlY3J1Y1kzeEpOSFdUTm90WmpwQg?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T14:08:29+00:00"
+   "published": "2026-11-24T21:53:57+00:00"
   },
   {
-   "title": "S.Korea’s Naver, telecoms block AI agents from call centers over liability fears",
-   "source": "KED Global",
+   "title": "Wajo – เอเจนต์ AI ที่ลงมือทำงาน จองนัดหมาย และทำงานให้สำเร็จด้วยความช่วยเหลือจากมนุษย์",
+   "source": "quasa.io",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qb1E0ekF2Y195b0JfWjJORHA3SVFxY3ZBcVJZa2dYMUw3bTFnUmxyX3FvdldNVFg5UEhpdHNRWE9DY0xDckR0YklqMTRISnNFdVJNOE0wWFlMT0ZDek9JRUhwV3hXRkhqZTFVTmYtdkZLWEdPcHdGX1B3VjdNVXM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWNtZjkwdW13MkNDdlUxcmQ3QmoyMHZzb2hIcFF0SWJmWUhoMnlxSWVPN1lIVXI5NUl2NzN5UEljcUFfVkJVTmJNdFhwZmlCU01xT0NGUndIZTBWVUo0REpCckVlTm5BQWtXamtMQnZYRzVUU1VlYmlpX1NYSGlOai13aURaMExvdDN0bXp6SWRZdmE1bHI1TmVfeW04Ri1OdkNXaXIyMHpNOEFmY29SUFE3enVBb0hDbkhVbzBGRUVyVkR4TFpZWjdsSQ?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T14:06:42+00:00"
+   "published": "2026-11-24T21:50:59+00:00"
   },
   {
-   "title": "PostSig Wins Best Artificial Intelligence for Infrastructure & Operations at the 2026 WatersTechnology Buy-Side Technology Awards",
-   "source": "The Batesville Daily Guard",
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+   "source": "TechCrunch",
+   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+   "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "coverage": 1,
+   "published": "2026-11-24T21:48:27+00:00"
+  },
+  {
+   "title": "Hume AI – แพลตฟอร์มประเมิน AI ด้านเสียง การวิเคราะห์เสียง และความคิดเห็นจากมนุษย์",
+   "source": "quasa.io",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPZTVoZFp6Y3RHUk5LVjJ1aDdjeE5YcTRhRlc3NzkwY3JDRmotRTl2elYzNE9Wckh5WERJQnlodlpiOTUzdHpQWml1QUJJZk4ySFhRMW5CREVadC1VTnVsa3BtRm5oN3NXNUZWcWRRSTFONVlGdFZSZGdhaWl5cVFhM2ZHWjdYWG92ckVRSkI3LXJ0R3dqY1MzZDBIcWJLX0puUFVid3dKSW9scVhjTnp3MVdQMy1GaWlCbGlkRUdkRmxqOVNrUzBZNGZBQmtTaWY3WU01VEM2NlpfTGs3WDREd1hFRG4yQTJaZWlNTUNTSzNyT2VCWjdfX0M1aU02ajhtNy0tc09XYnhRUnBMRUROZXBNcW12b2RYUDBfc3F6c1pFNzlpMzNXd0dYSjFxS2U5dTVBal9Hcw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMDEyaG40MFpaeElteUlFUzVibU1XU2xfeVlQUTY3NXZHcDdBVEZXZkQ2OE9rakwzU1JTMXJxVnVZTFd5eUd3UUV1NFZFVUY3UTZ0eElNZVIwQnZPX2x3cVpvd2k0WVp0dTZidUVxbXVLNDNYSHpDaHhHMEVaeFZuTFctanVsek50eE1xTEdNUUVlZFVMTTdKNVBhRTE4R25ld0lLVzZQR2s5ZVlQcmhZWENpaHQwS2s?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T14:01:36+00:00"
+   "published": "2026-11-24T21:39:30+00:00"
   },
   {
-   "title": "SMX is Giving Artificial Intelligence an Industrial Revolution of Its Own",
-   "source": "Detroit Free Press",
+   "title": "Even the best AI agents struggle with everyday life",
+   "source": "TechCrunch",
+   "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+   "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "coverage": 1,
+   "published": "2026-11-24T21:33:29+00:00"
+  },
+  {
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "source": "TechCrunch",
+   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+   "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "coverage": 1,
+   "published": "2026-11-24T21:32:38+00:00"
+  },
+  {
+   "title": "Study Analyzes How Artificial Intelligence Systems Displace Foundational Legal Legitimacy Structures",
+   "source": "Bioengineer.org",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSnhfLXN1RjF2MmNvQkVka2gtNWw1dmJseTN6VXlRVWwtcUVvLVRXMmlfTjRMWnF2bWFnNkJYNjlydzVVdzlOY0xyMUk5bGRQemVSd0hXaXZUamJtcXVGRm10OUJadERFNHBQSUJSU1JYYVVHRE5paXJWdTNWWlFZNUhYZ1JZSmhYZ0tOb0duNkdiSFh1LUM3U280RFpObDU2b3BhUklQVV9oQVZOR0dvbDRoQkVzdDFKeVp6TlhEa28?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUhxS1NUbkxjNV84TFYxSzRaVU9oTmFYT3RuVE9VWU9iV1Nzc3c0akt1QmRQTFg1Yll5eS1BVEFFa0tEWWdCMThmRGYtNlFnaEdnX21xa0ZsNnJ1eHUzWUkwSGRMSUtsOFZYV184Yy10TDVUdUVLRlhBVUxTUVFOZFlFS3ZmNnNKNFVmT2wzOXNvekIwWFAzNnQxWUtyTlhOdmE3SmJ1RlphR2M5NUE5Z0xEUzNldUV5aW9WRDQ3blpfRTg?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T13:58:09+00:00"
+   "published": "2026-11-24T21:29:07+00:00"
   },
   {
-   "title": "Artificial Intelligence Thoughts Of The Week",
-   "source": "Crowdfund Insider",
+   "title": "Reclaim.ai – ผู้ช่วยปฏิทิน AI การจัดตารางงานและการประสานงานประชุม",
+   "source": "quasa.io",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmxNdzR4bDRuUFRMRWw2SkFCODhYdV9EYmdCZW9NdHFvNmZQOFVNM0t0MFNpaEhwMjJwOWRkSXNuQjZoQVpOTlFJTDE5UzA1bENmUXRxSVFEYlhPT0lCWm1uY3BzVjBxV2hwd2dQZklHTFRCajdjc0dIY0VIUGx4aVFBVGF0ZGdEN2MxcXNidy1WM0NBS2hQcQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVloMFB3SXIzLXRWMW1JVDF0eE9uc2lrSm5BVmZENmg1cW5VTzd5dmlGLWs3N0RMTXJBR0NKVTJBVzBBQmhMdXh1REgycTZPeGlZT0NaS2paWFA0Vm9vbVVXWmdXTy03dFNfSzg2bm12TVh4QTYzNjg1aHpkeHY4aEhhU3d2N05JQTRBeE40VVNRVG5OaTZmUlRhdllHYi1ZV1lwVmlwTQ?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T13:13:48+00:00"
+   "published": "2026-11-24T21:26:27+00:00"
   },
   {
-   "title": "Europeanising NATO: Artificial Intelligence",
-   "source": "International Centre for Defence and Security",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaT2ZtOFViS19wSFZ1NnNhR1hzaHJ0b2Y0ZkktbGtPSVViUmpSYUdVSDh6c09lUTRLdUJkRV9HVXVEb1FmTnNFaFRlbUt6bFBQbXR3a0JlaElzaS14RWdOekJYX0lFdEFvY2UwNmFNSQ?oc=5",
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "source": "TechCrunch",
+   "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+   "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
    "coverage": 1,
-   "published": "2026-11-24T13:05:14+00:00"
+   "published": "2026-11-24T21:19:52+00:00"
   },
   {
-   "title": "จาก BIM สู่ AI–Digital Twin! วิศวกรรมศาสตร์ SPU พานักศึกษาพัฒนาโปรเจกต์จากโจทย์อุตสาหกรรมจริง",
-   "source": "Sripatum University",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNSm00VWRUaG5ZM2RFYm5QcWJFRmFzMVUtRTg5YW53bnpGNGFtUGV6eXRiMklLaThsUnZlaVZBeG5Nbkd5bWtKc2dua1NkWGsyQmNwbmpaZEFZRHFIWFR6TzZPNTJweDl3cHVWdGVMeVhMb1l1SWItTEtqcG0xdVRqUTFXR0x5b0dZcDhFZDZXYmZra3lVWXQ2SU1GaFRPdm96eHczaXU1YzNxWUVmZVAxY1JSVUZCZGxUSmhkZW0tdk01MVprcHpnZWsxdEEwWXdIVE05aEtJU1BSNlB2TER3cDVwaURHaXFVQWxGRTBCa2JJd2o5cXYzR2FxSDhRMzBhaUQwZzFlUXV1SDg2eWJIZnAtUXBqZURjR3BySHpoRmh0ZzFYbVVkb2RZeTNxMjlRWDkwNXgyYnhFaFdnUnZz?oc=5",
-   "coverage": 1,
-   "published": "2026-11-24T13:05:01+00:00"
-  },
-  {
-   "title": "Power check? Why Anthropic could be the biggest loser from Jensen Huang’s return",
-   "source": "South China Morning Post",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWThRSEZBYjNIZ3UxbF9rLXR3MVdiM0JTVHAzTVdpM1dlS1BqYWJldmhtMUU4WXZTZlZndGZtS3NSdlJ0RFVVV2lGRGUyWWVWZzNreDJyMHowSlRrRUxBY1ZwaWZjYmRBdzNmazNGNk1XN1h5ZWpldTkxdy1Ib0oyaHBIc2syNTJ0cEh6TkFnSUhSdUFKZHpBOG9YZHMxUkZRekpYalNmcjVuT0cxc2lyTkNaZzJBUdIBtgFBVV95cUxPSVpvdHVBSGMzdHVUSjh4dzVkbXJiaDRxR29PbkdlYU01ZGxnaXo0am9TVDFRNUIwdlh4Yl9YUGxIRXhtTng2TFFBTEJXXzRiSHoweXk0bDVhREVEa2pzeEl6ai1YaC14RXpXTklZbjlOSXVMWGhRenNlSXBpdTlYSVdkek9DS3JzOHJSRTRGa3gzRlV1WkJidWp4S2Y5Nm1tUE5ONUF4S2cycS1UYURKQ3JJemhJZw?oc=5",
-   "coverage": 1,
-   "published": "2026-11-24T13:00:09+00:00"
-  },
-  {
-   "title": "Generative AI in marketing statistics 2026: Adoption and ROI",
-   "source": "Hostinger",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUXdLcjNNOG5GNmNaTzRWTUh3bjQyb09uWk9RN29Ualh1MmNyc1lPNGVtbTcwam8wTmhoRkRNVXV4RlpacTV0RWdzQ3NZSnh0b19qRFlsaGx2bDNqdDBRWWlROGQwcnZyTkdOVXdXOUVtTjhiTlB2Tkc4OEh2ZlgtaVNrcw?oc=5",
-   "coverage": 1,
-   "published": "2026-11-24T12:57:13+00:00"
-  },
-  {
-   "title": "5 ทีมสุดท้าย! ใครได้ไปต่อ? ต่างมุมมอง แต่มุ่งสู่เป้าหมายเดียวกัน",
-   "source": "ไทยโพสต์",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuWTJIZ3pMT0N5MDV1X3U4NzA3eFc1T0MxcmRDRkpyWHg2b3RPbGhxMTR3SDJ1Z0l3M2s2YzJ5SnpaX1Jma0paNEhJdThnOGFKN0lUb3ByZHVMVVJWWl9FWmF3WEFMUQ?oc=5",
-   "coverage": 1,
-   "published": "2026-11-24T12:49:27+00:00"
-  },
-  {
-   "title": "A Generative AI Concerto | Tomohiro Ichinose, Dean of the Faculty of Environment and Information Studies",
-   "source": "慶應義塾",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uaDdVX1dxOG93NVFUSldDRnpfdGRKcjRFS2sybDJGd0t2YUluekdSdTJSdGprMTVVZ3FFc2UzdURoZ0o4ZFpqanJKRFd0aWR1alphS0xNOG0xS3FWMmliaUh5YWl1ZTRPSEZNNg?oc=5",
-   "coverage": 1,
-   "published": "2026-11-24T12:45:33+00:00"
-  },
-  {
-   "title": "LLM agents work for their parent companies, not for you",
-   "source": "Hacker News",
-   "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 188 # Comments: 55",
-   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-   "coverage": 1,
-   "published": "2026-11-24T12:40:15+00:00"
-  },
-  {
-   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+   "title": "What's going on with the Riemann hypothesis?",
    "source": "Ars Technica",
-   "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-   "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+   "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
    "coverage": 1,
-   "published": "2026-11-24T12:30:05+00:00"
+   "published": "2026-11-24T20:34:53+00:00"
   },
   {
-   "title": "Artificial Intelligence Accurately Detects Temporomandibular Joint Disorders on Advanced Scans",
+   "title": "Tidal to remove millions of AI-generated songs from its platform in sweeping crackdown",
+   "source": "TheGrio",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZElwQzRhY0JjNzZFRWVGV2JTWXBXZEJ3a1VyeFh6RUtnZGJxVDJ3Uk9WeVRldDNvcFBGcjlXT003bDVrZ1JXYUJuUFlGb1VKcmRRam9EQkNpLWh1Z2ZqdDFzcUlTME5zT1BFQmpNVjJCa3J0OGhlRVV5UmZMcnlhdzYxOVNJeDlzZjRsQjVtM29hWGY0azB6RlI3dmxaeExRcmJKOWxacmZrdmlyYWg0aGo1QnlnY3IzV2c?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T20:29:15+00:00"
+  },
+  {
+   "title": "Artificial Intelligence Accurately Detects Breast Arterial Calcification on Routine Mammograms",
    "source": "Bioengineer.org",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRFlZNTZVNERTS25YNmNLSXBMVnJBSHR2SWduQWhIQktZa25YUXRfaVhCYjdtYTBMbmdNcGJWREtqdk05TXhtclRZMWlld2NzZndXcGRPSGF5MERJWlVnNTI3YkZ1RzJYa0YyMDF4LWtkbm00eWl0bGNZczRPNnRvY0ZSWHZkZFp6bnJvUUU5SV9URHB4TDFfYXZ1UlRrV3RoSlBpZ2daaDFUSXhMM2hQUmtmbHlMZmJjYlZB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUEM2OFFxMFgzZkpHMDlhRDE2cVY2OHRaMlkxa05ZaXMyOXJ3UVhTUV9aNG5oQkhyQV9ESlRZX3EwRFFOU1NIUXJ3RlNEN0F6QWFBd0RkMWpfS1NJUVR6WkZPSjVxWkRlSFpHREdabHJOUE9nOGwzRGZjeTlmUE13YWxoMlRJU2ZVMURmU0ZpYXBhN1hmRE5XUlNmTFR2SlJHZ3BvOGRhQmFTWlZ3dFFRdVZwRUdpbnlZYW5N?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T12:22:30+00:00"
+   "published": "2026-11-24T19:48:57+00:00"
   },
   {
-   "title": "Clinical Artificial Intelligence in Lung Transplantation Faces Critical Validation Challenges",
+   "title": "Artificial Intelligence Outperformed Nephrologists in Recalling Rare Kidney Disease Trial Data",
    "source": "Bioengineer.org",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2hUSXc3bUNhZVI4UG12eFc1YXN3NVFpNWlsSE1JREljWnlvWFVRcGtBQks0dHZhOW1GbGhPd0twNlhMM2hUNWk1RVM4LXY5MTJJa0NZRkxWMTFpSjVYMmE2cXp4d183WjUxbnFCaTF5eEdLWWVtYUxVdk9lRmpnaHlMQU5nU0w1Z1F0TTNEb0JZcmhxVkZ5ZDNuNERmajhod1pYRVNoZWlWQ0JNZk9FS0J2UTQxZmxubmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQzI1T3N4V1pnTkdXcS1lWXVVdFFoOEp5VVQ3OGtCWFZjU1BrZTFtdmdtMzFkLTBmS2lNWDc3RXlxTXN0X19jNWtfV01lbFVHSjY5aFZ1dE11cjQzMVNLMzQySDN6X08zNUVsaWkxVlBTOFRlWHp2SjNCR1JTYmNOM0p0UkVfQjEycXRBTmdmZ3Vxa19NeEFudVpOUWJwZ0xXTXpaTWpUX2pFbDdROGlaYXFrY1VFcENKT0Zn?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T12:22:30+00:00"
+   "published": "2026-11-24T19:33:25+00:00"
   },
   {
-   "title": "Artificial Intelligence and Digital Resilience Mission-Driven National Laboratory Sets Off",
-   "source": "BME",
+   "title": "Medical Educators Outline Framework to Safeguard Physician Training in Artificial Intelligence Era",
+   "source": "Bioengineer.org",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTJONUhiNXdUaW1DOTFxcThTd1Faa0ZPTGFQV3lEYWFldzAtX0t1V3c5RUJfUTliQlh5Tml5dmxqV01Yd1Z3NDBkZHF3SXFXZEttUkIxVXNXU3NMMWRaaEpTSV9fR2xFbVJFbmttZ2JLQ1ZUN3VIbURRT3VBNG5la2N1MTkzeVdYMVlnRlZnaHZDUG5UcmN1N2pLcklVNm1UUGc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDU1MnR3QlIyY2Y0cEdNdjJxQ28wRWtZbmpmQmhuOFhNWU8wV3NtREpZenptUjEwVFdaNV92T3k4RjYzU2NzUFlsdUhraUFJZXZrREJ2Wlo0X3FzRkxNTGhYNmpCVElRdTY2b082eUtqbkoyTkJXWDZWcVhWbVU0blRaMGNtTDliTE5RdVMxdDE4MXZlcnZlaW5CQVdZQ3lyWEYwY3k1S2ZqR0gtbUxHX045MHpsSVVkS3NDNGJwUFE?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T12:18:27+00:00"
+   "published": "2026-11-24T19:28:55+00:00"
+  },
+  {
+   "title": "Faculty Position in Artificial Intelligence + Engineering",
+   "source": "The Journal of Blacks in Higher Education",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rcG1fZmQ5S2tZUl9ndWdqNWhpZXZxRDFPN0hDdkxrZjNaX3huUlVGbndmRFVsQlBCVlFjbmloenYzaFhVbG9oYXRKaDVQNFRqOU1wb2VoaVlDN1VOVXF3VTJ4cGU?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T19:04:43+00:00"
+  },
+  {
+   "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+   "source": "Ars Technica",
+   "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+   "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+   "coverage": 1,
+   "published": "2026-11-24T18:47:57+00:00"
+  },
+  {
+   "title": "Gapped Deterministic Legal Tech vs. Cloud-Hosted Generative AI: Seven Trade-Offs for Law Firms",
+   "source": "Law.com",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRHRDbldJejhDWVY2czJNTGZXX3hjYVFOOVV2WjhiRm9LX19LR0VzaTRwRGY2Z2dkR2ZieW1vQTRZZE5lU3FBVnJQQUVoSG5abWltcERFWGtRVzdHdnQ4d1J0UjZNNEt0c2x4c2U5SG8zbzhPS2N5NWFzc1NJcUdYT3cyYXQwck9YeE96UTVYVlQ0NXBlZk5VWE53N0poaktFMXltclBoczJHblZhNFgyaDFIM2JBLU85R0FmRkxBWHBBM2t2YlZSdWJlVXdrellNSzZNbQ?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T18:37:49+00:00"
+  },
+  {
+   "title": "Derivative-Free Optimization Bridges Frontier Artificial Intelligence and Complex Engineering Systems",
+   "source": "Bioengineer.org",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcjFpdUdSNVNHUXVsb21vMXZUQWg4MGUyU1U5Y1NqUjNHMEp0bVFrVDVQUnl4Z28xaTZKVlFQQUx1MTczcEs0cWVwd2Z2REFRYnR2UmdpVmRzQkRuNV9JOGJRREotUDRJRFpzNGhGbDVHTS04MVpGNWFLYldlT3pSOXBYcWRUSXpxRmR2T2JzV1BOX3RNd0hTQ1pWZGllQlZtU05fNDMzNGQ5elN6dDNuLXBBNWV3N0NReklmVUNRdER0U0JT?oc=5",
+   "coverage": 1,
+   "published": "2026-11-24T18:33:46+00:00"
   }
  ],
  "brief_urls": [
