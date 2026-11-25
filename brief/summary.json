@@ -1,46 +1,46 @@
 {
-  "generated": "2026-11-25T06:41:40+07:00",
+  "generated": "2026-11-25T21:09:48+07:00",
   "model": "claude-sonnet-5-5 (routine)",
   "items": [
     {
-      "title_th": "เจนเซน หวงกลับมานั่งเก้าอี้ผู้นำ Nvidia หลังแรงกดดันจากทำเนียบขาวและวงการเทคโนโลยี",
-      "summary_th": "Ars Technica รายงานว่าพันธมิตรของหวงขอให้ทรัมป์และแวนซ์กดดันบอร์ด Nvidia ให้รับเขากลับ ส่วน Wired ระบุว่าเขาขอโทษพนักงานในการประชุมใหญ่ครั้งแรกหลังกลับมา ขณะที่ตลาดหุ้นเอเชียส่วนใหญ่ปิดบวก โดยเกาหลีใต้พุ่งกว่า 6%",
-      "title_en": "Jensen Huang returns as Nvidia chief after pressure from the White House and tech allies",
-      "summary_en": "Ars Technica reports Huang's allies asked Trump and Vance to pressure Nvidia's board to take him back. Wired says he apologized to staff at his first all-hands since returning, while most Asian stock markets closed higher, with South Korea up over 6%.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
-      "source": "Ars Technica"
-    },
-    {
-      "title_th": "Tidal แบนเพลงที่สร้างด้วย AI ทั้งหมด ลบราว 27 ล้านแทร็ก",
-      "summary_th": "Tidal ประกาศแบนเพลงที่สร้างด้วย AI เต็มรูปแบบตั้งแต่ 9 ธันวาคม และจะลบเพลงเหล่านี้ซึ่งคิดเป็น 6.3% ของแคตตาล็อก แต่ยังรับเพลงที่ใช้ AI ช่วยในการผลิต",
-      "title_en": "Tidal bans fully AI-generated music, will delete 27 million tracks",
-      "summary_en": "Tidal will ban fully AI-generated music from December 9 and remove those tracks, which make up 6.3% of its catalog. Songs made with AI assistance will still be accepted.",
-      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-      "source": "Ars Technica"
-    },
-    {
-      "title_th": "Anthropic เปิดตัว Claude Ship ให้ AI รีวิว แก้ และอนุมัติโค้ดได้เอง",
-      "summary_th": "Claude Ship ให้ AI รีวิว แก้ไข และกดอนุมัติ pull request ได้เฉพาะงานที่นโยบายของทีมอนุญาต ส่วนงานเสี่ยงยังต้องให้คนเซ็นรับรองเช่นเดิม",
-      "title_en": "Anthropic launches Claude Ship, letting AI review, fix and approve code",
-      "summary_en": "Claude Ship can review, fix and approve pull requests only for work that team policy allows. Risky changes still require human sign-off.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHVMcVFtLTZGQjRGVEhUU1RMeGZNRVEwMkZVMFFvZUpLcEd6T0pzY29yZkdrbEt6VHc3UDFaRnU5VW4zN0h6VUxhcnJrclh6NzZkQzVHeFB4d3VxZy1qbDlCaFlxeU5tZE9oRXpzczFQcFFrRmR2b19UUGViclhKNE5jSDk?oc=5",
-      "source": "Techsauce"
-    },
-    {
-      "title_th": "เบนช์มาร์กใหม่ชี้ AI เอเจนต์ระดับแนวหน้ายังทำงานในชีวิตประจำวันได้ไม่น่าเชื่อถือ",
-      "summary_th": "TechCrunch รายงานว่าเบนช์มาร์กใหม่พบว่าแม้โมเดลที่ก้าวหน้าที่สุดก็ยังทำงานทั่วไปให้สำเร็จอย่างน่าเชื่อถือและปลอดภัยได้ยาก ขณะที่ผู้ใช้จำนวนมากเริ่มใช้ผู้ช่วย AI ส่วนตัว",
-      "title_en": "New benchmark finds even the best AI agents struggle with everyday tasks",
-      "summary_en": "TechCrunch reports a new benchmark shows even the most advanced models struggle to complete everyday tasks reliably and safely, as millions adopt personal AI assistants.",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "title_th": "Tidal ประกาศแบนเพลงที่สร้างด้วย AI ทั้งหมด ลบหลายล้านแทร็กออกจากแคตตาล็อก",
+      "summary_th": "Tidal จะห้ามเพลงที่สร้างโดย AI ทั้งหมดตั้งแต่วันที่ 9 ธันวาคม และลบเพลงที่มีอยู่ราว 27–29 ล้านแทร็ก แต่ยังรับเพลงที่ใช้ AI ช่วยในการทำ",
+      "title_en": "Tidal bans fully AI-generated music and will remove millions of tracks",
+      "summary_en": "Tidal will ban fully AI-generated music from December 9 and delete roughly 27–29 million existing tracks, while still accepting songs made with AI assistance.",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
       "source": "TechCrunch"
     },
     {
-      "title_th": "บ้านปู เน็กซ์ ชู 5-Layer AI Stack หนุนโครงสร้างพื้นฐาน Data Center",
-      "summary_th": "บ้านปู เน็กซ์ มองโอกาสด้านพลังงานผ่านแนวคิด 5-Layer AI Stack และเสนอ Net Zero Solutions เพื่อเสริมโครงสร้างพื้นฐาน Data Center",
-      "title_en": "Banpu NEXT outlines 5-Layer AI Stack to strengthen data center infrastructure",
-      "summary_en": "Banpu NEXT sees energy opportunities through a 5-Layer AI Stack and offers Net Zero Solutions to support data center infrastructure.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSTBub3lYZDJqMVFzaWF0SEpmdzVrYUZMdlBDSkc1OWxnaXNOZHUtQkRYOUlqOWlqRTlMbUtXbzFqTzZsN2tqQUFsR1plaXU3andyaC1pYkswdw?oc=5",
-      "source": "ไทยโพสต์"
+      "title_th": "ผู้ว่าการรัฐนิวยอร์กลงนามแบนของเล่นแชตบอต AI เป็นเวลา 5 ปี",
+      "summary_th": "ผู้ว่าการรัฐนิวยอร์กลงนามกฎหมายห้ามของเล่นที่ใช้แชตบอต AI เป็นเวลา 5 ปี",
+      "title_en": "New York governor signs five-year ban on AI chatbot toys",
+      "summary_en": "New York's governor has signed a law banning AI chatbot toys for five years.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWd3MnJkeUxWVkxOVmxvaXU4Ujlwa2JMTklTcXhVWUk1X2o4ZmNmUUtlcWMzT2F0Q2NTcFhXT3dmX2ttZ1VSRUhzb2d5WU84UTZhYU1FQlhqWlBad0JIanRpLTJhaWh3ZFdOekRxWHZlNFJLYW1LbWZ0Vzd6SnJuMkM0WTg3RzJkaDBJWXUyYUJuQWptaWxwV2VWdWdxTlFITjg0TC1hWWNxUXZGaU05YnREMDVkWEdPeVE?oc=5",
+      "source": "Baltimore Sun"
+    },
+    {
+      "title_th": "เจนเซน หวง และ Nvidia ยังต้องตอบคำถามกรณี Megaspeed",
+      "summary_th": "หวงยังเผชิญคำถามจากสภาคองเกรสและคณะกรรมการบริษัท เกี่ยวกับความสัมพันธ์ส่วนตัวกับบุคคลที่ถูกกล่าวหาว่าลักลอบค้าชิป",
+      "title_en": "Jensen Huang and Nvidia still face questions over Megaspeed",
+      "summary_en": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch"
+    },
+    {
+      "title_th": "AI อาจเปลี่ยนความหมายของการเป็นนักฟิสิกส์ทฤษฎี",
+      "summary_th": "AI ระดับแนวหน้าแก้โจทย์ที่นักฟิสิกส์ต้องใช้เวลาทั้งวันได้แล้ว และนักฟิสิกส์กำลังพิจารณาว่าบทบาทของตนจะเปลี่ยนไปอย่างไร",
+      "title_en": "AI may soon change what it means to be a theoretical physicist",
+      "summary_en": "Frontier AI is already solving problems that once took top physicists a full day, and physicists are working out what comes next.",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "source": "Ars Technica"
+    },
+    {
+      "title_th": "Vibe coding ทำให้ซินธ์ไฟร์แวร์เป็นโอเพนซอร์สเร็วขึ้น ผู้ผลิตอุปกรณ์ดนตรีต้องรับมือ",
+      "summary_th": "เอเจนต์เขียนโค้ดและเครื่องมืออย่าง Reverse Engineer Anything ทำให้วงการอุปกรณ์ดนตรีปั่นป่วน บริษัทต่าง ๆ กำลังหาทางตอบสนอง",
+      "title_en": "Has vibe coding made open source the new normal for synths?",
+      "summary_en": "Powerful vibe-coding agents and tools like Reverse Engineer Anything have caused chaos in the music gear world, leaving companies scrambling to respond.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge"
     }
   ]
 }
