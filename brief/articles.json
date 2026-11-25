@@ -1,13 +1,37 @@
 {
- "generated": "2026-11-25T12:04:20+07:00",
+ "generated": "2026-11-25T21:09:10+07:00",
  "articles": [
   {
-   "title": "ตลาดหุ้นเอเชีย ปิดบวกเกือบทั้งภูมิภาค! เกาหลีใต้พุ่งกว่า 6% รับกระแส AI ฟื้น หลัง Jensen Huang กลับ Nvidia ขณะที่ฮ่องกงสวนทาง | การเงินธนาคาร",
-   "source": "LINE TODAY",
+   "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+   "source": "Ars Technica",
+   "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+   "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+   "coverage": 4,
+   "published": "2026-11-24T17:34:34+00:00"
+  },
+  {
+   "title": "State lawmakers to host informational briefing about artificial intelligence innovation",
+   "source": "Big Island Now",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VbWdYWkdkRUFWMXp0dEtFOW9uQ3Y1WTNySEJKc3NWOVdUeVpDVkRmdHFWTU9JYWh0Z2Y1VXdTU1dTYjJrOEV6QVhDUU0wNmVDd2lpMjdR?oc=5",
-   "coverage": 5,
-   "published": "2026-11-24T10:17:18+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnlQN1duLWs2aVZqalFmUmZEbklaeHFxeEpndThyeXFEd2x4SFRJSlcwN2pNNThTamdNQXBEbk9Uam1BanFFaGtTS3FCN2g5M01KWUl3WGhVSVAxRWt3ZmNnbkRjZXRyN2Q4SE95R29kNTBuODA5c2F3UWlQeHlXdXdyVUs5RVp1MDM0VlJoM0FUaGJ6T2ltaEJqZERjZ3pUS3FYejVNOXd0eTlrWUpuMFU2OVRULTM0Qm9mdUF3TTJxZw?oc=5",
+   "coverage": 3,
+   "published": "2026-11-25T01:00:00+00:00"
+  },
+  {
+   "title": "Hawaiʻi Legislature to hold informational briefing on artificial intelligence innovation",
+   "source": "Maui Now",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczM2a1dCQ2NmSkdlelhVU2FUV0dqdEJmemNTSk5Ha1Y2OFZvaDdmdXR2NzhXX1djNEtwYVU2aTZrSjlHLWVwcU5mN2lfbHRVbEVRVE44TU9wV2owQjQ4TEtQRmlQYWZPdUNOVUFNcjBHYXFyaVVMMXJiX1p3WjZvMVB4eEQwWEhENVowejFiYnhUNUtPUXpyUXJHZEtWQ3BEaFctMzBQbUItaXE2MkVBcjFLU2syR0hFdF9sZmhSTWRpVlk?oc=5",
+   "coverage": 3,
+   "published": "2026-11-25T01:00:00+00:00"
+  },
+  {
+   "title": "Artificial intelligence innovation to be discussed during informational briefing for state lawmakers",
+   "source": "Kauai Now",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNXBQaTlsYmdJYnY4ZVVqUmRBaTJsQWtwUEZoTm1OMUNWdHdCVU01dUl4TEJsazBsQWkzUWFNdDV1bEY5aWZESzlfSWpiQ0EtRDNuTVBRa0pVRWhmQktNbjJ1dndOaVM0WnAyZUZkb2c1eVU5ZmpBY2hHaUVRTWtSZk9aUENFWnJBeGNEVXI3UTUxMHliUktQWHJyVldxVGJzNjR0VzU2UTdWYTlGVXFHZ2NTY3pURHlpdEI5YnUzUW5jS19HOWZ3VTVkSWY3UlRBRzJj?oc=5",
+   "coverage": 3,
+   "published": "2026-11-24T23:27:09+00:00"
   },
   {
    "title": "Tidal Is the First Streaming Service to Ban AI Music",
@@ -18,14 +42,6 @@
    "published": "2026-11-24T21:20:28+00:00"
   },
   {
-   "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-   "source": "Ars Technica",
-   "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-   "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-   "coverage": 3,
-   "published": "2026-11-24T17:34:34+00:00"
-  },
-  {
    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
    "source": "TechCrunch",
    "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
@@ -34,76 +50,28 @@
    "published": "2026-11-24T16:46:00+00:00"
   },
   {
-   "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-   "source": "Ars Technica",
-   "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
-   "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+   "title": "Tidal bans AI-generated music",
+   "source": "Hacker News",
+   "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 333 # Comments: 318",
+   "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
    "coverage": 3,
-   "published": "2026-11-24T14:56:50+00:00"
+   "published": "2026-11-24T16:12:38+00:00"
   },
   {
-   "title": "บ้านปู เน็กซ์ ชู 5-Layer AI Stack เสริมแกร่งโครงสร้างพื้นฐาน Data Center",
-   "source": "ไทยโพสต์",
+   "title": "Generative AI Indian Feature ‘Maharaja in Denims,’ Inspired by Sikh Ruler Maharaja Ranjit Singh, Sets April 2027 Release (Exclusive)",
+   "source": "IMDb",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSTBub3lYZDJqMVFzaWF0SEpmdzVrYUZMdlBDSkc1OWxnaXNOZHUtQkRYOUlqOWlqRTlMbUtXbzFqTzZsN2tqQUFsR1plaXU3andyaC1pYkswdw?oc=5",
-   "coverage": 3,
-   "published": "2026-11-24T10:41:51+00:00"
-  },
-  {
-   "title": "Jensen Huang's spectacular comeback at Nvidia, under pressure from Trump and markets",
-   "source": "Le Monde.fr",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQc0NRaGNXQlJ0QVF4LWgzMlpsMS0tSDZ3RzlUdkM5THNfWEFhSmo2ZnZWeDhQWk1jZWpMLUtkdHQ2S3B6YldkczUwcVNGNklJSjZiY2ZTRE1fLTVnZ0FLd0dtd0pFaDVhWXlVd2JoaVE0OHNtTm1rb3VtRkZMRHVRM0w1cGk5YkpXTXVKa0h2VlJicUlFc0JCc3RUNWJqc3pHS3g3QmxFcHE1dU1PNDItckR4TEdfbTE1cGduZ1lRa1VqSHZVRVhmTnNQcVVPemg0WkVwWUxfc19CWE9CbG1BcWl5M2Jmb1E?oc=5",
-   "coverage": 3,
-   "published": "2026-11-24T09:34:57+00:00"
-  },
-  {
-   "title": "บ้านปู เน็กซ์ มองโอกาสพลังงานผ่าน ‘5-Layer AI Stack’ ชู ‘Net Zero Solutions’ เสริมแกร่งโครงสร้างพื้นฐาน Data Center",
-   "source": "Share2Trade",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi2gZBVV95cUxNWGhJbzI2UDAwQVctcUdMNTZtY2Q1aXRmUnJUWVVfX25UekgyeUtiWnJjYmNrdlNSc2pURzllYWM3cjhhdjdxRmtQQmwzVlVsQk9YSDIwRXF4X3B6aHoxNjlRbmYyWEtXQWNQYjRGazZHbU40RTNkam5ybEpYX0w2YUNsRDVkOXd1dlMyWEFYcUlKWXlyUFROQ2hTbDdiN3RzbU9NTTRTaU9ZSkpFSHp0aUx3M0VhTDlHS2NqZzFsR0x2cUJwX1BhT3ZFR3NrcVBacmh5S2ZBZ2tpXzBiNDA4TktrcWs2S2ZzeFpvRGlRWTZsTXFKRFRORm5FTVkzSVRxeEVwdHFXQWRxdGd5ajAxNnlvS1YwMEhpVkNFSHFYUjBmZWxwSFJESGE4LVBVY1hrSmg2Q1JPV2pOQXJJZjVoa3RGY1ItV09IT2lfUU13cUVybnhvTXhpNUp3Rkx6RU14Z2ZEZndQLWk5QS01NXBRNEtpZFgzd0JCeUk4SDZEUS13WVBXMmZMSW5iRjR1bG5GTFZ6YVpxdEJLS2ZneEF3eWsxYS1aT3h1UnVjUFozcndNY2lEdGt0b0xWS1ZpVGE3SXpkbWlUV05MVjllbldTblJaVmJBMHd1YWN0UURpLUVaSEhjM19vQnlmMUVUTG5IaEVoc1RGUkI4VDJQeVRQRW5jbVg2QXctWV82QnZmYmViWTVTNmpRV1JVVWFzUHBCaVBqSnpwZjRrWlZpenJ0T2VYaEV6bWk1U1p4U1ljQUhWMGZxWk5KNGF2RFlLemlLdENDZTZJLWNhLU94R19ITTlLajNJSUFudU10UDUzY3pjNTZPdU9wMzh6dVZrVkNSQzYwdFd0RldreVpWeEdEQWc2eDIySzNWMi1WNTZHM2tUMGllVjhqR25EMHhSd2VZNmhnSTk4dEgwa2FQdjBsVTEzWU9OU1NLMWpiWmlCdUR6Vnk2Qm1jdlo5c2xUbGVsMXVUMFVmMUdsTVZ1TlpQOV9NUHVqajI1eEtTSmpCZmFOWVRwMDZtQ1l0dnEyTU9oaV9Id0drZVRKQnBVNVVFelo2djJkYjRDdlRPekdLMUZGS0FTb0MtUEVIZHVwVjBTSnl6ZldjWGF3OEdrc2Y3aDNVbktkUkFYeEE?oc=5",
-   "coverage": 3,
-   "published": "2026-11-24T08:11:16+00:00"
-  },
-  {
-   "title": "BANPU NEXT มองโอกาสพลังงานผ่าน ‘5-Layer AI Stack’ ชู ‘Net Zero Solutions’ เสริมแกร่งโครงสร้างพื้นฐาน Data Center",
-   "source": "มิติหุ้น",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qNS16dDlhTGJycTJlWG1aRzBhSExpVk5YaFZTakw2dlFxc200OXBuSzRMSm03UkYwcndianVmbjlrMy1POGJnMExNRm1pNUdNam93Zm9R?oc=5",
-   "coverage": 3,
-   "published": "2026-11-24T08:09:29+00:00"
-  },
-  {
-   "title": "Hawaiʻi Legislature to hold informational briefing on artificial intelligence innovation",
-   "source": "Maui Now",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczM2a1dCQ2NmSkdlelhVU2FUV0dqdEJmemNTSk5Ha1Y2OFZvaDdmdXR2NzhXX1djNEtwYVU2aTZrSjlHLWVwcU5mN2lfbHRVbEVRVE44TU9wV2owQjQ4TEtQRmlQYWZPdUNOVUFNcjBHYXFyaVVMMXJiX1p3WjZvMVB4eEQwWEhENVowejFiYnhUNUtPUXpyUXJHZEtWQ3BEaFctMzBQbUItaXE2MkVBcjFLU2syR0hFdF9sZmhSTWRpVlk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WQmFJUHF0UFNlc3RTSXBTbVNBR1hKbDZfWmFqSFdPRWdQak1VTnViT0toeHh2UVV3LVU2a3pVM0RlVGZYZnVEYU9VSl9RTWNhMDZOY3VSNHlsTklaMzdJak5Eak5GZw?oc=5",
    "coverage": 2,
-   "published": "2026-11-25T01:00:00+00:00"
+   "published": "2026-11-25T12:45:32+00:00"
   },
   {
-   "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-   "source": "Wired",
-   "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
-   "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-   "coverage": 2,
-   "published": "2026-11-24T23:39:04+00:00"
-  },
-  {
-   "title": "Artificial intelligence innovation to be discussed during informational briefing for state lawmakers",
-   "source": "Kauai Now",
+   "title": "Generative AI Feature 'Maharaja in Denims' Sets April 2027 Release",
+   "source": "Variety",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNXBQaTlsYmdJYnY4ZVVqUmRBaTJsQWtwUEZoTm1OMUNWdHdCVU01dUl4TEJsazBsQWkzUWFNdDV1bEY5aWZESzlfSWpiQ0EtRDNuTVBRa0pVRWhmQktNbjJ1dndOaVM0WnAyZUZkb2c1eVU5ZmpBY2hHaUVRTWtSZk9aUENFWnJBeGNEVXI3UTUxMHliUktQWHJyVldxVGJzNjR0VzU2UTdWYTlGVXFHZ2NTY3pURHlpdEI5YnUzUW5jS19HOWZ3VTVkSWY3UlRBRzJj?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFdMQjI2Vzg5SjFHMEtkN19MSVNBWnhkUU5jcWk5MGwwNEw1WUl3YWVtWXdoT1E4V1lyeGR1eW9WOUlTNy1ZTTJZY29ERG54VnlpalBxLXdiVVBJb0VrYXVyYXcxWnZBSmZOaGo0Z3lJV2NiNmd4TGJtcWhERHRCVWtJR1RzZTIxbGtlakZRUkxlenI3OUZ0aGRDSjZZQzMtbmhOblNkcWRsUQ?oc=5",
    "coverage": 2,
-   "published": "2026-11-24T23:27:09+00:00"
-  },
-  {
-   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-   "source": "The Verge",
-   "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York…",
-   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-   "coverage": 2,
-   "published": "2026-11-24T20:02:03+00:00"
+   "published": "2026-11-25T12:17:00+00:00"
   },
   {
    "title": "USI receives $8.5 million artificial intelligence grant through Lilly Endowment",
@@ -114,20 +82,12 @@
    "published": "2026-11-24T18:56:15+00:00"
   },
   {
-   "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-   "source": "Wired",
-   "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
-   "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-   "coverage": 2,
-   "published": "2026-11-24T17:44:53+00:00"
-  },
-  {
-   "title": "Jensen Huang deepfakes are the hot new AI slop",
+   "title": "Tidal will start banning AI-generated music next month",
    "source": "The Verge",
-   "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese…",
-   "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+   "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months…",
+   "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
    "coverage": 2,
-   "published": "2026-11-24T16:30:00+00:00"
+   "published": "2026-11-24T17:17:09+00:00"
   },
   {
    "title": "Huntington University Receives $5 Million Grant from Lilly Endowment Inc. for Artificial Intelligence (AI) Programs",
@@ -138,188 +98,228 @@
    "published": "2026-11-24T15:34:00+00:00"
   },
   {
-   "title": "Anthropic launches Claude Ship, extending AI-assisted development to pull request approvals",
-   "source": "InfoWorld",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnFTMEt6QTl2eHk2Z1lKMVpZNW1ieWF6TGRSUENiWTF0QWFFekVRUDZxT0pmb29jaU1rM21uMk1TenFYdUNJck4wMGdFdmplMElnTlZIUVFGc1VCRG90cFdRVEFPWm9QQzNMaVZRX0k4UU5uNEt4ZTNOcUZjNjk0c3V4WGl3VmNod1ZNM21CaHo3Vy1ZMGRMeTZLaHZLVnczQ0JUcXdOZjlNeV9lSlhrUTZ0ZDFqbm04b0FZcTJReVpYOE02cUxqWTkzV3JaTUVUREx3?oc=5",
-   "coverage": 2,
-   "published": "2026-11-24T11:14:26+00:00"
-  },
-  {
-   "title": "BANPU NEXT Explores Energy Opportunities Through ‘5-Layer AI Stack’ Advancing ‘Net Zero Solutions’ to Strengthen Data Center Infrastructure",
+   "title": "FPT AI เอเชียโตระเบิด 8 เท่า ทะลุ 8 แสนล้านดอลลาร์",
    "source": "มิติหุ้น",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtS2UwQ21RMlQzTXNaWUNSdndXOW00ZDQ1aUp6MGZiQWpHb1o2THZpZFU0aHZNRWJHcjRkQ3lQZ0ZvYm9SWC10djFZZlJqbjF1eFZDcFRn?oc=5",
-   "coverage": 2,
-   "published": "2026-11-24T08:08:25+00:00"
-  },
-  {
-   "title": "Anthropic เปิดตัว Claude Ship ให้ AI รีวิว แก้ และ กดอนุมัติโค้ดเอง เฉพาะงานที่นโยบายของทีมอนุญาต งานเสี่ยงยังต้องผ่านคนเซ็นรับรองตามเดิม",
-   "source": "Techsauce",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHVMcVFtLTZGQjRGVEhUU1RMeGZNRVEwMkZVMFFvZUpLcEd6T0pzY29yZkdrbEt6VHc3UDFaRnU5VW4zN0h6VUxhcnJrclh6NzZkQzVHeFB4d3VxZy1qbDlCaFlxeU5tZE9oRXpzczFQcFFrRmR2b19UUGViclhKNE5jSDk?oc=5",
-   "coverage": 2,
-   "published": "2026-11-24T07:18:24+00:00"
-  },
-  {
-   "title": "Artificial Intelligence Enhances Acute Ischemic Stroke Imaging Analysis and Patient Triage",
-   "source": "Bioengineer.org",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSC1kTTFIdC10eVVQUXNqTXRIY2EzYTNZb2JubDZlT0EzM1dFQ1VKODh0Z0xOaEVSMGl3eVJCTTRNbDhFNl9DakVqdlFuVkVRamcyVEV3Zm5xVG5NTmxqSVVQRE5OVEVzSEsxSGNPeHFqeXJhUm5TUjg3Qkg3TzZnYnlGVjMxdndQMWdzdDVnRno0TlM3Zms1ZXF6bWFPTXkxdm00TFYwTkZyd2IzYVloZzA1V1Zydw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oZC1NYXVNcFdYZVRmY3hEYUdWOWdKb3Y3Tk9VR19pQWY4amlmS2hlYlpPWEpadWhucU0tSXBscmtjZ0huaC1jMENzUjE1Rl9qR0pLVEVB?oc=5",
    "coverage": 1,
-   "published": "2026-11-25T04:14:15+00:00"
+   "published": "2026-11-25T13:50:47+00:00"
   },
   {
-   "title": "Survey Links Medical Students’ Artificial Intelligence Intentions to Habit and Fear",
-   "source": "Bioengineer.org",
+   "title": "HUAWEI ดัน AI ขับเคลื่อนธุรกิจยุคใหม่ ผสาน IT-พลังงาน สร้างการเติบโต",
+   "source": "มิติหุ้น",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWwyTGhJQVQ4cW01UGo3bzJuQVNzWUkwQlB5QlVKTlZwbnFkRUFNdzdZX0F5QmR2aWNCX1NTODl0WDM1VUlBa1BsZEx4Z2k5SDRwUXRrZ2g3aFoxZS14b3IwYjdCTnctak5NckJSdlJCLU1xTnpzaEVaSlF6Q09KT0lqV0VVOTBNWUhtUE9kazI4blcxdUtVanlVZ2ZqZm00TDBGYjZ6V0VaM1k?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RRDBhOWJDVW5sTGtja3Q2T3FtYklON1JZR29Uc1lmbnFpdW9nbzRtT0hrSHhqd1BfSms4SktfWFVXRjZya1RRVEFNWHI2TFNoVzEwYk5R?oc=5",
    "coverage": 1,
-   "published": "2026-11-25T03:54:13+00:00"
+   "published": "2026-11-25T13:49:43+00:00"
   },
   {
-   "title": "Researchers Propose Generative AI Framework to Automate Infrastructure as Code Across DevSecOps",
-   "source": "Bioengineer.org",
+   "title": "LTS จ่อคว้างานรัฐ-AI ดันแบ็คล็อกพุ่งทะยาน",
+   "source": "มิติหุ้น",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTkt0S3NJOFZaS1VjSWdwZUExaUJYOUx4Vm4zR28yYUFHM2I3T0ZEdHptUmJqLWRQLUxDNFZxcExHUnFCTWpxeUFuWGtUQVBGSURaelNJUzRMNF9OSmFya2l6OUIxLVZxRnJJMml6NWxOOXR6dUs4V2lhbjJHYmpUM08xZmlNbjk1dVFxcmhwemFIVV9WSW82am9DR3JnbzZMVzhuTHU2ZlVDN3VlMmVJMDhSVmU4WjlVNG93WA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUkQ0Yk5pUTVlb1RjaWhLRElLWU1tbzFtYmw3ZktkcTV5OWlTQ2c3ZzExdXh2MEhZTi04U3FEQjg1cUsxOHJqYjZtYXdsdW1FRGE1SzZR?oc=5",
    "coverage": 1,
-   "published": "2026-11-25T03:34:57+00:00"
+   "published": "2026-11-25T13:47:02+00:00"
   },
   {
-   "title": "Generative AI Agent Integrates Hydraulic Models to Automate Water Network Upgrades",
-   "source": "Bioengineer.org",
+   "title": "ธนชาตประกันภัย ชู AI เสริมแกร่งธุรกิจ ยกระดับเคลมไว ป้องกันทุจริต",
+   "source": "มิติหุ้น",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdnhXOXRrQWRCdFhOMnI0RWtNYzlsdFNBNl9OdnRDb3o1dk1EV3U3a1JrVVpyLTQxWXlIbEl2aTM4dXdmU3dnbW53NEhLVmRENzdMai0xSFd6QW5VaVg2dHpjYnUzM2RGSERhNnZMZUhyYXdVbkhOdFpIcmNXVHFMOE9pOTBBLVlMOUZJbW9FekUwU195U19aQ0R5S25KZVZyWWt6Rjg5UVZYU1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95dXk4ZFJuMWZCb2t5UWFGSnFfYnU1cC1fZno1Um5vN21EeGhaeEM1NXgxVW1JYy1YZTFCNUNCMDhuUzRsa1F1eFpXQmxlend2dmRGWUJ3?oc=5",
    "coverage": 1,
-   "published": "2026-11-25T02:43:54+00:00"
+   "published": "2026-11-25T13:46:29+00:00"
   },
   {
-   "title": "SB 574: California Enacts New Statutory Requirements for Attorneys’ and Arbitrators’ Use of Generative AI",
-   "source": "Freshfields",
+   "title": "Bitkub AI พลิกโลกเศรษฐกิจ! เร่งปั้นคนรับขุมทรัพย์ใหม่",
+   "source": "มิติหุ้น",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY0hxckd2eHRSYnRRU1d6ZVpCU1FLQ1NUZkVlZmh4RXF1RENuMmdvWXNPVUpRTUlUYjBwZVh2VUp2TS03aHVxWlpObGlzSG01Z1lmMFRpNDJEQk11aTNSaF9FUUdybjVfTDFIYUctdmdBT2tHbnhqb1RZRGhKX1RUQW40MzI5bThlOW0wOFVNbjJJOFNlVXR5c0F2cXdJUFNEekV5MDh2Wmkxa1c1S2xxSlZCMkozQWRkdGZ4bzR5MnQ2b25XZEU4SHp1M0tDZGNVZkk1YmU5NVRSVERzYWRVMFJldXI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kTjRrdDVvcG5aY1I5WjNSV3RTUGVJcDhUU3FtcXZlaGtjalM0MVRnalNERDZvcUdJUHFPMXdGNTU4YzlrVlFCcHI3bS1ubGY4MGwzZTdn?oc=5",
    "coverage": 1,
-   "published": "2026-11-25T02:31:23+00:00"
+   "published": "2026-11-25T13:45:55+00:00"
   },
   {
-   "title": "Belgian Cancer Experts Outline Policy Priorities for Clinical Artificial Intelligence Adoption",
-   "source": "Bioengineer.org",
+   "title": "EA ใช้ AI คืนเสียง ‘จอห์น มอตสัน’ ตำนานผู้บรรยายผู้ล่วงลับ กลับสู่เกม FC 27",
+   "source": "thestandard.co",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObjNUcEVvYWhib2thSW5fX2hZRmMxVUtydnRlWjNFbFluZzNYQTFJanUtZFdJV2hPT1EzTV9HOUVIQ1B5dHhtM3VseVNzbmx4RUVXRkNBZV9UNEhUSzRJWW40WmxOSWZaeFEzNWhJVkZhZGdLakpUQ0FqT2ktSUVaMGNBbi1CSzE5SlZiV05ablpEUW4tc0VWZFNWTmRfc25Wb1M3ZGtoU09aVDBRb3FEN1RacjkyUWdudENN?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uV1hjSGFQSTlGS2dCN0RDakZPNjAwcjhsRXpvTGhZTjFVSjJVM3pnLW9fUHltNXBTdmppMGp3RzYxT2RPTkM4ZlF0SVRTeVVMeTdmRFdTLXJkMlFPdkRDdmtQcTIxdkVSY1E?oc=5",
    "coverage": 1,
-   "published": "2026-11-25T01:59:44+00:00"
+   "published": "2026-11-25T13:45:34+00:00"
   },
   {
-   "title": "Clinical Artificial Intelligence Tools Risk Displacing Relational Care in African Health Systems",
-   "source": "Bioengineer.org",
+   "title": "ออมสิน งัด AI ทลายกำแพงสินเชื่อ เปิดทางคนตัวเล็กเข้าถึงเงินทุน",
+   "source": "มิติหุ้น",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSG93Tld6NWZ5V1VHZkZaVW10V2JBNVBDMlRIV1NMTzl3dllVcGNmWFNQd3ZvQ1RLaTU4RTM2MTY0ZV9FWWFybE1Vb3hIMHJFS0FEaUxnVTA1cEE5TFJ2SlpEQ3VOYk5oWWJKRGhuZklWNVZqUGljeUt5ZElVUnN3TWIxZ1VVTWJIaGg4d0FhT1Z5Y1J6bngtX3ZEVHRLMUpZZEllSFNWay1NbV8wZW1oaFFHOTBEZ0QtU295b3NR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oeXVnS0ZPVkZIcGlRVEdzdFFlYVZySXhDTXNqSURyWDdPdHdSejI0ZHdLWWV3Yk9zLUNfcmtSMGsySUVNSll3cmtqT0FZTUN1Y2pYRk93?oc=5",
    "coverage": 1,
-   "published": "2026-11-25T01:59:41+00:00"
+   "published": "2026-11-25T13:44:40+00:00"
   },
   {
-   "title": "Study Warns Misleading Artificial Intelligence Buzzwords Distort Public Understanding and Accountability",
-   "source": "Bioengineer.org",
+   "title": "New York governor signs five-year ban on artificial intelligence chatbot toys",
+   "source": "Baltimore Sun",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSFc2alNWbDNkXzBLM01ERF9XbVJZU0lseEd0cWxXNzV6UUZwbS1nck9MR3JUbVpxVVNkdVR0M2xfWFNEOGVGX1ZnYXNGazVtZVdtYUxkLUZqY25mLVFTRHRtUUhqaWhyTVlwZXJrRHZ0b0VxbExSS2ZXbC1DWjdCa2FGVFRFZFFHQzZFblp6S1Jfb1Q1XzlmNU5ZMUdLS3Vac2MzLWhUWXRUQmtQQnJrRGZUZ0dRM3dBaXh2ekVfa1N4cVgyR0NrRg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWd3MnJkeUxWVkxOVmxvaXU4Ujlwa2JMTklTcXhVWUk1X2o4ZmNmUUtlcWMzT2F0Q2NTcFhXT3dmX2ttZ1VSRUhzb2d5WU84UTZhYU1FQlhqWlBad0JIanRpLTJhaWh3ZFdOekRxWHZlNFJLYW1LbWZ0Vzd6SnJuMkM0WTg3RzJkaDBJWXUyYUJuQWptaWxwV2VWdWdxTlFITjg0TC1hWWNxUXZGaU05YnREMDVkWEdPeVE?oc=5",
    "coverage": 1,
-   "published": "2026-11-25T01:54:02+00:00"
+   "published": "2026-11-25T13:44:24+00:00"
   },
   {
-   "title": "Artificial Intelligence (AI) Support in Mammography Screening: Evidence From the MASAI (Mammography Screening With Artificial Intelligence) Trial and Gaps in Device Regulation",
-   "source": "Cureus",
+   "title": "JMART รุก AI เต็มสูบ ดึงเทคโนโลยี NVIDIA ปลุกกำไรทั้งเครือ",
+   "source": "มิติหุ้น",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQR0t6RGI0UUFEaFBmeHl0X0ZiOXlQRmxySXdDU1FzR293cDdSeUJfcHNnMDhQQUpKeS0yajlLOXVsRDdvVFRCeUpncTlJZXFLVmNtck42YU1mSFRYNmlGd294R3FyOVlOaVN1VWdSNjNWbGlBTXRReHZQeHpQeG1nd2JtM2FVdmJPQmFxSjgzOTVUcXFjLVFSdDJtUmYwc1JGc1NNd3E3WDBkSnpON0lUODdVc0xQZUl3bUxFTE42WlNaX3NtSDVfdG1NXzhMMENsRjdJN0d1TEV2T0NJN01VZTNvNkY1eV9TM3IxUGt2LV9LenRDc2hwY0xqdnNoMnQ1Qzl2dDFzVmdILU5MY3EybzF2cmxkcTdhYmFrQ1BZbncyVEZ3M2l5VlZhN3dySGNjc3kw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16VlJCNFlfS3RHMGwzdnQ1OFNNcGtUN1luREZieFVWVmtvR0NfazRGX2JOb04xWjV1NzNxR3RuT1hPVGk1ak5zcExnWDdva3dNczE3U1l3?oc=5",
    "coverage": 1,
-   "published": "2026-11-25T01:09:03+00:00"
+   "published": "2026-11-25T13:42:03+00:00"
   },
   {
-   "title": "Anthropic is one of Elon Musk’s biggest competitors in artificial intelligence. It is also one of his biggest customers.",
-   "source": "Facebook",
+   "title": "“ยศชนัน” เปิดเกมเศรษฐกิจใหม่ ดันไทยผงาดเวที AI โลก",
+   "source": "มิติหุ้น",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORWF4SWEwSHBtYks0V25Zc1N6WG5XVEdabDdtV0JTc3FiUFpuOUFHRjB2aFVsQWE5X3RHdlNlcnVCdS1ZYlJ5eTZPR05lNmRvdE0xNEtucEZHbXNxVml3d1BiUHJzcU5kdGZ0RGJkWnY4Y1VrdEFoeEJ1Nm5PaVRuY1JRaWx3WWZod1F1LWUtUHRibkR4Mk5CbFlpTDVpWXpOOGNIS3hOd2JOdFN0N1dzX09pSDJyeVpPekd0UUhqWkxSSHVZOVNqak5zbk05M3gyWUJlaw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hdDh0aHhsVDRtem5WVk1Gb0QxY1hGOE9sRVczanlnSkJnSkh3TExFMDllMUlUck55ZUNYSThZS3JISkpRQjkzZ3YwcExqY1dyc3dXYlRR?oc=5",
    "coverage": 1,
-   "published": "2026-11-25T00:52:14+00:00"
+   "published": "2026-11-25T13:41:55+00:00"
   },
   {
-   "title": "Neurobiological Principles Offer Energy Efficient Blueprint for Next-Generation Artificial Intelligence Systems",
-   "source": "Bioengineer.org",
+   "title": "Maple focuses on privacy-first artificial intelligence",
+   "source": "SC Media",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT1dhNDVPTTNYT2FydzlXNEwtR1k0UGFmVjJpclh5S09tU0UxOTBaT25oSTVjaG1iZk5HUE5iQ1hFcFd1N1NLRGZCY3dhYkt4M2pMZV9PUkpMdE8xTlg5ZXRHSklnOUtYN1ZDMkM0RUk3Nmc2VGc3TExES2U2d3U5SHpHVmtzdnVLa3NEVGxiOFFiNDNUOXpoalJtNC1SZzJENXlYS1FHSFhkUExXWUp0Um5sRVFqQlo1SWFzWGpycm5Zb05TMUIwTmJCMU1QSURWLXc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUFYQlN6U0lfcndGUkFoWHFwQV9aMU9rNDZlQjRvZHlKXzR2OVRSVXN5U0thM1lWX1NGeWMtRmV6Sk1GeEoyODl1UVJNMU5EZXc2TThFMjdWOU9CcUdsY0ZGWFFqbDRhR0h4a0dHR3FiYlJiYUF4eWpyQXkzUHJ0NjBLTTgybXYxeDMtVQ?oc=5",
    "coverage": 1,
-   "published": "2026-11-25T00:43:53+00:00"
+   "published": "2026-11-25T13:39:37+00:00"
   },
   {
-   "title": "Operational Ease With Generative AI Inflates Perceived Domain Competence, Review Finds",
-   "source": "Bioengineer.org",
+   "title": "‘Mormon Land’: Should you confess your sins to A.I.? Some Latter-day Saints say yes.",
+   "source": "The Salt Lake Tribune",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnByaWlrX0EtQ0k2WmprV0s1U05NVHJlZ1FjaHlPYXdyYTNueDlkSzl3a1NyWF9BLTZSaW1RZl9tc0kwdXVvclE2bENmTHlPOHh4RU82NWUyNTdpQk10N3ljb2hRa0RTd05fOUpld0JDTnBuN2J3RDNzM0Q3M1VhcmVLNkoyQUdjZzFtMU15NC1KMDd1MEY4NkhvdTRqRnZzcDN2S2dpUXRkZ2VsazAw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnFOQkhVUUE3cGZIWTZ1YlhmNkdGbWlVd29kV205V0JYWERmNUNMVVVrdllpMlZVOEVTTHM5M2VTeHM1Q01iRWdIZlRMZ1BoQ1pjOTE5anVjVld6S3J3aEw0R0Z5RnZPR2lteUZ1UTcwNWw2NEhoZmVqTzJDd2NjaQ?oc=5",
    "coverage": 1,
-   "published": "2026-11-25T00:33:45+00:00"
+   "published": "2026-11-25T13:07:30+00:00"
   },
   {
-   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+   "title": "Has vibe coding made open source the new normal for synths?",
+   "source": "The Verge",
+   "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding…",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+   "coverage": 1,
+   "published": "2026-11-25T13:00:00+00:00"
+  },
+  {
+   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
    "source": "TechCrunch",
-   "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the…",
-   "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+   "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
    "coverage": 1,
-   "published": "2026-11-25T00:12:02+00:00"
+   "published": "2026-11-25T13:00:00+00:00"
   },
   {
-   "title": "เจนเซน หวงคืนบังเหียน ดันหุ้น AI หนุนตลาดโลกฟื้นแรง",
-   "source": "Thunhoon",
+   "title": "Strengthened regulation of generative AI necessary",
+   "source": "China Daily Global Edition",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YM3IwSGdfQ1lpTXhUOUR1NWVJa01HbVdrRTN1MWxBckVtWnM1N1QwN3J6VXdET093a0xTektsUlVva21WMkc0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR1JydUN6MG5zQkx2aGdDejA4Q0JYQVZYbExaazFiU0sxTDBtUy1PVE1jREs2d3I4QmVfUGx5S3ZXQUFwY0RYbTM5R251RDBhVkw2YVVtQVpQRnh1Yk5vWEFYblkxakw5NjJpOGdWNlU3Z3hsSUNLYjNsM1VXRlU1RTlR?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T23:15:44+00:00"
+   "published": "2026-11-25T12:56:38+00:00"
   },
   {
-   "title": "DealBook Summit 2026: Rein in A.I., but Don’t Pause It",
+   "title": "Why the Nvidia Rally Fizzled",
    "source": "The New York Times",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4ydEctMHRRbnE3X3FaYWZ5MWxFcF91WV9CbnFTblJjb2NPRmlDY2pocFlPYUZSS3I0WVdfQ3FRZks5WmFtc0Qycjl5TXQ1cTJRSTdGUnJ6MGtVWnpzcklIcDZRYlhHVkpJa1RIX3A4LTBkUW9QTFU2QmhEaw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0NWUDNEQW9Uc2E3LVNHekVBblRIS3lpbzc3V01JQVBZWXpWd0Nsel91NlZZbWtsQWU3MWx2bkhybmJzWmVyT1ExRmNxWWk5SnRUV0tHTDY3WlZVSGw4amRxRTJ2eGEzNjlJVGd5Wlg1ZjFWZ0N1c3ZQUjQxTkNxd0JDenp5UQ?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T22:59:27+00:00"
+   "published": "2026-11-25T12:53:22+00:00"
   },
   {
-   "title": "IL Supreme Court creates standing Committee on Artificial Intelligence",
-   "source": "NewsChannel20",
+   "title": "NVIDIA สะเทือนเกม AI โลก! ศึกภายในปะทะแรงต้านสหรัฐฯ เปิดทางจีนจ่อแซง?",
+   "source": "spacebar.th",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdUNQdGExQXlfVWJYMzNnZDh1MEVNX3EydVpxMy1jOUlLRUxzT0Y2eG1WbzN5cXRldnQtNzVHVHdGWF9JS2x4c0lXNzBFbGhmdm1mcFd4dkVUNTVVMWtITDdjWktQc3pXak5DOEpnNjlRUVp5dlBuVHhLN2FwY2VRNEZHVWJQS2wxOTFJVFVNZ3BSLWw1T2hzakpLQ0U5cHBuNGxmajRqSHBUT3dqOE1QWDM4RlVmYllTTHdPQjNPYzhRUG51SlJyX0FYamJUTnF6blQzOFg3RF9PbmRxdHk4QkM0bTVqalhfdkpFdUFtSkZFZzg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTi10eHJpb2o4Z2RDUDFlaHpEZ183bU9CYWVoa3VjaGFfMkFvMlB3TzBfcjhvWjB0VjhLZVU0Y2EybTJiZmZSOW4waUZyM0JmR3l0ZjhrckxfeGtEUkdpd2JNRHNWM1RxeVZobWcwQUxwaXpIZUZXNFE3RG95Umg3Y1d1Qmtxb24wbUYzUXpURFpGUQ?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T22:54:00+00:00"
+   "published": "2026-11-25T12:52:00+00:00"
   },
   {
-   "title": "NTT DATA ปั้นคน AI จัดแข่ง Digital Innovation Challenge 2026",
-   "source": "BiztalkNEWS",
+   "title": "Does Artificial Intelligence Need a Thank You? The Answer May Surprise You",
+   "source": "Royal Examiner",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTDVuRjVaNUV0RFpqamtvb1ZGbHF5ZVlIY242NDdRbFEyNDlFeG1KYVNiTkJnZThGb3ZYdTVPeUVoem5icDlEQmhab0lSOVFPV1ZuazdaZ291alpQV0IxTFlWTHhEVWpIbmV6WXQ4ZGJmbzBPTnNhSmUyWjJpOHRMSzNBQlNTT3J1dVFJTmttak8zSU9kM0E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnVka05ROWtGbENYaE5TQnZXV0FLYTdXXzI5Wl9hSUtrbF93el9Uc3dubkg4WlRMS08tRmJ1bzZINzl6aHlKT1RkNzliSE9JemFEWXRCQWs0MjBmbXlyaERwd0lILS01SDBxZjctY21JdEdwck1KRDFBSC1nb0xjem0ya3lpdmp5eVN4TlA1R0pTRXlYZG5YMXBGSldDLXdMTnc?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T22:34:06+00:00"
+   "published": "2026-11-25T12:27:38+00:00"
   },
   {
-   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-   "source": "TechCrunch",
-   "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-   "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "title": "AI may soon change what it means to be a theoretical physicist",
+   "source": "Ars Technica",
+   "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+   "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
    "coverage": 1,
-   "published": "2026-11-24T22:27:52+00:00"
+   "published": "2026-11-25T12:00:28+00:00"
   },
   {
-   "title": "Artificial Intelligence Bargaining Rights",
-   "source": "Washington Federation of State Employees",
+   "title": "News - The hidden risks of the artificial intelligence supply chain",
+   "source": "teiss",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZTmFuQTRMQ0lRUUlUcDNacFlUZWo3R0NCRHV2Q0w5T25aSkV3d2xJQ09VRmVkaUpGZkk0SS01Wk14WU9DemRBQzI3MkxtUTJwaTZ6ZnQtRTE3cDlNZXZvTVV0MDNtbVVENmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONG1mdDV3a3FVcUx5aWFUNHRYaVMtSlpZLWhfcFAwTUVSWk92bi1BVjBpUDZKWkdEaTJsMl9vOHhDempBXzhSeTZTV3hObjU3OHR3X3JCTnlpeE5INTFNLXVkbURoT0dHal9RZk9UV2E4YmxUekpzcVUxZTF4RndFa2tVVndCVjBYYVBKZ2MyTi1qZkdiVkVvTzdUZw?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T22:24:59+00:00"
+   "published": "2026-11-25T11:51:45+00:00"
   },
   {
-   "title": "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)",
-   "source": "The Motley Fool",
+   "title": "“มาดามเดียร์” นำทัพ Liberator จับมือ DeepScope เปิดตัว 3 AI ยกระดับแพลตฟอร์มลงทุน",
+   "source": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZDRaRzNObjBnSjJ0T0VyUTlCajJkR1dMVmFqbHl6dTlZYVZQM1Q2WXJ0REtQZUg1UjJlZlBLb3dIX2c1em9TaTVGbTZrSlFJNXpGTThrX1JUZ2VpeXdZdXQyVmlscGhyUjd0YVUxZVZmUFZ6SnRwM2djOUJ2a2hQWEs3TlFfVmtZa2FqMWJMR3NZS2xaVHEtSWh3bnJ4ellETzdMaTJKOXR1cHVtVTAwZEZoVlBkT0g2ZzBxVUhwVllfSkMzV0Jxb2RIc3A1SDAxUFh6aENMWnJkVzJqSXRjTzdqUlhfUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JbU55X3hjckthQWQtdmQ1RjJDaHF4enRiaGVkV1VNRFllNWdkME81OE0wX2JXTDE3aDgydjdWS0xLUmJmVEc3M0Z6ckthbWwwMS1nak40c0hOZTNvbllj?oc=5",
    "coverage": 1,
-   "published": "2026-11-24T22:00:02+00:00"
+   "published": "2026-11-25T11:40:00+00:00"
+  },
+  {
+   "title": "NTT Data: Derry AI centre to create 200 new jobs",
+   "source": "BBC",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JSzFUNVhkSWVBbWpKU1RJSUREbUFYbnV0OE10ZUNkV20zSF9mMC1BM2wtMlhlYkhkUU5pSGxndEZmdlFMSHdFNFlfdGwzenVzSXVTNjh6cEQwYVk?oc=5",
+   "coverage": 1,
+   "published": "2026-11-25T11:30:37+00:00"
+  },
+  {
+   "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+   "source": "Wired",
+   "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+   "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+   "coverage": 1,
+   "published": "2026-11-25T11:30:00+00:00"
+  },
+  {
+   "title": "A research agenda for integrating artificial intelligence in mitigation scenario workflows",
+   "source": "Nature",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUb3JjOFZLXzRBazBrdlVUQzJ6MUJtUlQ0ZF9tVkZRYVBZbmMtSHFTSElmYlhDMFZUUmVIVkdMV3pPTFppVXROVW8wSzZTenRTZGtwZWZfbHE1WktUZ1Qw?oc=5",
+   "coverage": 1,
+   "published": "2026-11-25T11:18:40+00:00"
+  },
+  {
+   "title": "HUAWEI เร่งพัฒนา AI เฉพาะอุตสาหกรรม มุ่งสร้างผลลัพธ์ธุรกิจที่วัดผลได้",
+   "source": "มิติหุ้น",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WdnZVMFpfbnhhYmNqMUhua3lURlV6Y29NQXlVLUQ5azdWSW1rNDdWak04R2ljMWs4ckxVdjJOY0pHMmVsbGRzb0IwMGVIdkxNaFo0akxR?oc=5",
+   "coverage": 1,
+   "published": "2026-11-25T11:07:46+00:00"
+  },
+  {
+   "title": "King Power ขับเคลื่อน AI Transformation จากคนสู่ผลลัพธ์ธุรกิจจริง ด้วย ChatGPT Enterprise",
+   "source": "Techsauce",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU2w4RVNlMnBJQ25LcXBUQk8zakFZdUZHQmdqMWxUWDE4SUtpdFlqT0FHWE5fWWNSNjhsa2hKMXJiR1dMNENrQnhvLXlXeXkxQ2JHWnFFcndURGFxeUZISmtHQTA4NGZ6MXFrZU5nWHVUVnBCWC1WaWxJcFdOUzJEWjJn?oc=5",
+   "coverage": 1,
+   "published": "2026-11-25T11:02:04+00:00"
+  },
+  {
+   "title": "Amid the growing influence of artificial intelligence (AI) around the globe, stronger collaborations among newsrooms and safety nets on the use of new technologies must be prioritized, SunStar Cebu editor-in-chief Mildred Galarpe said during the 2026 Social",
+   "source": "Facebook",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQjZrZU5qcExNME5xMEdZNGhONWtNbWo1b3JBZW9wdUVSWlRodVV1dE9uMXlIWi1rRW0zcHhwdzU0YkVHZmpTMXEzUW1hWjdvS3hBWWN0RGllcW1uMUxFTnN4RVNubjc4a2ZMT0VaZEdNRkVIV2ZkQThLNE9XMW1aZjF5ZEFmc0Fhcy1JUWs1SGoyaGNlNEU1d0diQjRKRHZ4LVhveDF5eTFnY1p5czVyYmlUemV6SkxiX19VVUcxMy1sdUZjQmUtLW96d0pkMTN6RkgtLWxZZzVBSzA?oc=5",
+   "coverage": 1,
+   "published": "2026-11-25T10:00:10+00:00"
+  },
+  {
+   "title": "AI is straining America’s open records systems",
+   "source": "MIT Tech Review",
+   "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure…",
+   "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+   "coverage": 1,
+   "published": "2026-11-25T10:00:00+00:00"
   }
  ],
  "brief_urls": [
