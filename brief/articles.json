@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T21:09:10+07:00",
+ "generated": "2026-11-25T21:10:11+07:00",
  "articles": [
   {
    "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
@@ -282,6 +282,14 @@
    "published": "2026-11-25T11:30:00+00:00"
   },
   {
+   "title": "มข.ต้อนรับคณะนักวิจัยนานาชาติโครงการ HUMAN-AI ทุนสหภาพยุโรป มุ่งขับเคลื่อนการอุดมศึกษาและธำรงมิติความเป็นมนุษย์ในยุคปัญญาประดิษฐ์ - Khon Kaen University",
+   "source": "มหาวิทยาลัยขอนแก่น (KKU)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQZ3c2R1MxU1lmVzg4QjJiTE50MHZfUTAwTDJrbDBzbDYtMm1vckF4cHh6OE5VSGdDQjFGakdzRGRva3F2QWVwN1pzQy1nU3MtZUFoQTl1amcwRkVHb3VmWHpFblF0azZNTGl2ZV9IWU4yUkJLUFplbld6SmVCamRvNUVYVWxKYVJ1RVYtMUZfdEpHSVJxazh6ZGl2LWR6R2pXT01SSERKdFRaQ2ZJUFhLMFdxN2U3eF9pQjRWRGVkUnFIZURpS0xVYXlPTDQ1dW1PdFVfdzFNTW5MLVN5OEVaMlRFU2c5VzV6aHZ5M2dUX1p4MkJJek1wZmJ2TzYxWlVsREo4SHFVWlIzLU9YSFlUS09ITjhzdWdZQm9JcjZhcnNycWpXY2E0eFZmbkN6bXVkN0ppQThyb1ZaeFZnVEN5d2N2MU5va3h6S2wzQVdlcDdsMnAzTzVr?oc=5",
+   "coverage": 1,
+   "published": "2026-11-25T11:26:10+00:00"
+  },
+  {
    "title": "A research agenda for integrating artificial intelligence in mitigation scenario workflows",
    "source": "Nature",
    "summary": "",
@@ -312,21 +320,13 @@
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQjZrZU5qcExNME5xMEdZNGhONWtNbWo1b3JBZW9wdUVSWlRodVV1dE9uMXlIWi1rRW0zcHhwdzU0YkVHZmpTMXEzUW1hWjdvS3hBWWN0RGllcW1uMUxFTnN4RVNubjc4a2ZMT0VaZEdNRkVIV2ZkQThLNE9XMW1aZjF5ZEFmc0Fhcy1JUWs1SGoyaGNlNEU1d0diQjRKRHZ4LVhveDF5eTFnY1p5czVyYmlUemV6SkxiX19VVUcxMy1sdUZjQmUtLW96d0pkMTN6RkgtLWxZZzVBSzA?oc=5",
    "coverage": 1,
    "published": "2026-11-25T10:00:10+00:00"
-  },
-  {
-   "title": "AI is straining America’s open records systems",
-   "source": "MIT Tech Review",
-   "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure…",
-   "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-   "coverage": 1,
-   "published": "2026-11-25T10:00:00+00:00"
   }
  ],
  "brief_urls": [
-  "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
-  "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-  "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHVMcVFtLTZGQjRGVEhUU1RMeGZNRVEwMkZVMFFvZUpLcEd6T0pzY29yZkdrbEt6VHc3UDFaRnU5VW4zN0h6VUxhcnJrclh6NzZkQzVHeFB4d3VxZy1qbDlCaFlxeU5tZE9oRXpzczFQcFFrRmR2b19UUGViclhKNE5jSDk?oc=5",
-  "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSTBub3lYZDJqMVFzaWF0SEpmdzVrYUZMdlBDSkc1OWxnaXNOZHUtQkRYOUlqOWlqRTlMbUtXbzFqTzZsN2tqQUFsR1plaXU3andyaC1pYkswdw?oc=5"
+  "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWd3MnJkeUxWVkxOVmxvaXU4Ujlwa2JMTklTcXhVWUk1X2o4ZmNmUUtlcWMzT2F0Q2NTcFhXT3dmX2ttZ1VSRUhzb2d5WU84UTZhYU1FQlhqWlBad0JIanRpLTJhaWh3ZFdOekRxWHZlNFJLYW1LbWZ0Vzd6SnJuMkM0WTg3RzJkaDBJWXUyYUJuQWptaWxwV2VWdWdxTlFITjg0TC1hWWNxUXZGaU05YnREMDVkWEdPeVE?oc=5",
+  "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+  "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+  "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
  ]
 }
