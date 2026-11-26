@@ -1,46 +1,46 @@
 {
-  "generated": "2026-11-26T06:42:10+07:00",
-  "model": "claude-sonnet-5-5 (routine)",
-  "items": [
-    {
-      "title_th": "Amazon และ Meta เจรจาปลดบล็อก AI เอเจนต์ Muse บนมาร์เก็ตเพลส",
-      "summary_th": "Amazon และ Meta รายงานว่ากำลังหารือยุติการบล็อก Muse ที่ดำเนินมาราว 2 เดือน โดยประเด็นหลักคือประเภทสินค้าที่ Muse แนะนำ และผลกระทบที่ตามมา ตามรายงานของ Fortune",
-      "title_en": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "summary_en": "Amazon and Meta are reportedly discussing an end to the roughly two-month blockade of Muse, centering on the kinds of products it recommends and the impact, per Fortune.",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "source": "TechCrunch"
-    },
-    {
-      "title_th": "S&P พิจารณาลดเครดิตเรตติ้ง Nvidia ชี้ความเสี่ยงด้านธรรมาภิบาลและการพึ่งพาผู้นำ",
-      "summary_th": "S&P อาจปรับลดอันดับเครดิตของ Nvidia เป็น AA- ซึ่งเป็นอันดับสูงสุดอันดับที่ 4 โดยอ้างความเสี่ยงด้านธรรมาภิบาลและ 'key man'",
-      "title_en": "S&P considers Nvidia credit downgrade over governance and 'key man' risks",
-      "summary_en": "S&P may lower Nvidia's credit rating to AA-, the fourth-highest rating, citing governance and 'key man' risks.",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "source": "TechCrunch"
-    },
-    {
-      "title_th": "OpenAI รวม Chat และ Work ใน ChatGPT ผู้ใช้หนักอาจชนลิมิตเร็วขึ้น",
-      "summary_th": "OpenAI จะใช้มิเตอร์การใช้งานเดียวทั่วทั้ง ChatGPT เมื่อรวมประสบการณ์ Chat และ Work เข้าด้วยกัน และระบุว่าผู้ใช้งานหนักอาจถึงขีดจำกัดเร็วขึ้น",
-      "title_en": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "summary_en": "OpenAI will introduce a single usage meter across ChatGPT as it combines Chat and Work, and says heavy users may hit limits sooner.",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "source": "TechCrunch"
-    },
-    {
-      "title_th": "EU วางแผนลงทุน 5 หมื่นล้านยูโรใน AI และควอนตัม หวังลดการพึ่งพาต่างชาติ",
-      "summary_th": "สหภาพยุโรปวางแผนลงทุน 5 หมื่นล้านยูโรในด้าน AI และเทคโนโลยีควอนตัม โดยมีเป้าหมายลดการพึ่งพาต่างชาติ",
-      "title_en": "EU plans €50 billion investment in AI and quantum to reduce foreign reliance",
-      "summary_en": "The EU plans to invest €50 billion in AI and quantum technology, aiming to reduce reliance on other countries.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Rc1ktRjZOaHd6ZDhHbXJBN0U4djcycS1mZ1VPdVBvWUd0Y2N1cmdPaVNhUjB6Nk5IZ01KRGNzcGhlSVVlcVpnV1pybDRFU1NXVjVyenJWVjVHQ2s?oc=5",
-      "source": "thairath.co.th"
-    },
-    {
-      "title_th": "Dario Amodei ของ Anthropic ปัดข้อกล่าวหาว่าสนับสนุนการยอมให้ AI ควบคุมแทนมนุษย์",
-      "summary_th": "CEO ของ Anthropic เรียกข้อกล่าวหาจากคู่แข่งว่า 'absurd' ท่ามกลางที่บริษัท AI ชั้นนำเริ่มทำงานวิจัยและพัฒนาโมเดลของตนเองแบบอัตโนมัติมากขึ้น",
-      "title_en": "Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
-      "summary_en": "The Anthropic CEO pushes back on rivals' claims he favors giving up human agency to AI, as leading AI companies increasingly automate their own research and model development.",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "source": "TechCrunch"
-    }
-  ]
+ "generated": "2026-11-26T21:09:06+07:00",
+ "model": "claude-sonnet-5-5 (routine)",
+ "items": [
+  {
+   "title_th": "Nvidia ระงับส่งเซิร์ฟเวอร์ชิป AI ไป 4 ชาติอาเซียนรวมถึงไทย",
+   "summary_th": "สื่อไทยรายงานว่า Nvidia ระงับการส่งเซิร์ฟเวอร์ชิป AI ให้ 4 ประเทศอาเซียน รวมถึงไทย ขณะที่ดัชนี SET ปิดลบราว 14 จุดจากความกังวลเรื่องสหรัฐฯ คุมชิป AI",
+   "title_en": "Nvidia halts AI chip server shipments to 4 ASEAN countries including Thailand",
+   "summary_en": "Thai outlets report Nvidia has suspended AI chip server shipments to four ASEAN countries, Thailand among them; the SET index closed down about 14 points on concern over US chip controls.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBacmE0V05rRUxhTnY2UmpRdlZvMXN3NzBlMzNBX1NDVGRSUXlkaFp2WGZrazdqVWk5dGdNUnI3RkFtWVJKYWwyak54LThNUnRDVnNERHZ4UnFNY2lBTVVKYUdTLUtzUQ?oc=5",
+   "source": "pptvhd36"
+  },
+  {
+   "title_th": "42 รัฐในสหรัฐฯ คัดค้านแผน Character.AI ขายข้อมูลแชตผู้ใช้ระหว่างล้มละลาย",
+   "summary_th": "อัยการสูงสุด 42 รัฐพยายามสกัดไม่ให้ Character.AI ขายข้อมูลผู้ใช้ในกระบวนการล้มละลายตามมาตรา 11 โดยข้อมูลครอบคลุมบัญชีในสหรัฐฯ กว่า 21 ล้านบัญชี รวมผู้เยาว์ 2.1 ล้านบัญชี",
+   "title_en": "42 US state AGs challenge Character.AI plan to sell users' chats in bankruptcy",
+   "summary_en": "A coalition of 42 state attorneys general is trying to block Character.AI from selling user data in its Chapter 11 case; the data covers more than 21 million US accounts, including 2.1 million registered to minors.",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "source": "TechCrunch"
+  },
+  {
+   "title_th": "Amazon เจรจากับ Meta เพื่อยกเลิกการบล็อก AI เอเจนต์ Muse",
+   "summary_th": "Amazon และ Meta รายงานว่ากำลังหารือยุติการบล็อก Muse ที่ยาวราว 2 เดือน โดยเน้นประเภทสินค้าที่เอเจนต์แนะนำ ขณะที่หน่วยงานกำกับการเงินอังกฤษ (FCA) ระบุว่า Meta ปฏิเสธการทดสอบร่วมกันก่อนเปิดตัวในอังกฤษ",
+   "title_en": "Amazon and Meta reportedly in talks to end Muse AI agent blockade",
+   "summary_en": "Amazon and Meta are reportedly discussing ending a roughly two-month block on Muse, focused on what products the agent recommends; separately, the UK FCA says Meta declined joint testing before the UK rollout.",
+   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "source": "TechCrunch"
+  },
+  {
+   "title_th": "Ubisoft ถูกรายงานว่าให้ทีมงานชี้แจงหากไม่ใช้ generative AI ในข้อเสนอโปรเจกต์",
+   "summary_th": "ตามรายงานที่ยังไม่ยืนยัน ทีมงานของ Ubisoft ต้องอธิบายเหตุผลหากข้อเสนอโปรเจกต์จะไม่ใช้ generative AI",
+   "title_en": "Ubisoft staff reportedly must justify not using generative AI in pitches",
+   "summary_en": "According to an unconfirmed report, Ubisoft teams must explain why a project pitch will not use generative AI.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUppb1V2aEZVYXIwdGVfcl94aVVuUlZyQS1mc0dKaDY5dVRad2d2RUlGSnVyLXU1S3d6S09OcWFSeVkwOU04VXU4T1pRVEtXZEhaeGdtUktjczlqNGYzVTRhVm5rbXJ4V1FjYVN6My1sNnNRMDBTeTRzQ3pWeXh4cDFnQkFUcTZMdVRCampaNF9BbGJvY29aR2NjbnFIS09lNjliVkhEWnM?oc=5",
+   "source": "GamesIndustry.biz"
+  },
+  {
+   "title_th": "“สันติธาร” ชี้ธุรกิจไทยใช้ AI เพิ่มผลิตภาพเพียง 12%",
+   "summary_th": "สันติธารระบุว่าธุรกิจไทยใช้ AI เพิ่มผลิตภาพได้เพียง 12% และแนะให้ปรับระบบงานและเร่งอัปสกิลบุคลากร",
+   "title_en": "Santitarn: Thai firms gain only 12% productivity from AI",
+   "summary_en": "Santitarn says Thai businesses have raised productivity by only 12% using AI and recommends reworking workflows and accelerating upskilling.",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wSGYtclU1azM4S25xU256VTdVSW5iTVR3WnpkOFY0TVJwRGFROHRPcDlmcEZ3ampCZkZveFNzaG5EUXNYR3QzbGMtNGxjeVBVcUlz?oc=5",
+   "source": "ข่าวหุ้นธุรกิจออนไลน์"
+  }
+ ]
 }
