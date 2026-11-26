@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T20:50:15+07:00",
+ "generated": "2026-11-26T21:08:27+07:00",
  "articles": [
   {
    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
@@ -66,6 +66,14 @@
    "published": "2026-11-25T14:10:18+00:00"
   },
   {
+   "title": "Ubisoft Encourages The Use of Generative AI, Asks Devs to Justify Not Using It – Rumor",
+   "source": "GamingBolt",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQzFNdkxma1BsNzVYUmF2UUNka1F4MnNRUGlEQ0hpblNFOWZ6bjB0TmdjM3BQazhzcmNpWmltYlFyT3pVRjRnMlJUeFNOcmRMQzdMa1VuZEQ0MThWX2NrMlgyX1g3MjZvSVZXMFhRcGhOeWMtUEh2MTFnYS1hUFBQczhJTm1mdHZSenJQREdvX1ktRmtTMmFlemotTnFzVDlKaDZqSWE3Vm81dw?oc=5",
+   "coverage": 1,
+   "published": "2026-11-26T13:59:29+00:00"
+  },
+  {
    "title": "Optimizing penetration testing workflows with in-house artificial intelligence",
    "source": "SC Media",
    "summary": "",
@@ -80,6 +88,14 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObE5ZWVBvSFdXOXZOZk9jUEpwNTgxV0VEamRfNkJzSXN1b28tVnBYcTdQWGw4TlA0NTRzOGhzb0pidGdaSldDU2tpbmNmUTdnc00wWGRmU256eURaLVI0R05kREFHNGY4RGNmQlRfWHN3ZUxuM3NQb3d4emtNWFYyV21OY29DbDdXUy1NQXVZNjE5VThWaTdpb252Rkw3WVphVk0xLTJSSQ?oc=5",
    "coverage": 1,
    "published": "2026-11-26T13:30:22+00:00"
+  },
+  {
+   "title": "NYT Tells Photo Department: Don't Use Photoshop 2027 — The Risk of Invisible Generative AI Left in Metadata",
+   "source": "BigGo Finance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRXl5Qzd0VUZzcTVoYjZQeFhCQWt1ejNMYi1nbGFtVnc4S0JDNVFFd1VPWG9VZWJ4Yk1vVjhVajdEZWVfOWRuYXlDNUYxT1FLbV9MaHhFTjh3VlhQQkdmdVY0Y09iV0o5dERiZ3lpeS1KYkt5UFE?oc=5",
+   "coverage": 1,
+   "published": "2026-11-26T13:25:00+00:00"
   },
   {
    "title": "หวย AI ส่องเลขเด็ด หวยงวดนี้ 1/12/69 วิเคราะห์สถิติหวยออกวันอังคาร ย้อนหลัง 10 ปี",
@@ -120,6 +136,14 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTlhXTkw5YVNwV2JkOUY1OHNZaVFyV2RhV0RHYVJFZG16cW1abFRCNmN5dHdNTFd1amt5UmdpMGpBcklqS1hrS3Z1RW5OcWVJaWFDeTRnYTdrR3VfZk8xWlVsV0NEUHRkSHVtY3hwcG5SRXVHOWw5UFViU0ZHXy1lTzVjenM5YU8wZVhRSGxENGRuTVRmY2MyQ1ZuYnN6dlVRd25HaEEtX3I2QTAtVzBycjJPYjZKQ0lNT2l0R25pUUEtZ2M?oc=5",
    "coverage": 1,
    "published": "2026-11-26T12:10:18+00:00"
+  },
+  {
+   "title": "Validity Framework Demands Defining Clinical Competence Before Deploying AI in Clinical Examinations",
+   "source": "Bioengineer.org",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVNSTEVKM3FublBseU5MTjViTE5MOXhTRUEtQ3FEWTVjTW5ucTRBQ05NcVFiZXVzSk1MN0pSaEp5Y3NveFh3Q3JqeEJUQkpvYWdOSGNxZ01oaGs1Rk8wRm1aWWdHM2NxMURFbVc3NTNjNHpLamRDaVY4U1VRSF9MdEF1WUtBcXd0MnpQSjBUaUJsSXgzT1hjcTIwVTNYVDNMbzZ6SUhyOHpXN0l0NUJzY3c1RklBNGpKeG1IWmpxcXlJa0k?oc=5",
+   "coverage": 1,
+   "published": "2026-11-26T11:56:50+00:00"
   },
   {
    "title": "“สันติธาร” ชี้ธุรกิจไทยใช้ AI เพิ่มผลิตภาพเพียง 12% แนะปรับระบบงาน–เร่งอัปสกิล",
@@ -296,30 +320,6 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmpNVmFIVVM4cXJudlhiOHhCNDFwVFpvVkhyNmdueElqdFZadk1CRkcyVC1wSVBIeHZudWNIRkE3a1RDQ2ZvcjdsbVVvdFVlVkpBamhvdHlJZWNWSGJRTXBVSHpjLWFlRl9neTZCTHByZVJqTWxHeUJyRk93TmxVWGJHdTNGMmVpSDdzVA?oc=5",
    "coverage": 1,
    "published": "2026-11-26T09:27:57+00:00"
-  },
-  {
-   "title": "Multicenter Study Evaluates Artificial Intelligence for Skeletal Maturity Staging",
-   "source": "Bioengineer.org",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXgxeV91Z0w0U2N5ZFR6TWY3NU9Ga04tcGQwTDM5VHh2am40RWw3UEUtYTAzZktqcTNPbnFBX2Qydm1ydGYybEU1V093YWFaTlhFRnlIM3gxb0MzakZJcHlDelJTOVJSYm91UTJTNjdQdkxNanFaSzgzNVU2d3JRcWxWMWljTmd0eGVjX2hCY25pQ05zbE5wT2pBQy1oWmxhTEU3ZzlWNTl3QQ?oc=5",
-   "coverage": 1,
-   "published": "2026-11-26T08:44:57+00:00"
-  },
-  {
-   "title": "Nvidia หยุดส่งเซิร์ฟเวอร์ AI ไปยัง 4 ประเทศอาเซียน",
-   "source": "ไทยโพสต์",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tTUV4WFpUcURKd0ZDRnRWSWNHVVFtS1huYTlVQ3pQUzRPenI2dS1OSk9IM1RCczRGM1pLcmN4MC1DQ0NwSkVQTzNPNnBUYXl2VXFBZzc4dHA?oc=5",
-   "coverage": 1,
-   "published": "2026-11-26T08:40:25+00:00"
-  },
-  {
-   "title": "'Salesforce' เตือนธุรกิจไทย ปรับตัวช้า เสี่ยงตกขบวน AI",
-   "source": "bangkokbiznews",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RcFJpazVmeUtzS0FCMVZBb05XUXR4RXB5Y0c5ekl5cnVTbXEwVTJyYmRsblB3WTRKV2NvVzVadnVJTDZNSlJoNmxwMXExVDdQUHpmc0pvb2hrdw?oc=5",
-   "coverage": 1,
-   "published": "2026-11-26T08:35:00+00:00"
   }
  ],
  "brief_urls": [
