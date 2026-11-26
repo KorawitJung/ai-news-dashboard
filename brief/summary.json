@@ -1,46 +1,46 @@
 {
- "generated": "2026-11-26T21:09:06+07:00",
- "model": "claude-sonnet-5-5 (routine)",
- "items": [
-  {
-   "title_th": "Nvidia ระงับส่งเซิร์ฟเวอร์ชิป AI ไป 4 ชาติอาเซียนรวมถึงไทย",
-   "summary_th": "สื่อไทยรายงานว่า Nvidia ระงับการส่งเซิร์ฟเวอร์ชิป AI ให้ 4 ประเทศอาเซียน รวมถึงไทย ขณะที่ดัชนี SET ปิดลบราว 14 จุดจากความกังวลเรื่องสหรัฐฯ คุมชิป AI",
-   "title_en": "Nvidia halts AI chip server shipments to 4 ASEAN countries including Thailand",
-   "summary_en": "Thai outlets report Nvidia has suspended AI chip server shipments to four ASEAN countries, Thailand among them; the SET index closed down about 14 points on concern over US chip controls.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBacmE0V05rRUxhTnY2UmpRdlZvMXN3NzBlMzNBX1NDVGRSUXlkaFp2WGZrazdqVWk5dGdNUnI3RkFtWVJKYWwyak54LThNUnRDVnNERHZ4UnFNY2lBTVVKYUdTLUtzUQ?oc=5",
-   "source": "pptvhd36"
-  },
-  {
-   "title_th": "42 รัฐในสหรัฐฯ คัดค้านแผน Character.AI ขายข้อมูลแชตผู้ใช้ระหว่างล้มละลาย",
-   "summary_th": "อัยการสูงสุด 42 รัฐพยายามสกัดไม่ให้ Character.AI ขายข้อมูลผู้ใช้ในกระบวนการล้มละลายตามมาตรา 11 โดยข้อมูลครอบคลุมบัญชีในสหรัฐฯ กว่า 21 ล้านบัญชี รวมผู้เยาว์ 2.1 ล้านบัญชี",
-   "title_en": "42 US state AGs challenge Character.AI plan to sell users' chats in bankruptcy",
-   "summary_en": "A coalition of 42 state attorneys general is trying to block Character.AI from selling user data in its Chapter 11 case; the data covers more than 21 million US accounts, including 2.1 million registered to minors.",
-   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-   "source": "TechCrunch"
-  },
-  {
-   "title_th": "Amazon เจรจากับ Meta เพื่อยกเลิกการบล็อก AI เอเจนต์ Muse",
-   "summary_th": "Amazon และ Meta รายงานว่ากำลังหารือยุติการบล็อก Muse ที่ยาวราว 2 เดือน โดยเน้นประเภทสินค้าที่เอเจนต์แนะนำ ขณะที่หน่วยงานกำกับการเงินอังกฤษ (FCA) ระบุว่า Meta ปฏิเสธการทดสอบร่วมกันก่อนเปิดตัวในอังกฤษ",
-   "title_en": "Amazon and Meta reportedly in talks to end Muse AI agent blockade",
-   "summary_en": "Amazon and Meta are reportedly discussing ending a roughly two-month block on Muse, focused on what products the agent recommends; separately, the UK FCA says Meta declined joint testing before the UK rollout.",
-   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-   "source": "TechCrunch"
-  },
-  {
-   "title_th": "Ubisoft ถูกรายงานว่าให้ทีมงานชี้แจงหากไม่ใช้ generative AI ในข้อเสนอโปรเจกต์",
-   "summary_th": "ตามรายงานที่ยังไม่ยืนยัน ทีมงานของ Ubisoft ต้องอธิบายเหตุผลหากข้อเสนอโปรเจกต์จะไม่ใช้ generative AI",
-   "title_en": "Ubisoft staff reportedly must justify not using generative AI in pitches",
-   "summary_en": "According to an unconfirmed report, Ubisoft teams must explain why a project pitch will not use generative AI.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUppb1V2aEZVYXIwdGVfcl94aVVuUlZyQS1mc0dKaDY5dVRad2d2RUlGSnVyLXU1S3d6S09OcWFSeVkwOU04VXU4T1pRVEtXZEhaeGdtUktjczlqNGYzVTRhVm5rbXJ4V1FjYVN6My1sNnNRMDBTeTRzQ3pWeXh4cDFnQkFUcTZMdVRCampaNF9BbGJvY29aR2NjbnFIS09lNjliVkhEWnM?oc=5",
-   "source": "GamesIndustry.biz"
-  },
-  {
-   "title_th": "“สันติธาร” ชี้ธุรกิจไทยใช้ AI เพิ่มผลิตภาพเพียง 12%",
-   "summary_th": "สันติธารระบุว่าธุรกิจไทยใช้ AI เพิ่มผลิตภาพได้เพียง 12% และแนะให้ปรับระบบงานและเร่งอัปสกิลบุคลากร",
-   "title_en": "Santitarn: Thai firms gain only 12% productivity from AI",
-   "summary_en": "Santitarn says Thai businesses have raised productivity by only 12% using AI and recommends reworking workflows and accelerating upskilling.",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wSGYtclU1azM4S25xU256VTdVSW5iTVR3WnpkOFY0TVJwRGFROHRPcDlmcEZ3ampCZkZveFNzaG5EUXNYR3QzbGMtNGxjeVBVcUlz?oc=5",
-   "source": "ข่าวหุ้นธุรกิจออนไลน์"
-  }
- ]
+  "generated": "2026-11-27T06:42:06+07:00",
+  "model": "claude-sonnet-5-5 (routine)",
+  "items": [
+    {
+      "title_th": "Nvidia ระงับส่งเซิร์ฟเวอร์ AI ไปมาเลเซีย สิงคโปร์ ไทย และอินโดนีเซีย",
+      "summary_th": "Nvidia แจ้งพันธมิตรผู้ผลิตให้ชะลอการส่งเซิร์ฟเวอร์ไปยัง 4 ประเทศ ขณะที่สหรัฐฯ เข้มงวดการป้องกันไม่ให้ชิป AI ไปถึงจีน กระทบแผนศูนย์ข้อมูลในไทย",
+      "title_en": "Nvidia pauses chip shipments to Southeast Asia",
+      "summary_en": "Nvidia told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens efforts to keep AI chips out of China, which may affect Thai data center plans.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch"
+    },
+    {
+      "title_th": "Ubisoft ถูกรายงานว่าให้ทีมพัฒนาเกมต้องชี้แจงเหตุผลหากไม่ใช้ generative AI",
+      "summary_th": "มีรายงานว่านักพัฒนาของ Ubisoft ต้องอธิบายเมื่อเสนอโปรเจกต์โดยไม่ใช้ generative AI ด้าน Ubisoft ระบุว่าสนับสนุนให้ลองใช้แต่ไม่บังคับ",
+      "title_en": "Ubisoft developers reportedly must justify not using generative AI in game pitches",
+      "summary_en": "Developers at Ubisoft reportedly have to explain why they are not using generative AI when pitching projects; Ubisoft says it encourages exploring AI but does not require it.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZy1tTmloQWNNS3Btdm5mMmNhdzNlb0Z1VUo3REs1SzVoMFpINTJHeTlpLUVSVVpuSWF3NldQU2YtN2QwUF82eWVMYlJXRHpBS3pGSkhNbFpnb0t3bTE1T3g5S291SlNsZzVaQTg2MmlUR1hJWmIzdUQ4OWZvejd2ZEF1LWpQRVlfUHIwcmtQV3UwNHF2WWppajN0UGRJOXBFbjB3dVNESXdmcWQ3QTE4V05vaGo4LXcxUEdLelUzYS1QVndFbVdvQkpfbENiakdNTjNoTFpjb24wZw?oc=5",
+      "source": "TweakTown"
+    },
+    {
+      "title_th": "Anthropic เข้าตลาดหลักทรัพย์ในวันเดียวกับที่ GTA VI เปิดตัว",
+      "summary_th": "TechCrunch รายงานว่า Anthropic เข้าซื้อขายในตลาดสาธารณะในวันเดียวกับที่เกม Grand Theft Auto VI เปิดตัว",
+      "title_en": "Anthropic enters the public market on the day GTA VI launches",
+      "summary_en": "TechCrunch reports Anthropic entered the public market on the same day Grand Theft Auto VI launched.",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch"
+    },
+    {
+      "title_th": "Steam จัดเทศกาลเกมที่ต้องพิสูจน์ว่าไม่ได้ใช้ generative AI",
+      "summary_th": "เทศกาลใหม่บน Steam กำหนดให้ผู้พัฒนาแสดงหลักฐานว่าเกมสร้างโดยไม่ใช้ generative AI สะท้อนแรงต้านการใช้ AI ในวงการเกม",
+      "title_en": "New Steam festival demands proof games were made without generative AI",
+      "summary_en": "A new Steam festival requires developers to show proof that games were made without generative AI, reflecting pushback against AI in game making.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSTZobThwYV8wR0hHSVZVYXBhQ3FZSDVCa0xHRTR5bVpkNXZNUkdrWTlHdkh0WFV0bHpVY0VnRkpMbldfTmxWSW5HSm5fcjlUa3p3ZFA0TGt4aXoyS3k5VlJGNHE2cXcwSmZGNzJkN3R5aVJfU1daVUF4OFlsWWxhcEZoSDh3dVFvd2U0dGhtZUtUSmw5QVNGbE84djFWWTdfMXQxUVQyeENCbnc3UDRZdjdwbFZCWnU2S09WZA?oc=5",
+      "source": "Notebookcheck"
+    },
+    {
+      "title_th": "Caroline Zier อดีตเจ้าหน้าที่เพนตากอน นำทีมกำหนดขอบเขตการใช้ AI ทางทหารของ OpenAI",
+      "summary_th": "Broadband Breakfast รายงานว่า Caroline Zier ซึ่งเคยทำงานที่เพนตากอน ขณะนี้ดูแลการกำหนดข้อจำกัดด้านการใช้ปัญญาประดิษฐ์ในงานทหารของ OpenAI",
+      "title_en": "Former Pentagon official Caroline Zier now leads OpenAI's limits on military AI",
+      "summary_en": "Broadband Breakfast reports that Caroline Zier, who worked at the Pentagon, now leads OpenAI's limits on military use of AI.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHNyTTBaZE5ydGtvODFGS0Jra2F2Rl9lSUlnZVAzTWJfZndkWklTTFJ3UlQ5ckk4dnhyUzBUd3d4Q3JoWDI5M2M5dEs3VzdwLWk4cnBmVjBGby1WVnVoYmpsTnozaXJyWEVjRGEtcFRMSUVKRG1vUWpmNVh0RWNMR2M5RHZJNzd6VnU3TVV6V3oxMV9FZDVZOTNkbUNzSmtENWlPdXJERXpndEM3M1JaUlozNlF4b05faC0xSg?oc=5",
+      "source": "Broadband Breakfast"
+    }
+  ]
 }
