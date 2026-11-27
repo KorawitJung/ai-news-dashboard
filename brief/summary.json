@@ -1,46 +1,46 @@
 {
-  "generated": "2026-11-27T21:09:21+07:00",
+  "generated": "2026-11-28T06:41:30+07:00",
   "model": "claude-sonnet-5-5 (routine)",
   "items": [
     {
-      "title_th": "รายงานระบุ Ubisoft ให้ทีมเกมชี้แจงเหตุผลหากไม่ใช้ generative AI",
-      "summary_th": "สื่อหลายแห่งรายงานว่าทีมพัฒนาเกมของ Ubisoft ต้องอธิบายเหตุผลเมื่อไม่ใช้ generative AI ในการเสนอโครงการ ขณะที่ Ubisoft ระบุว่าไม่ได้บังคับให้พนักงานใช้เทคโนโลยีนี้",
-      "title_en": "Ubisoft reportedly makes game teams justify leaving generative AI out",
-      "summary_en": "Several outlets report that Ubisoft game teams must explain why they leave generative AI out of project pitches, while Ubisoft says it does not force employees to use the technology.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3pvbEp1eUM2R0xSaFNwTkRSaUtUa1FKdGVmVklxdnB4OHF1cXdYMGhwYmV2Sm9BdGZ0aUI4c3FfVWNzXzBXbWRJQTBoN2F4blp3MlNMWks3ZnpVUHdlbG8tMGVUN3R0S2U4d0NWTkZ5cXR1Wm54MnZUb2Jia3BUZG10cnVPUEc0dE1La2dfVXJkYWpqLXZMSkdZYl82QQ?oc=5",
-      "source": "Startup Fortune"
-    },
-    {
-      "title_th": "โรงเรียนในลอสแอนเจลิสปิดฟีเจอร์ AI ของ Google ท่ามกลางข้อกังวลด้านการศึกษา",
-      "summary_th": "เขตโรงเรียนลอสแอนเจลิสบล็อกฟีเจอร์ AI ในระบบค้นหาของ Google ขณะที่ Google ถูกรายงานว่าขู่ตัดการเข้าถึงการค้นหาของโรงเรียน",
+      "title_th": "LA บล็อกฟีเจอร์ AI ในการค้นหาของ Google ในโรงเรียน ท่ามกลางแรงกดดันจาก Google",
+      "summary_th": "โรงเรียนในลอสแอนเจลิสปิดฟีเจอร์ AI ในระบบค้นหาของ Google ขณะที่ Google ถูกรายงานว่าขู่จะตัดการเข้าถึงการค้นหาของโรงเรียน ประเด็นนี้สะท้อนความกังวลเรื่องการใช้ AI ในการศึกษา",
       "title_en": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
-      "summary_en": "Los Angeles schools have disabled Google's AI search features, while Google is reported to be threatening to cut schools' search access.",
+      "summary_en": "Los Angeles schools have disabled AI features in Google Search while Google reportedly threatens to cut schools' search access, reflecting concern over AI in education.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX28yVGlpUUl3UEpZMGJaTDRFbXBWR09uX1diWWotVXFuQ2JOTDlZRVVCUXRtN3FyUUNzczI2SG9sTXZXanlELUZfYU1YTHZ3enQ1NUoyUGU4NmwzNzJYV3l5ZjM0cHF0NHlhMDl2R3gwaWROaHREY3Zrd3BBd2hHd202WnFqWTJwSF9pSThfUk5wRV9TQkdBVC1zc09hbHh6M1BVVHJ5MUdmc2JzQmJ2YUJLaEkzSGJXNHc?oc=5",
       "source": "AP News"
     },
     {
-      "title_th": "NVIDIA ชะลอส่งออกชิป AI กระทบแผน Data Center ในไทย",
-      "summary_th": "สหรัฐฯ คุมเข้มการส่งออกชิป AI ขั้นสูงเพื่อสกัดไม่ให้บริษัทจีนเช่าพลังประมวลผลผ่าน Data Center ซึ่งสื่อไทยวิเคราะห์ว่ากระทบแผนและหุ้นกลุ่ม Data Center ของไทย",
-      "title_en": "Nvidia pauses AI chip shipments, shaking Thai data center plans",
-      "summary_en": "The US has tightened export controls on advanced AI chips to stop Chinese firms renting compute via data centers; Thai media are assessing the impact on Thai data center plans and stocks.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wOVd5bzlQaU1pd2p0M2ZITlJHaWNxbWotaUdRWGJTbEM3NzVqZ3YxTUk5OVhsTTEtdXZod19WXzFuSGYwd2VybVJPSmR6TFBRMzF1cF9DS3ppS0FNUnZZcA?oc=5",
-      "source": "ผู้จัดการออนไลน์"
+      "title_th": "Nvidia ระงับส่งออก 'เซิร์ฟเวอร์ AI' จับตาผลต่อหุ้น Data Center ไทย",
+      "summary_th": "รายการของกรุงเทพธุรกิจตั้งคำถามว่า การที่ Nvidia ระงับส่งออกเซิร์ฟเวอร์ AI จะกระทบหุ้นกลุ่ม Data Center ของไทยหรือไม่",
+      "title_en": "Nvidia suspends AI server exports; Thai data center stocks in focus",
+      "summary_en": "A Krungthep Turakij program asks whether Nvidia's suspension of AI server exports will affect Thai data center stocks.",
+      "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPc1NBTGxOb24xWGdhNXJsdWJFX1Y4M3gxdjU0UzFVNF9vc2hSVVlyNUxrRW9CWUxrNFFWMDFWeGR1OXM5dWxjWnQycjNwQ1dKd3JUWm5Sd3o4QUxBX2hDU3pWSE9CanB2MU5yMWRjM3MtSnVpdGp3NF9KcDVGY1A4V3BRRmZlNDNBSGxZN285d1ROUV9uYnlrLWtBMXgtZlM0UUR0SF9PU1NtUVc1NVl6ZDRGZ3dUcGlhNFpjMWd0U05PbzdERnRhZTlRZjNmOHFWVnYwOUVZWlo4aXA0WHEtTzZvN2dWaTBVMFplNnZ3ajBDRlJqWS1MY18tM1dmR1dPT2hNaFdXNVdDYXVnaUUtamktRzZxQXc4clNGNjFGZ2tEX1ZfcE15bWpRejNfTjl2ZVdvaUdxVktnMGtxamI1YnZLS1dfZDBmemRKY0tsNTRUalFmVWh2cG85dVJkWU5LMS11VzVFTGdkcVA4NVpmMVlkczhZNE1ULUJTNmp4Sjc4UkZtclRIbUo2NFJFa0R5TkJIQXZJSHJXaFZtYU1icE15eGRwZ2dvNjYyc01tck1Pc1lCbFBHNlFYY0h2bmZqaElmdVp6Nk1uYWYzUEdCZU1OaGdLeF9lcmdzeklKSHUzMV9rV1dNVi1IRlhPOG5rSUQ4Z1FKbnZrOWEwLXI5TXVPSzJMSHFnTzFSUmoxTDJGdHY3N1FkX3hrWGFoNDBhU0FGWjhFRFVFWGZHblNqbTBuY0ZTQU9wdzVHYThBVUdmVlpKczdjc2ptTXV3WU8yeTEwckdB?oc=5",
+      "source": "Facebook"
     },
     {
-      "title_th": "หุ้น AI ผันผวนหนัก นักวิเคราะห์ชี้ยังไม่ใช่สัญญาณฟองสบู่แตก",
-      "summary_th": "K WEALTH และ Lombard Odier มองว่าความผันผวนของหุ้น AI ไม่ใช่สัญญาณฟองสบู่แตก และแนะนำให้โฟกัสธุรกิจที่สร้างกำไรจริง",
-      "title_en": "AI stocks swing sharply; analysts say it is not a bubble-burst signal",
-      "summary_en": "K WEALTH and Lombard Odier say the volatility in AI stocks is not a sign the bubble is bursting and advise focusing on businesses with real profits.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EbjVkbm1EQktSd0JxZDFOaDJ0bHNCbXh5c0VEQ1gxRTJOMTJIYU44aFFDWUVZa1hvTFhNalozQUlRaXdLZGlVQWFzSEZfN05lZnJiZlpiYXBhMzY0Y1I2SEswbDJpc1U5RWc?oc=5",
-      "source": "thairath.co.th"
+      "title_th": "AI Data Center ขนาด 1 GW ต้องใช้ SMR กี่เครื่อง",
+      "summary_th": "ฐานเศรษฐกิจวิเคราะห์โจทย์พลังงานของยุค AI ว่าศูนย์ข้อมูลขนาด 1 GW ต้องใช้เครื่องปฏิกรณ์นิวเคลียร์ขนาดเล็ก (SMR) กี่เครื่อง",
+      "title_en": "How many SMRs does a 1 GW AI data center need?",
+      "summary_en": "Thansettakij examines the energy question of the AI era: how many small modular reactors (SMRs) a 1 GW data center would require.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFMnB4M2tjNEJ2ZXZULWpBMkhoZ2UzRC00cjhoR3VNT2lKNXpVeFNrLU5TZ2MxNGs3V0JBU2g2VTY1MVV1clhjTmdSdnNvZmJkQUR5XzVORWNWMXg2NEJFcFhBT3AwaG9uWWZZeThMSmwxbEhB?oc=5",
+      "source": "Thansettakij"
     },
     {
-      "title_th": "สิงคโปร์วางรากฐานการเงินยุค AI ตั้งแต่สกัดมิจฉาชีพถึง Agent ทำธุรกรรม",
-      "summary_th": "สิงคโปร์วางแนวทางการเงินยุค AI ตั้งแต่การสกัดมิจฉาชีพ ไปจนถึงระบบที่ AI Agent ทำธุรกรรมได้ภายใต้การควบคุม",
-      "title_en": "Singapore lays groundwork for AI-era finance, from scam prevention to controlled agent transactions",
-      "summary_en": "Singapore is building foundations for AI-era finance, from stopping scammers to systems where AI agents can transact under oversight.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSGExcUtYRDZFV2pDeWtmRDRWZ0g2T014VW4wMzRjN3hyUEtXMDhSaXJtbnJVbkxqMTNZdGNWNUQ4Z3hNQVZXZHJzck5jMnZkYnpmOW9JSEF2YmlMX3dBYWZDTW9sOVFueWNCeHZHWGkxRndsendrRmRwNjBIT2ZlNkdXdUYwdVRVMjluUHk4U0loUQ?oc=5",
-      "source": "Techsauce"
+      "title_th": "การ์ทเนอร์คาด AI สร้างงาน 10 ล้านตำแหน่งในอีก 4 ปี",
+      "summary_th": "บิสนิวส์รายงานว่าการ์ทเนอร์คาดว่า AI จะพลิกตลาดแรงงานและสร้างงานราว 10 ล้านตำแหน่งในอีก 4 ปี",
+      "title_en": "Gartner expects AI to create 10 million jobs in four years",
+      "summary_en": "Bangkok Biz News reports that Gartner expects AI to reshape the labor market and create about 10 million jobs within four years.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IU0FCQlRVSjRnbTRPcXRxa2ttV2F4VHpZUmlOQ1BQckZpM1p6M1ZrQnVkLUFUZVdBcHZBQjA4ekJHa2NEYVpvVGJPcFIyMUpKek5aLVJvZmtIZw?oc=5",
+      "source": "bangkokbiznews"
+    },
+    {
+      "title_th": "CCS เตือน AI อาจทำให้ธุรกิจฮั้วราคาและหลอกผู้บริโภค",
+      "summary_th": "CCS เตือนว่า AI อาจถูกใช้ให้ธุรกิจฮั้วราคากันและหลอกลวงผู้บริโภค",
+      "title_en": "CCS warns AI could enable price collusion and consumer deception",
+      "summary_en": "CCS warns that AI could lead businesses to collude on prices and deceive consumers.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BVXpTOGxfQktuVUh1ejlxMkZiZTNIRllmNi14WjV0cFVIQ0lId05yWm1JcE4tZ09FdHdQS21BbExQclppQm5HOVlUd0JSbGFIWGpncjJDS1RGUkJER1BXSlVMNk84WkFQ?oc=5",
+      "source": "TheReporterAsia"
     }
   ]
 }
