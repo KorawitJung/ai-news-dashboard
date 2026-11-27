@@ -1,46 +1,46 @@
 {
-  "generated": "2026-11-27T06:42:06+07:00",
+  "generated": "2026-11-27T21:09:21+07:00",
   "model": "claude-sonnet-5-5 (routine)",
   "items": [
     {
-      "title_th": "Nvidia ระงับส่งเซิร์ฟเวอร์ AI ไปมาเลเซีย สิงคโปร์ ไทย และอินโดนีเซีย",
-      "summary_th": "Nvidia แจ้งพันธมิตรผู้ผลิตให้ชะลอการส่งเซิร์ฟเวอร์ไปยัง 4 ประเทศ ขณะที่สหรัฐฯ เข้มงวดการป้องกันไม่ให้ชิป AI ไปถึงจีน กระทบแผนศูนย์ข้อมูลในไทย",
-      "title_en": "Nvidia pauses chip shipments to Southeast Asia",
-      "summary_en": "Nvidia told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens efforts to keep AI chips out of China, which may affect Thai data center plans.",
-      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "source": "TechCrunch"
+      "title_th": "รายงานระบุ Ubisoft ให้ทีมเกมชี้แจงเหตุผลหากไม่ใช้ generative AI",
+      "summary_th": "สื่อหลายแห่งรายงานว่าทีมพัฒนาเกมของ Ubisoft ต้องอธิบายเหตุผลเมื่อไม่ใช้ generative AI ในการเสนอโครงการ ขณะที่ Ubisoft ระบุว่าไม่ได้บังคับให้พนักงานใช้เทคโนโลยีนี้",
+      "title_en": "Ubisoft reportedly makes game teams justify leaving generative AI out",
+      "summary_en": "Several outlets report that Ubisoft game teams must explain why they leave generative AI out of project pitches, while Ubisoft says it does not force employees to use the technology.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3pvbEp1eUM2R0xSaFNwTkRSaUtUa1FKdGVmVklxdnB4OHF1cXdYMGhwYmV2Sm9BdGZ0aUI4c3FfVWNzXzBXbWRJQTBoN2F4blp3MlNMWks3ZnpVUHdlbG8tMGVUN3R0S2U4d0NWTkZ5cXR1Wm54MnZUb2Jia3BUZG10cnVPUEc0dE1La2dfVXJkYWpqLXZMSkdZYl82QQ?oc=5",
+      "source": "Startup Fortune"
     },
     {
-      "title_th": "Ubisoft ถูกรายงานว่าให้ทีมพัฒนาเกมต้องชี้แจงเหตุผลหากไม่ใช้ generative AI",
-      "summary_th": "มีรายงานว่านักพัฒนาของ Ubisoft ต้องอธิบายเมื่อเสนอโปรเจกต์โดยไม่ใช้ generative AI ด้าน Ubisoft ระบุว่าสนับสนุนให้ลองใช้แต่ไม่บังคับ",
-      "title_en": "Ubisoft developers reportedly must justify not using generative AI in game pitches",
-      "summary_en": "Developers at Ubisoft reportedly have to explain why they are not using generative AI when pitching projects; Ubisoft says it encourages exploring AI but does not require it.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZy1tTmloQWNNS3Btdm5mMmNhdzNlb0Z1VUo3REs1SzVoMFpINTJHeTlpLUVSVVpuSWF3NldQU2YtN2QwUF82eWVMYlJXRHpBS3pGSkhNbFpnb0t3bTE1T3g5S291SlNsZzVaQTg2MmlUR1hJWmIzdUQ4OWZvejd2ZEF1LWpQRVlfUHIwcmtQV3UwNHF2WWppajN0UGRJOXBFbjB3dVNESXdmcWQ3QTE4V05vaGo4LXcxUEdLelUzYS1QVndFbVdvQkpfbENiakdNTjNoTFpjb24wZw?oc=5",
-      "source": "TweakTown"
+      "title_th": "โรงเรียนในลอสแอนเจลิสปิดฟีเจอร์ AI ของ Google ท่ามกลางข้อกังวลด้านการศึกษา",
+      "summary_th": "เขตโรงเรียนลอสแอนเจลิสบล็อกฟีเจอร์ AI ในระบบค้นหาของ Google ขณะที่ Google ถูกรายงานว่าขู่ตัดการเข้าถึงการค้นหาของโรงเรียน",
+      "title_en": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
+      "summary_en": "Los Angeles schools have disabled Google's AI search features, while Google is reported to be threatening to cut schools' search access.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX28yVGlpUUl3UEpZMGJaTDRFbXBWR09uX1diWWotVXFuQ2JOTDlZRVVCUXRtN3FyUUNzczI2SG9sTXZXanlELUZfYU1YTHZ3enQ1NUoyUGU4NmwzNzJYV3l5ZjM0cHF0NHlhMDl2R3gwaWROaHREY3Zrd3BBd2hHd202WnFqWTJwSF9pSThfUk5wRV9TQkdBVC1zc09hbHh6M1BVVHJ5MUdmc2JzQmJ2YUJLaEkzSGJXNHc?oc=5",
+      "source": "AP News"
     },
     {
-      "title_th": "Anthropic เข้าตลาดหลักทรัพย์ในวันเดียวกับที่ GTA VI เปิดตัว",
-      "summary_th": "TechCrunch รายงานว่า Anthropic เข้าซื้อขายในตลาดสาธารณะในวันเดียวกับที่เกม Grand Theft Auto VI เปิดตัว",
-      "title_en": "Anthropic enters the public market on the day GTA VI launches",
-      "summary_en": "TechCrunch reports Anthropic entered the public market on the same day Grand Theft Auto VI launched.",
-      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-      "source": "TechCrunch"
+      "title_th": "NVIDIA ชะลอส่งออกชิป AI กระทบแผน Data Center ในไทย",
+      "summary_th": "สหรัฐฯ คุมเข้มการส่งออกชิป AI ขั้นสูงเพื่อสกัดไม่ให้บริษัทจีนเช่าพลังประมวลผลผ่าน Data Center ซึ่งสื่อไทยวิเคราะห์ว่ากระทบแผนและหุ้นกลุ่ม Data Center ของไทย",
+      "title_en": "Nvidia pauses AI chip shipments, shaking Thai data center plans",
+      "summary_en": "The US has tightened export controls on advanced AI chips to stop Chinese firms renting compute via data centers; Thai media are assessing the impact on Thai data center plans and stocks.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wOVd5bzlQaU1pd2p0M2ZITlJHaWNxbWotaUdRWGJTbEM3NzVqZ3YxTUk5OVhsTTEtdXZod19WXzFuSGYwd2VybVJPSmR6TFBRMzF1cF9DS3ppS0FNUnZZcA?oc=5",
+      "source": "ผู้จัดการออนไลน์"
     },
     {
-      "title_th": "Steam จัดเทศกาลเกมที่ต้องพิสูจน์ว่าไม่ได้ใช้ generative AI",
-      "summary_th": "เทศกาลใหม่บน Steam กำหนดให้ผู้พัฒนาแสดงหลักฐานว่าเกมสร้างโดยไม่ใช้ generative AI สะท้อนแรงต้านการใช้ AI ในวงการเกม",
-      "title_en": "New Steam festival demands proof games were made without generative AI",
-      "summary_en": "A new Steam festival requires developers to show proof that games were made without generative AI, reflecting pushback against AI in game making.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSTZobThwYV8wR0hHSVZVYXBhQ3FZSDVCa0xHRTR5bVpkNXZNUkdrWTlHdkh0WFV0bHpVY0VnRkpMbldfTmxWSW5HSm5fcjlUa3p3ZFA0TGt4aXoyS3k5VlJGNHE2cXcwSmZGNzJkN3R5aVJfU1daVUF4OFlsWWxhcEZoSDh3dVFvd2U0dGhtZUtUSmw5QVNGbE84djFWWTdfMXQxUVQyeENCbnc3UDRZdjdwbFZCWnU2S09WZA?oc=5",
-      "source": "Notebookcheck"
+      "title_th": "หุ้น AI ผันผวนหนัก นักวิเคราะห์ชี้ยังไม่ใช่สัญญาณฟองสบู่แตก",
+      "summary_th": "K WEALTH และ Lombard Odier มองว่าความผันผวนของหุ้น AI ไม่ใช่สัญญาณฟองสบู่แตก และแนะนำให้โฟกัสธุรกิจที่สร้างกำไรจริง",
+      "title_en": "AI stocks swing sharply; analysts say it is not a bubble-burst signal",
+      "summary_en": "K WEALTH and Lombard Odier say the volatility in AI stocks is not a sign the bubble is bursting and advise focusing on businesses with real profits.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EbjVkbm1EQktSd0JxZDFOaDJ0bHNCbXh5c0VEQ1gxRTJOMTJIYU44aFFDWUVZa1hvTFhNalozQUlRaXdLZGlVQWFzSEZfN05lZnJiZlpiYXBhMzY0Y1I2SEswbDJpc1U5RWc?oc=5",
+      "source": "thairath.co.th"
     },
     {
-      "title_th": "Caroline Zier อดีตเจ้าหน้าที่เพนตากอน นำทีมกำหนดขอบเขตการใช้ AI ทางทหารของ OpenAI",
-      "summary_th": "Broadband Breakfast รายงานว่า Caroline Zier ซึ่งเคยทำงานที่เพนตากอน ขณะนี้ดูแลการกำหนดข้อจำกัดด้านการใช้ปัญญาประดิษฐ์ในงานทหารของ OpenAI",
-      "title_en": "Former Pentagon official Caroline Zier now leads OpenAI's limits on military AI",
-      "summary_en": "Broadband Breakfast reports that Caroline Zier, who worked at the Pentagon, now leads OpenAI's limits on military use of AI.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHNyTTBaZE5ydGtvODFGS0Jra2F2Rl9lSUlnZVAzTWJfZndkWklTTFJ3UlQ5ckk4dnhyUzBUd3d4Q3JoWDI5M2M5dEs3VzdwLWk4cnBmVjBGby1WVnVoYmpsTnozaXJyWEVjRGEtcFRMSUVKRG1vUWpmNVh0RWNMR2M5RHZJNzd6VnU3TVV6V3oxMV9FZDVZOTNkbUNzSmtENWlPdXJERXpndEM3M1JaUlozNlF4b05faC0xSg?oc=5",
-      "source": "Broadband Breakfast"
+      "title_th": "สิงคโปร์วางรากฐานการเงินยุค AI ตั้งแต่สกัดมิจฉาชีพถึง Agent ทำธุรกรรม",
+      "summary_th": "สิงคโปร์วางแนวทางการเงินยุค AI ตั้งแต่การสกัดมิจฉาชีพ ไปจนถึงระบบที่ AI Agent ทำธุรกรรมได้ภายใต้การควบคุม",
+      "title_en": "Singapore lays groundwork for AI-era finance, from scam prevention to controlled agent transactions",
+      "summary_en": "Singapore is building foundations for AI-era finance, from stopping scammers to systems where AI agents can transact under oversight.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSGExcUtYRDZFV2pDeWtmRDRWZ0g2T014VW4wMzRjN3hyUEtXMDhSaXJtbnJVbkxqMTNZdGNWNUQ4Z3hNQVZXZHJzck5jMnZkYnpmOW9JSEF2YmlMX3dBYWZDTW9sOVFueWNCeHZHWGkxRndsendrRmRwNjBIT2ZlNkdXdUYwdVRVMjluUHk4U0loUQ?oc=5",
+      "source": "Techsauce"
     }
   ]
 }
