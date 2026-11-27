@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T21:08:41+07:00",
+ "generated": "2026-11-27T21:09:44+07:00",
  "articles": [
   {
    "title": "Ubisoft reportedly makes game teams justify leaving generative AI out",
@@ -250,6 +250,14 @@
    "published": "2026-11-27T10:12:43+00:00"
   },
   {
+   "title": "European Workers’ AI Use on Par With That of US Peers, ECB Says",
+   "source": "Bloomberg Law News",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMlZFeFg2cnpiT3RZSnAyMXlJS1B3bXhoOEZBellBRWxtZTdEWkIteFAyVU5palVCLU05cHlpU0dneWtkTXJxcnhLcmp4R0dqWEYtemJfTEFGX0FfQ0RrRVNmRmJkNkhVT29zdXdHOWNVUGkxVlY4dW1XYmtvUzdwNmp3RThlYW1xeE9MRHpFSFZmTUV0OUdnMlZRMEtrVV9CTGZtQVR1Z1VHaFNheDNORkRtM2JjZw?oc=5",
+   "coverage": 1,
+   "published": "2026-11-27T10:00:00+00:00"
+  },
+  {
    "title": "Warnings issued regarding potential repercussions of an artificial intelligence bubble",
    "source": "WJournalpr",
    "summary": "",
@@ -312,21 +320,13 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02UTlRai1RbDQxTnVmdUdNR19QdGJQbTlqcnhmMXVTMDBON2xiUDZPRUhFUW5aYm0yQkpYLUJDT0lULVQ0NjRrdUNvSVlJTlVidFR0UlZn?oc=5",
    "coverage": 1,
    "published": "2026-11-27T08:31:26+00:00"
-  },
-  {
-   "title": "Generative AI Fintech Romania: Budget and Rollout Plan",
-   "source": "Global Advisory Experts",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ091Nk9NNzlJV1ZWalkzdU9HaDBId1ppZVJDeE9aR2xUWFBndDk3WU81OG9YdUk1elJDWk1OVi1vbXFzTGRKeU53aDMyLTktRlFnQUZ2U0VUSmF3dnpHbG95a0tSX002czN5cTkwWWNEYk5xRW5VcTN3WlJmaUM3WGxwM0lDX05tQ0h6WHZKbUg5Zm5iOWhQdGZReHJTVm1Oakx3THdB?oc=5",
-   "coverage": 1,
-   "published": "2026-11-27T08:24:27+00:00"
   }
  ],
  "brief_urls": [
-  "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZy1tTmloQWNNS3Btdm5mMmNhdzNlb0Z1VUo3REs1SzVoMFpINTJHeTlpLUVSVVpuSWF3NldQU2YtN2QwUF82eWVMYlJXRHpBS3pGSkhNbFpnb0t3bTE1T3g5S291SlNsZzVaQTg2MmlUR1hJWmIzdUQ4OWZvejd2ZEF1LWpQRVlfUHIwcmtQV3UwNHF2WWppajN0UGRJOXBFbjB3dVNESXdmcWQ3QTE4V05vaGo4LXcxUEdLelUzYS1QVndFbVdvQkpfbENiakdNTjNoTFpjb24wZw?oc=5",
-  "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSTZobThwYV8wR0hHSVZVYXBhQ3FZSDVCa0xHRTR5bVpkNXZNUkdrWTlHdkh0WFV0bHpVY0VnRkpMbldfTmxWSW5HSm5fcjlUa3p3ZFA0TGt4aXoyS3k5VlJGNHE2cXcwSmZGNzJkN3R5aVJfU1daVUF4OFlsWWxhcEZoSDh3dVFvd2U0dGhtZUtUSmw5QVNGbE84djFWWTdfMXQxUVQyeENCbnc3UDRZdjdwbFZCWnU2S09WZA?oc=5",
-  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHNyTTBaZE5ydGtvODFGS0Jra2F2Rl9lSUlnZVAzTWJfZndkWklTTFJ3UlQ5ckk4dnhyUzBUd3d4Q3JoWDI5M2M5dEs3VzdwLWk4cnBmVjBGby1WVnVoYmpsTnozaXJyWEVjRGEtcFRMSUVKRG1vUWpmNVh0RWNMR2M5RHZJNzd6VnU3TVV6V3oxMV9FZDVZOTNkbUNzSmtENWlPdXJERXpndEM3M1JaUlozNlF4b05faC0xSg?oc=5"
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxON3pvbEp1eUM2R0xSaFNwTkRSaUtUa1FKdGVmVklxdnB4OHF1cXdYMGhwYmV2Sm9BdGZ0aUI4c3FfVWNzXzBXbWRJQTBoN2F4blp3MlNMWks3ZnpVUHdlbG8tMGVUN3R0S2U4d0NWTkZ5cXR1Wm54MnZUb2Jia3BUZG10cnVPUEc0dE1La2dfVXJkYWpqLXZMSkdZYl82QQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX28yVGlpUUl3UEpZMGJaTDRFbXBWR09uX1diWWotVXFuQ2JOTDlZRVVCUXRtN3FyUUNzczI2SG9sTXZXanlELUZfYU1YTHZ3enQ1NUoyUGU4NmwzNzJYV3l5ZjM0cHF0NHlhMDl2R3gwaWROaHREY3Zrd3BBd2hHd202WnFqWTJwSF9pSThfUk5wRV9TQkdBVC1zc09hbHh6M1BVVHJ5MUdmc2JzQmJ2YUJLaEkzSGJXNHc?oc=5",
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wOVd5bzlQaU1pd2p0M2ZITlJHaWNxbWotaUdRWGJTbEM3NzVqZ3YxTUk5OVhsTTEtdXZod19WXzFuSGYwd2VybVJPSmR6TFBRMzF1cF9DS3ppS0FNUnZZcA?oc=5",
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EbjVkbm1EQktSd0JxZDFOaDJ0bHNCbXh5c0VEQ1gxRTJOMTJIYU44aFFDWUVZa1hvTFhNalozQUlRaXdLZGlVQWFzSEZfN05lZnJiZlpiYXBhMzY0Y1I2SEswbDJpc1U5RWc?oc=5",
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSGExcUtYRDZFV2pDeWtmRDRWZ0g2T014VW4wMzRjN3hyUEtXMDhSaXJtbnJVbkxqMTNZdGNWNUQ4Z3hNQVZXZHJzck5jMnZkYnpmOW9JSEF2YmlMX3dBYWZDTW9sOVFueWNCeHZHWGkxRndsendrRmRwNjBIT2ZlNkdXdUYwdVRVMjluUHk4U0loUQ?oc=5"
  ]
 }
