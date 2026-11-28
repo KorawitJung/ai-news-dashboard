@@ -1,46 +1,46 @@
 {
-  "generated": "2026-11-28T06:41:30+07:00",
+  "generated": "2026-11-28T21:09:13+07:00",
   "model": "claude-sonnet-5-5 (routine)",
   "items": [
     {
-      "title_th": "LA บล็อกฟีเจอร์ AI ในการค้นหาของ Google ในโรงเรียน ท่ามกลางแรงกดดันจาก Google",
-      "summary_th": "โรงเรียนในลอสแอนเจลิสปิดฟีเจอร์ AI ในระบบค้นหาของ Google ขณะที่ Google ถูกรายงานว่าขู่จะตัดการเข้าถึงการค้นหาของโรงเรียน ประเด็นนี้สะท้อนความกังวลเรื่องการใช้ AI ในการศึกษา",
-      "title_en": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
-      "summary_en": "Los Angeles schools have disabled AI features in Google Search while Google reportedly threatens to cut schools' search access, reflecting concern over AI in education.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX28yVGlpUUl3UEpZMGJaTDRFbXBWR09uX1diWWotVXFuQ2JOTDlZRVVCUXRtN3FyUUNzczI2SG9sTXZXanlELUZfYU1YTHZ3enQ1NUoyUGU4NmwzNzJYV3l5ZjM0cHF0NHlhMDl2R3gwaWROaHREY3Zrd3BBd2hHd202WnFqWTJwSF9pSThfUk5wRV9TQkdBVC1zc09hbHh6M1BVVHJ5MUdmc2JzQmJ2YUJLaEkzSGJXNHc?oc=5",
-      "source": "AP News"
+      "title_th": "NVIDIA ระงับส่งเซิร์ฟเวอร์ AI ให้ไทย ผู้ให้ข้อมูลชี้กระทบระยะสั้น",
+      "summary_th": "ผู้จัดการออนไลน์รายงานว่า NVIDIA ระงับการส่งเซิร์ฟเวอร์ AI ให้ไทย ขณะที่ “ท็อป” ระบุว่ากระทบเพียงระยะสั้น และมองเป็นโอกาสสร้างอุตสาหกรรมผลิตชิปในประเทศ",
+      "title_en": "NVIDIA halts AI server shipments to Thailand; Top says impact is short-term",
+      "summary_en": "Manager Online reports NVIDIA has suspended AI server shipments to Thailand. “Top” says the impact is short-term and sees a chance to build a domestic chip industry.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OSXZWX2NYTHd3dnpmaG84SnIwVmg1NFN5MENtSDBGQmxFdjR1WGNmZnBmM0g2VWN0QmN3N09hVHRta205eHl4aXAzSEgwd1M3MzNFdHNld1dRZGFLLUZuQw?oc=5",
+      "source": "ผู้จัดการออนไลน์"
     },
     {
-      "title_th": "Nvidia ระงับส่งออก 'เซิร์ฟเวอร์ AI' จับตาผลต่อหุ้น Data Center ไทย",
-      "summary_th": "รายการของกรุงเทพธุรกิจตั้งคำถามว่า การที่ Nvidia ระงับส่งออกเซิร์ฟเวอร์ AI จะกระทบหุ้นกลุ่ม Data Center ของไทยหรือไม่",
-      "title_en": "Nvidia suspends AI server exports; Thai data center stocks in focus",
-      "summary_en": "A Krungthep Turakij program asks whether Nvidia's suspension of AI server exports will affect Thai data center stocks.",
-      "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPc1NBTGxOb24xWGdhNXJsdWJFX1Y4M3gxdjU0UzFVNF9vc2hSVVlyNUxrRW9CWUxrNFFWMDFWeGR1OXM5dWxjWnQycjNwQ1dKd3JUWm5Sd3o4QUxBX2hDU3pWSE9CanB2MU5yMWRjM3MtSnVpdGp3NF9KcDVGY1A4V3BRRmZlNDNBSGxZN285d1ROUV9uYnlrLWtBMXgtZlM0UUR0SF9PU1NtUVc1NVl6ZDRGZ3dUcGlhNFpjMWd0U05PbzdERnRhZTlRZjNmOHFWVnYwOUVZWlo4aXA0WHEtTzZvN2dWaTBVMFplNnZ3ajBDRlJqWS1MY18tM1dmR1dPT2hNaFdXNVdDYXVnaUUtamktRzZxQXc4clNGNjFGZ2tEX1ZfcE15bWpRejNfTjl2ZVdvaUdxVktnMGtxamI1YnZLS1dfZDBmemRKY0tsNTRUalFmVWh2cG85dVJkWU5LMS11VzVFTGdkcVA4NVpmMVlkczhZNE1ULUJTNmp4Sjc4UkZtclRIbUo2NFJFa0R5TkJIQXZJSHJXaFZtYU1icE15eGRwZ2dvNjYyc01tck1Pc1lCbFBHNlFYY0h2bmZqaElmdVp6Nk1uYWYzUEdCZU1OaGdLeF9lcmdzeklKSHUzMV9rV1dNVi1IRlhPOG5rSUQ4Z1FKbnZrOWEwLXI5TXVPSzJMSHFnTzFSUmoxTDJGdHY3N1FkX3hrWGFoNDBhU0FGWjhFRFVFWGZHblNqbTBuY0ZTQU9wdzVHYThBVUdmVlpKczdjc2ptTXV3WU8yeTEwckdB?oc=5",
-      "source": "Facebook"
+      "title_th": "ThaiCERT เตือนแฮกเกอร์ใช้ AI เจาะระบบ ไทยเสี่ยงเป็นเป้าหมาย",
+      "summary_th": "ThaiCERT เตือนว่าแฮกเกอร์เริ่มใช้ AI โจมตีระบบมากขึ้น และไทยมีความเสี่ยงตกเป็นเป้าหมาย",
+      "title_en": "ThaiCERT warns hackers are using AI to breach systems, putting Thailand at risk",
+      "summary_en": "ThaiCERT warns that hackers are increasingly using AI to attack systems and that Thailand could become a target.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xcTNwTlJLN01uejFFemFQRFZMODMtNUNjcEpKVm54QndNc3RzRzh0WUdpWUJ5ZFlSVTdlMUYxVkRMejlKZHlXRU8zb0VDUFE0N0VN?oc=5",
+      "source": "posttoday"
     },
     {
-      "title_th": "AI Data Center ขนาด 1 GW ต้องใช้ SMR กี่เครื่อง",
-      "summary_th": "ฐานเศรษฐกิจวิเคราะห์โจทย์พลังงานของยุค AI ว่าศูนย์ข้อมูลขนาด 1 GW ต้องใช้เครื่องปฏิกรณ์นิวเคลียร์ขนาดเล็ก (SMR) กี่เครื่อง",
-      "title_en": "How many SMRs does a 1 GW AI data center need?",
-      "summary_en": "Thansettakij examines the energy question of the AI era: how many small modular reactors (SMRs) a 1 GW data center would require.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFMnB4M2tjNEJ2ZXZULWpBMkhoZ2UzRC00cjhoR3VNT2lKNXpVeFNrLU5TZ2MxNGs3V0JBU2g2VTY1MVV1clhjTmdSdnNvZmJkQUR5XzVORWNWMXg2NEJFcFhBT3AwaG9uWWZZeThMSmwxbEhB?oc=5",
-      "source": "Thansettakij"
+      "title_th": "ตำรวจเตือน Gen Z กลลวง AI Deepfake แนะ 4 วิธีตรวจสอบ",
+      "summary_th": "โฆษก ตร. แนะ Gen Z ใช้ 4 จุดตรวจสอบเพื่อจับกลลวง AI Deepfake หากถูกขู่ห้ามโอนเงินและให้แจ้งสายด่วน 1441 สื่อหลายแห่งรายงานเรื่องนี้",
+      "title_en": "Police warn Gen Z of AI deepfake scams, offer 4 ways to spot them",
+      "summary_en": "A police spokesperson gave Gen Z four checks for spotting AI deepfake scams and said victims threatened by scammers should not transfer money and should call 1441. Several outlets covered it.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5MHljOWdBOGJndXNlc2lBQjhfTUlDRE9qYWdRVUVESUJ5U3dSZ2k5N1lfWVBHdkhoZXZIZUx2dUdUb2VYSS0xMnRMS2Zzb0QtZGkzTm9FZXpsems4?oc=5",
+      "source": "ผู้จัดการออนไลน์"
     },
     {
-      "title_th": "การ์ทเนอร์คาด AI สร้างงาน 10 ล้านตำแหน่งในอีก 4 ปี",
-      "summary_th": "บิสนิวส์รายงานว่าการ์ทเนอร์คาดว่า AI จะพลิกตลาดแรงงานและสร้างงานราว 10 ล้านตำแหน่งในอีก 4 ปี",
-      "title_en": "Gartner expects AI to create 10 million jobs in four years",
-      "summary_en": "Bangkok Biz News reports that Gartner expects AI to reshape the labor market and create about 10 million jobs within four years.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IU0FCQlRVSjRnbTRPcXRxa2ttV2F4VHpZUmlOQ1BQckZpM1p6M1ZrQnVkLUFUZVdBcHZBQjA4ekJHa2NEYVpvVGJPcFIyMUpKek5aLVJvZmtIZw?oc=5",
-      "source": "bangkokbiznews"
+      "title_th": "AFL-CIO เรียกร้องคุ้มครองแรงงานเมื่อ AI กำหนดการจ้างงานในค้าปลีก",
+      "summary_th": "AFL-CIO เรียกร้องให้มีมาตรการคุ้มครองแรงงาน เมื่อ AI เข้ามามีบทบาทกำหนดการจ้างงานและตารางงานในธุรกิจค้าปลีก",
+      "title_en": "AFL-CIO calls for worker protections as retail AI shapes hiring and scheduling",
+      "summary_en": "The AFL-CIO is calling for worker protections as AI increasingly shapes hiring and scheduling in retail.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWdnVHJ6OVJpSVFORUM3NlFWbDludFA1UG5ua3JwYVh6S01KeHNPa25BeldoWUk1bmxPZ0stc3NZSHp4cGctUndrb2lKS1hQaVhBRDZlWHg5ODJNU2RlV0tsc2pqd1ZYTTAtNTRiQWtiXzRDZ3pSamh2ZkR0WjBSQWNYNjZycGg5M2Q3OGRqYnBpUzA2T2QweHEtbGxtY0MyRXhEM2dFVmN5LXFKUVR3Q01takRqYXUz?oc=5",
+      "source": "Bitcoin Foundation"
     },
     {
-      "title_th": "CCS เตือน AI อาจทำให้ธุรกิจฮั้วราคาและหลอกผู้บริโภค",
-      "summary_th": "CCS เตือนว่า AI อาจถูกใช้ให้ธุรกิจฮั้วราคากันและหลอกลวงผู้บริโภค",
-      "title_en": "CCS warns AI could enable price collusion and consumer deception",
-      "summary_en": "CCS warns that AI could lead businesses to collude on prices and deceive consumers.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BVXpTOGxfQktuVUh1ejlxMkZiZTNIRllmNi14WjV0cFVIQ0lId05yWm1JcE4tZ09FdHdQS21BbExQclppQm5HOVlUd0JSbGFIWGpncjJDS1RGUkJER1BXSlVMNk84WkFQ?oc=5",
-      "source": "TheReporterAsia"
+      "title_th": "CEO Sakana AI ชี้โมเดลที่พัฒนาเองในญี่ปุ่นไม่ได้เกี่ยวแค่ความมั่นคง",
+      "summary_th": "CEO ของ Sakana AI กล่าวว่าโมเดล AI ที่พัฒนาในประเทศมีเป้าหมายเสริมความสามารถในการแข่งขันของอุตสาหกรรมญี่ปุ่น ไม่ใช่เพียงเรื่องความมั่นคงของชาติ",
+      "title_en": "Sakana AI’s CEO says homegrown models are about more than Japan’s national security",
+      "summary_en": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models, its CEO says.",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "source": "TechCrunch"
     }
   ]
 }
